@@ -1,0 +1,1001 @@
+call id,customer id,product,channel,followup channel,region,language,sentiment,call duration mins,ai accuracy percent,conversion,call outcome,call time
+CALL00001,CONT00702,Voice Solution,Voice,Email,Mumbai,English,Positive,3.12,93.52,0,Connected,11-02-2026 08:29
+CALL00002,CONT00564,Voice Solution,Voice,None,Mumbai,Marathi,Positive,0.54,77.99,0,Not Connected,15-02-2026 16:53
+CALL00003,CONT00088,Voice Solution,Voice,WhatsApp,Pune,Marathi,Positive,8.9,95.22,0,Connected,11-01-2026 12:24
+CALL00004,CONT00313,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,8.32,83.44,1,Connected,08-05-2026 11:21
+CALL00005,CONT00851,Voice Solution,Voice,Email,Chennai,Tamil,Neutral,12.26,87.98,1,Connected,21-11-2025 14:40
+CALL00006,CONT00066,Voice Solution,Voice,Email,Bangalore,Marathi,Negative,6.36,84.88,0,Connected,11-02-2026 20:37
+CALL00007,CONT00662,Voice Solution,Voice,Email,Delhi,Tamil,Neutral,19.05,97.77,0,Connected,02-03-2026 18:48
+CALL00008,CONT00020,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,0.21,86,0,Not Connected,03-06-2026 08:08
+CALL00009,CONT00033,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Positive,0.9,91.11,0,Not Connected,27-01-2026 17:08
+CALL00010,CONT00840,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,6.07,91.37,0,Connected,08-02-2026 19:13
+CALL00011,CONT00793,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,1.13,82.7,0,Voicemail,01-04-2026 08:25
+CALL00012,CONT00558,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,0.62,88.02,0,Not Connected,11-03-2026 17:41
+CALL00013,CONT00073,Voice Solution,Voice,None,Delhi,Marathi,Positive,1.23,94.52,0,Connected,30-03-2026 12:10
+CALL00014,CONT00866,Voice Solution,Voice,None,Bangalore,Marathi,Neutral,4.37,84.13,1,Connected,16-07-2026 17:45
+CALL00015,CONT00825,Voice Solution,Voice,None,Delhi,Telugu,Neutral,12.03,92.64,0,Connected,11-05-2026 18:31
+CALL00016,CONT00343,Voice Solution,Voice,WhatsApp,Bangalore,English,Positive,2.7,86.84,0,Connected,10-04-2026 17:26
+CALL00017,CONT00133,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Positive,11.74,94.32,0,Connected,22-11-2025 08:01
+CALL00018,CONT00055,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Neutral,25.72,97.24,0,Connected,11-07-2026 10:32
+CALL00019,CONT00061,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,0.62,78.46,0,Not Connected,24-06-2026 13:00
+CALL00020,CONT00857,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,8.92,81.81,1,Connected,19-12-2025 20:31
+CALL00021,CONT00520,Voice Solution,Voice,Email,Mumbai,Marathi,Neutral,5.43,86.31,0,Connected,29-12-2025 11:42
+CALL00022,CONT00272,Voice Solution,Voice,None,Pune,Marathi,Neutral,1.02,95.83,0,Not Connected,19-04-2026 14:45
+CALL00023,CONT00246,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,0.76,91.16,0,Not Connected,07-05-2026 20:33
+CALL00024,CONT00176,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,12.08,82.28,0,Connected,09-05-2026 15:49
+CALL00025,CONT00628,Voice Solution,Voice,None,Hyderabad,Tamil,Negative,0.27,91.89,0,Not Connected,24-04-2026 17:27
+CALL00026,CONT00317,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,23.05,83.93,0,Connected,21-12-2025 13:43
+CALL00027,CONT00783,Voice Solution,Voice,None,Hyderabad,Kannada,Neutral,27.47,92.85,1,Connected,25-12-2025 19:25
+CALL00028,CONT00705,Voice Solution,Voice,None,Bangalore,Hindi,Positive,10.6,91.19,0,Connected,02-07-2026 10:40
+CALL00029,CONT00662,Voice Solution,Voice,None,Hyderabad,English,Positive,4.59,83.91,1,Connected,11-03-2026 13:32
+CALL00030,CONT00131,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,12.04,88.17,0,Connected,15-03-2026 13:43
+CALL00031,CONT00102,Voice Solution,Voice,Email,Pune,Kannada,Neutral,2.96,94.62,0,Connected,21-11-2025 14:29
+CALL00032,CONT00310,Voice Solution,Voice,Email,Pune,Telugu,Positive,3.59,79.04,0,Connected,16-04-2026 14:24
+CALL00033,CONT00782,Voice Solution,Voice,Email,Delhi,Telugu,Positive,16.21,90.01,1,Connected,28-01-2026 15:16
+CALL00034,CONT00292,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Negative,11.2,82.97,1,Connected,14-11-2025 09:08
+CALL00035,CONT00722,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,0.9,88.42,0,Not Connected,30-06-2026 09:56
+CALL00036,CONT00495,Voice Solution,Voice,Email,Hyderabad,Telugu,Neutral,22.72,90.79,0,Connected,23-12-2025 17:56
+CALL00037,CONT00361,Voice Solution,Voice,Email,Pune,Telugu,Neutral,10.71,98.57,0,Connected,31-01-2026 13:58
+CALL00038,CONT00338,Voice Solution,Voice,None,Hyderabad,Marathi,Negative,9.04,88.37,1,Connected,05-12-2025 18:06
+CALL00039,CONT00579,Voice Solution,Voice,None,Mumbai,Marathi,Neutral,7.28,95.83,0,Connected,25-05-2026 15:54
+CALL00040,CONT00010,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,5.11,84.3,0,Connected,20-01-2026 13:41
+CALL00041,CONT00049,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Negative,0.91,86.02,0,Not Connected,20-12-2025 08:22
+CALL00042,CONT00487,Voice Solution,Voice,None,Mumbai,Marathi,Neutral,7.02,91.44,0,Connected,02-11-2025 20:23
+CALL00043,CONT00623,Voice Solution,Voice,Email,Delhi,Hindi,Positive,2.48,89.51,0,Connected,24-12-2025 14:53
+CALL00044,CONT00321,Voice Solution,Voice,None,Pune,Telugu,Neutral,8.99,86.86,1,Connected,14-02-2026 08:05
+CALL00045,CONT00731,Voice Solution,Voice,None,Bangalore,Tamil,Positive,7.51,86.72,1,Connected,18-07-2026 09:38
+CALL00046,CONT00569,Voice Solution,Voice,WhatsApp,Mumbai,English,Negative,16.21,95.17,1,Connected,10-05-2026 11:24
+CALL00047,CONT00795,Voice Solution,Voice,None,Pune,Kannada,Positive,0.58,87.06,0,Connected,06-06-2026 11:09
+CALL00048,CONT00625,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Negative,11.8,83.4,0,Connected,14-12-2025 08:29
+CALL00049,CONT00133,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Negative,7.67,84.23,0,Connected,11-04-2026 08:40
+CALL00050,CONT00583,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,1.98,91.85,1,Connected,21-05-2026 19:04
+CALL00051,CONT00083,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,8.56,99.78,1,Connected,03-06-2026 09:28
+CALL00052,CONT00057,Voice Solution,Voice,None,Delhi,Telugu,Positive,0.99,85.88,0,Not Connected,10-07-2026 12:24
+CALL00053,CONT00376,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,4.99,99.24,1,Connected,09-05-2026 11:18
+CALL00054,CONT00349,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,0.96,88.45,0,Not Connected,01-06-2026 14:57
+CALL00055,CONT00271,Voice Solution,Voice,Email,Mumbai,Marathi,Neutral,13.05,87.1,0,Connected,27-05-2026 20:56
+CALL00056,CONT00483,Voice Solution,Voice,None,Hyderabad,Tamil,Neutral,11.26,83.95,0,Connected,25-06-2026 15:45
+CALL00057,CONT00111,Voice Solution,Voice,None,Bangalore,Telugu,Positive,7.16,87.51,0,Connected,23-12-2025 18:27
+CALL00058,CONT00869,Voice Solution,Voice,None,Mumbai,English,Positive,10.42,84.72,1,Connected,05-06-2026 16:15
+CALL00059,CONT00887,Voice Solution,Voice,Email,Bangalore,English,Negative,11.28,84.32,1,Connected,10-07-2026 09:20
+CALL00060,CONT00076,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,19.83,80.24,1,Connected,07-05-2026 19:29
+CALL00061,CONT00158,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Negative,6.64,97.33,0,Connected,11-12-2025 11:23
+CALL00062,CONT00532,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Positive,0.72,93.82,0,Voicemail,06-04-2026 14:11
+CALL00063,CONT00933,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,15.58,89.86,1,Connected,15-11-2025 13:25
+CALL00064,CONT00643,Voice Solution,Voice,Email,Chennai,Tamil,Positive,14.18,87.78,1,Connected,04-01-2026 16:02
+CALL00065,CONT00329,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,0.89,88.47,1,Connected,09-11-2025 12:39
+CALL00066,CONT00122,Voice Solution,Voice,None,Mumbai,Hindi,Neutral,0.26,84.62,0,Not Connected,09-03-2026 20:26
+CALL00067,CONT00041,Voice Solution,Voice,Email,Mumbai,Telugu,Positive,10.85,82.83,1,Connected,16-03-2026 18:19
+CALL00068,CONT00167,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,3.92,92.09,1,Connected,02-01-2026 10:27
+CALL00069,CONT00922,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,4.02,87.19,1,Connected,19-03-2026 14:41
+CALL00070,CONT00642,Voice Solution,Voice,None,Hyderabad,Telugu,Neutral,7.8,90.13,0,Connected,20-01-2026 09:10
+CALL00071,CONT00023,Voice Solution,Voice,None,Bangalore,Tamil,Neutral,11.93,80.19,0,Connected,12-04-2026 11:05
+CALL00072,CONT00279,Voice Solution,Voice,None,Pune,Telugu,Positive,0.37,86.92,0,Not Connected,19-06-2026 12:10
+CALL00073,CONT00763,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,9.31,82.73,1,Connected,11-12-2025 10:13
+CALL00074,CONT00469,Voice Solution,Voice,None,Hyderabad,Tamil,Negative,1.56,90.92,1,Connected,28-11-2025 12:58
+CALL00075,CONT00400,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Negative,5.66,93.48,1,Connected,15-03-2026 19:36
+CALL00076,CONT00009,Voice Solution,Voice,WhatsApp,Pune,Kannada,Negative,17.37,95.8,1,Connected,20-05-2026 16:09
+CALL00077,CONT00013,Voice Solution,Voice,None,Delhi,Marathi,Positive,1.18,85.36,0,Connected,03-12-2025 17:31
+CALL00078,CONT00924,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,10.98,82.86,0,Connected,18-12-2025 09:52
+CALL00079,CONT00923,Voice Solution,Voice,Email,Mumbai,Marathi,Neutral,12.25,86.41,0,Connected,01-01-2026 18:01
+CALL00080,CONT00819,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,10.66,85,1,Connected,04-06-2026 15:05
+CALL00081,CONT00832,Voice Solution,Voice,Email,Delhi,Kannada,Neutral,3.85,90.66,0,Connected,07-02-2026 13:23
+CALL00082,CONT00052,Voice Solution,Voice,None,Mumbai,Marathi,Neutral,11.01,81.49,1,Connected,21-04-2026 18:21
+CALL00083,CONT00209,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,22.22,79.73,1,Connected,02-06-2026 12:57
+CALL00084,CONT00550,Voice Solution,Voice,Email,Hyderabad,Tamil,Positive,0.13,86.77,0,Not Connected,05-12-2025 08:10
+CALL00085,CONT00612,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,8.88,92.13,0,Connected,15-06-2026 14:02
+CALL00086,CONT00705,Voice Solution,Voice,Email,Bangalore,Marathi,Positive,6.16,83.36,0,Connected,09-02-2026 14:41
+CALL00087,CONT00402,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,0.38,92.75,0,Not Connected,11-03-2026 10:36
+CALL00088,CONT00191,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,8.5,90.33,0,Connected,15-07-2026 17:50
+CALL00089,CONT00051,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,1.01,96.23,0,Not Connected,05-11-2025 16:35
+CALL00090,CONT00393,Voice Solution,Voice,WhatsApp,Chennai,English,Negative,12.95,84.49,0,Connected,06-06-2026 11:43
+CALL00091,CONT00653,Voice Solution,Voice,None,Delhi,Telugu,Neutral,0.41,80.47,0,Voicemail,13-07-2026 12:35
+CALL00092,CONT00680,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,2.22,91.49,0,Connected,26-05-2026 16:17
+CALL00093,CONT00823,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Negative,3.62,89.9,0,Connected,15-11-2025 08:49
+CALL00094,CONT00621,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Neutral,4.66,89.51,0,Connected,12-12-2025 16:48
+CALL00095,CONT00719,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,0.77,83.26,0,Not Connected,28-04-2026 13:44
+CALL00096,CONT00939,Voice Solution,Voice,None,Bangalore,Marathi,Neutral,0.12,92.38,0,Not Connected,02-01-2026 14:31
+CALL00097,CONT00300,Voice Solution,Voice,None,Chennai,Telugu,Positive,7.56,85.33,1,Connected,19-06-2026 11:30
+CALL00098,CONT00622,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,14.68,89.51,1,Connected,29-06-2026 19:23
+CALL00099,CONT00196,Voice Solution,Voice,None,Bangalore,Tamil,Neutral,0.44,86.2,0,Not Connected,22-12-2025 15:55
+CALL00100,CONT00417,Voice Solution,Voice,Email,Mumbai,Marathi,Neutral,6.89,90.27,0,Connected,04-02-2026 09:50
+CALL00101,CONT00664,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Neutral,0.37,82.52,0,Not Connected,10-06-2026 20:22
+CALL00102,CONT00420,Voice Solution,Voice,Email,Delhi,Telugu,Negative,0.58,91,0,Not Connected,19-06-2026 12:15
+CALL00103,CONT00755,Voice Solution,Voice,Email,Hyderabad,English,Neutral,6.94,91.79,1,Connected,25-06-2026 10:06
+CALL00104,CONT00640,Voice Solution,Voice,Email,Delhi,Marathi,Neutral,16.06,89.08,1,Connected,23-03-2026 15:35
+CALL00105,CONT00617,Voice Solution,Voice,None,Pune,Tamil,Negative,3.7,96.72,0,Connected,20-04-2026 15:58
+CALL00106,CONT00522,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,11.74,89.54,1,Connected,29-11-2025 11:48
+CALL00107,CONT00356,Voice Solution,Voice,None,Mumbai,Telugu,Positive,1.02,93.09,0,Not Connected,06-12-2025 10:35
+CALL00108,CONT00148,Voice Solution,Voice,None,Delhi,Telugu,Neutral,3.89,88.96,1,Connected,13-11-2025 12:13
+CALL00109,CONT00365,Voice Solution,Voice,Email,Mumbai,Hindi,Neutral,0.34,92.65,0,Not Connected,09-04-2026 20:21
+CALL00110,CONT00364,Voice Solution,Voice,Email,Delhi,English,Positive,12.62,80.83,1,Connected,06-05-2026 10:21
+CALL00111,CONT00652,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Positive,0.48,88.66,0,Voicemail,01-07-2026 08:09
+CALL00112,CONT00702,Voice Solution,Voice,None,Mumbai,Telugu,Positive,2.52,82.87,1,Connected,25-01-2026 18:18
+CALL00113,CONT00402,Voice Solution,Voice,Email,Bangalore,Kannada,Neutral,1.38,89.2,0,Connected,05-01-2026 16:10
+CALL00114,CONT00606,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Neutral,8.63,90.42,1,Connected,19-04-2026 10:46
+CALL00115,CONT00492,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Negative,0.51,92.54,0,Not Connected,15-12-2025 15:43
+CALL00116,CONT00229,Voice Solution,Voice,Email,Pune,Marathi,Neutral,6.27,90.95,1,Connected,01-01-2026 16:19
+CALL00117,CONT00575,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,0.49,86.82,0,Not Connected,14-03-2026 11:51
+CALL00118,CONT00852,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Neutral,3.2,84.73,0,Connected,28-11-2025 09:03
+CALL00119,CONT00537,Voice Solution,Voice,Email,Chennai,Kannada,Positive,2.76,76.79,0,Connected,16-02-2026 16:29
+CALL00120,CONT00268,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Positive,6.85,88.84,0,Connected,14-12-2025 19:06
+CALL00121,CONT00405,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Neutral,6.37,94.19,1,Connected,08-03-2026 19:36
+CALL00122,CONT00793,Voice Solution,Voice,WhatsApp,Pune,English,Positive,9.17,89.04,0,Connected,19-06-2026 12:32
+CALL00123,CONT00011,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Neutral,0.5,88.08,0,Voicemail,09-05-2026 20:31
+CALL00124,CONT00320,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,0.76,89.22,0,Voicemail,13-06-2026 16:13
+CALL00125,CONT00713,Voice Solution,Voice,Email,Bangalore,English,Positive,1.04,86.56,0,Not Connected,01-03-2026 10:20
+CALL00126,CONT00126,Voice Solution,Voice,WhatsApp,Pune,Tamil,Negative,0.45,89.47,0,Not Connected,24-02-2026 11:36
+CALL00127,CONT00306,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,12.88,86.48,1,Connected,21-06-2026 17:10
+CALL00128,CONT00702,Voice Solution,Voice,Email,Bangalore,Kannada,Positive,16.38,84.01,1,Connected,17-07-2026 13:31
+CALL00129,CONT00511,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,6.84,88.12,1,Connected,17-05-2026 13:02
+CALL00130,CONT00089,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,1.07,88.01,0,Not Connected,17-03-2026 10:56
+CALL00131,CONT00355,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,5.77,97.88,1,Connected,14-04-2026 18:18
+CALL00132,CONT00628,Voice Solution,Voice,None,Bangalore,Marathi,Positive,9.69,84.47,1,Connected,13-06-2026 19:03
+CALL00133,CONT00352,Voice Solution,Voice,None,Mumbai,English,Neutral,8.15,87.7,1,Connected,22-06-2026 14:49
+CALL00134,CONT00689,Voice Solution,Voice,None,Mumbai,Hindi,Negative,39.42,87.22,0,Connected,21-04-2026 08:57
+CALL00135,CONT00014,Voice Solution,Voice,None,Bangalore,English,Neutral,0.7,86.26,0,Not Connected,01-04-2026 11:31
+CALL00136,CONT00257,Voice Solution,Voice,Email,Chennai,Tamil,Negative,0.64,91.07,0,Not Connected,09-04-2026 11:00
+CALL00137,CONT00209,Voice Solution,Voice,Email,Chennai,Kannada,Neutral,10.51,99.69,1,Connected,04-02-2026 17:05
+CALL00138,CONT00281,Voice Solution,Voice,Email,Delhi,Marathi,Positive,0.64,86.9,0,Voicemail,21-06-2026 13:35
+CALL00139,CONT00443,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,2.02,91.08,0,Connected,29-04-2026 08:34
+CALL00140,CONT00840,Voice Solution,Voice,Email,Pune,Tamil,Positive,15.23,78.94,1,Connected,21-02-2026 20:21
+CALL00141,CONT00837,Voice Solution,Voice,None,Pune,Hindi,Positive,6.72,86.53,1,Connected,22-12-2025 17:25
+CALL00142,CONT00389,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,5.44,96.28,1,Connected,21-02-2026 14:55
+CALL00143,CONT00617,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Neutral,8,88.23,0,Connected,09-02-2026 17:00
+CALL00144,CONT00483,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,0.25,91.01,0,Voicemail,21-02-2026 17:40
+CALL00145,CONT00147,Voice Solution,Voice,Email,Mumbai,Kannada,Negative,2.7,85.39,1,Connected,20-01-2026 17:08
+CALL00146,CONT00279,Voice Solution,Voice,Email,Pune,Marathi,Neutral,0.53,89.79,0,Not Connected,06-05-2026 19:16
+CALL00147,CONT00521,Voice Solution,Voice,None,Mumbai,Hindi,Negative,15.17,96.66,1,Connected,21-02-2026 15:01
+CALL00148,CONT00630,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,6.82,82.7,0,Connected,02-11-2025 14:49
+CALL00149,CONT00606,Voice Solution,Voice,None,Bangalore,Kannada,Negative,4.58,99.43,0,Connected,10-03-2026 17:50
+CALL00150,CONT00434,Voice Solution,Voice,Email,Hyderabad,Marathi,Positive,6.58,80.77,0,Connected,08-06-2026 09:14
+CALL00151,CONT00144,Voice Solution,Voice,None,Delhi,English,Positive,8.82,86.07,0,Connected,24-12-2025 12:12
+CALL00152,CONT00289,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,0.41,84.32,0,Not Connected,12-06-2026 14:38
+CALL00153,CONT00386,Voice Solution,Voice,Email,Bangalore,Kannada,Neutral,9.45,87.14,0,Connected,13-06-2026 10:32
+CALL00154,CONT00014,Voice Solution,Voice,Email,Delhi,Marathi,Neutral,5.95,84.26,0,Connected,06-03-2026 16:51
+CALL00155,CONT00257,Voice Solution,Voice,None,Delhi,Marathi,Neutral,7.68,83.88,1,Connected,10-03-2026 19:59
+CALL00156,CONT00346,Voice Solution,Voice,None,Chennai,Telugu,Positive,6.4,82.57,0,Connected,23-12-2025 19:56
+CALL00157,CONT00698,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Neutral,10.29,91.72,1,Connected,21-04-2026 08:30
+CALL00158,CONT00345,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Positive,8.06,87.31,1,Connected,06-06-2026 20:30
+CALL00159,CONT00400,Voice Solution,Voice,None,Chennai,English,Neutral,2.37,86,0,Connected,09-04-2026 19:38
+CALL00160,CONT00207,Voice Solution,Voice,Email,Mumbai,Tamil,Positive,10.19,89.91,0,Connected,17-05-2026 16:55
+CALL00161,CONT00858,Voice Solution,Voice,Email,Bangalore,English,Negative,10.3,81.03,0,Connected,05-07-2026 18:26
+CALL00162,CONT00172,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,32.03,90.03,1,Connected,22-05-2026 08:13
+CALL00163,CONT00464,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,24.23,88.03,0,Connected,03-05-2026 19:22
+CALL00164,CONT00270,Voice Solution,Voice,None,Delhi,Telugu,Negative,11,88.18,0,Connected,03-03-2026 16:15
+CALL00165,CONT00221,Voice Solution,Voice,None,Pune,Kannada,Neutral,0.45,91.1,0,Not Connected,13-07-2026 17:37
+CALL00166,CONT00152,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,4.38,96.72,0,Connected,06-02-2026 12:02
+CALL00167,CONT00623,Voice Solution,Voice,WhatsApp,Pune,Hindi,Positive,8.52,90.11,0,Connected,17-05-2026 14:44
+CALL00168,CONT00183,Voice Solution,Voice,None,Mumbai,Hindi,Neutral,3.81,87.5,1,Connected,28-06-2026 12:08
+CALL00169,CONT00399,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,0.23,82.59,0,Voicemail,24-03-2026 12:25
+CALL00170,CONT00851,Voice Solution,Voice,None,Pune,Marathi,Neutral,1.04,76.55,1,Connected,05-02-2026 18:36
+CALL00171,CONT00072,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,13.21,89.14,1,Connected,20-05-2026 19:37
+CALL00172,CONT00418,Voice Solution,Voice,Email,Pune,Telugu,Positive,0.88,82.2,0,Not Connected,04-03-2026 18:05
+CALL00173,CONT00898,Voice Solution,Voice,None,Delhi,Tamil,Neutral,27.85,75.8,0,Connected,06-05-2026 17:29
+CALL00174,CONT00283,Voice Solution,Voice,Email,Delhi,Kannada,Negative,3.46,86.75,1,Connected,17-07-2026 11:13
+CALL00175,CONT00074,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,2.13,89.7,0,Connected,28-03-2026 19:07
+CALL00176,CONT00355,Voice Solution,Voice,Email,Delhi,Telugu,Negative,19.25,92.22,1,Connected,10-07-2026 12:48
+CALL00177,CONT00727,Voice Solution,Voice,WhatsApp,Chennai,English,Negative,0.82,93.81,0,Voicemail,27-03-2026 15:36
+CALL00178,CONT00497,Voice Solution,Voice,WhatsApp,Delhi,English,Positive,0.51,92.88,0,Not Connected,28-03-2026 20:05
+CALL00179,CONT00328,Voice Solution,Voice,None,Delhi,Hindi,Positive,12.76,93.01,0,Connected,18-05-2026 11:56
+CALL00180,CONT00535,Voice Solution,Voice,None,Chennai,Tamil,Neutral,3.75,81.16,1,Connected,08-03-2026 12:24
+CALL00181,CONT00580,Voice Solution,Voice,Email,Delhi,Kannada,Negative,12.16,87.75,0,Connected,09-12-2025 10:17
+CALL00182,CONT00910,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,3.02,91.4,0,Connected,09-03-2026 10:00
+CALL00183,CONT00447,Voice Solution,Voice,WhatsApp,Mumbai,English,Negative,0.29,88.73,0,Not Connected,31-03-2026 08:12
+CALL00184,CONT00373,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,6.13,87.72,1,Connected,07-02-2026 20:56
+CALL00185,CONT00362,Voice Solution,Voice,Email,Mumbai,Kannada,Positive,9.43,88.64,0,Connected,10-07-2026 11:09
+CALL00186,CONT00093,Voice Solution,Voice,None,Bangalore,Telugu,Neutral,9.67,89.73,1,Connected,24-03-2026 13:04
+CALL00187,CONT00321,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,25.39,88.12,0,Connected,20-02-2026 16:27
+CALL00188,CONT00324,Voice Solution,Voice,None,Bangalore,Hindi,Positive,11.36,84.27,0,Connected,30-12-2025 15:16
+CALL00189,CONT00384,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,15.63,79.99,1,Connected,02-11-2025 19:54
+CALL00190,CONT00575,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Positive,1.02,87.48,0,Voicemail,12-07-2026 10:07
+CALL00191,CONT00736,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,7.42,88.79,1,Connected,20-03-2026 13:14
+CALL00192,CONT00737,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Negative,6.53,88.73,0,Connected,07-12-2025 15:03
+CALL00193,CONT00881,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Negative,6.51,93.26,0,Connected,09-04-2026 15:24
+CALL00194,CONT00346,Voice Solution,Voice,None,Hyderabad,Telugu,Neutral,12.56,94.15,1,Connected,09-11-2025 14:49
+CALL00195,CONT00849,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,1.01,87.98,0,Not Connected,21-06-2026 16:00
+CALL00196,CONT00103,Voice Solution,Voice,None,Delhi,Marathi,Neutral,0.98,88.02,0,Not Connected,07-02-2026 10:11
+CALL00197,CONT00215,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,6.39,91.37,1,Connected,27-03-2026 10:01
+CALL00198,CONT00192,Voice Solution,Voice,None,Delhi,Marathi,Positive,14.16,90.63,1,Connected,27-05-2026 17:21
+CALL00199,CONT00672,Voice Solution,Voice,Email,Chennai,Telugu,Positive,5.42,86.29,0,Connected,11-03-2026 10:50
+CALL00200,CONT00884,Voice Solution,Voice,None,Hyderabad,Hindi,Neutral,18.18,91.8,1,Connected,01-04-2026 18:24
+CALL00201,CONT00719,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Negative,5.79,87.77,0,Connected,24-12-2025 17:38
+CALL00202,CONT00781,Voice Solution,Voice,None,Pune,Marathi,Neutral,0.63,87.87,0,Not Connected,28-02-2026 12:56
+CALL00203,CONT00194,Voice Solution,Voice,None,Chennai,English,Neutral,13.83,90.67,1,Connected,10-04-2026 20:24
+CALL00204,CONT00380,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,5.81,86.99,0,Connected,24-02-2026 12:54
+CALL00205,CONT00403,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Neutral,15.09,88.97,1,Connected,14-01-2026 13:00
+CALL00206,CONT00664,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,0.19,89.99,0,Not Connected,21-02-2026 20:46
+CALL00207,CONT00749,Voice Solution,Voice,None,Hyderabad,English,Neutral,1.17,92.59,0,Not Connected,12-02-2026 14:37
+CALL00208,CONT00600,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,0.26,92.24,0,Not Connected,12-07-2026 20:07
+CALL00209,CONT00011,Voice Solution,Voice,Email,Chennai,Kannada,Negative,7.86,89.84,1,Connected,15-06-2026 16:58
+CALL00210,CONT00187,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Neutral,10.34,75.46,1,Connected,20-02-2026 12:53
+CALL00211,CONT00726,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Negative,0.99,89.72,0,Not Connected,07-02-2026 18:29
+CALL00212,CONT00015,Voice Solution,Voice,None,Chennai,Kannada,Neutral,14.91,90.49,1,Connected,02-04-2026 14:27
+CALL00213,CONT00778,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Negative,3.37,91.5,1,Connected,13-05-2026 15:12
+CALL00214,CONT00297,Voice Solution,Voice,Email,Delhi,Hindi,Positive,0.77,83.72,0,Not Connected,12-04-2026 16:00
+CALL00215,CONT00411,Voice Solution,Voice,None,Pune,Marathi,Positive,0.3,77.89,0,Not Connected,27-05-2026 16:06
+CALL00216,CONT00585,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Positive,13.46,92.53,1,Connected,18-04-2026 20:55
+CALL00217,CONT00052,Voice Solution,Voice,Email,Delhi,Telugu,Positive,11.41,82.38,0,Connected,10-04-2026 19:48
+CALL00218,CONT00640,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Neutral,24.21,94.61,1,Connected,07-01-2026 12:19
+CALL00219,CONT00028,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,1.07,85.61,0,Connected,15-03-2026 15:05
+CALL00220,CONT00577,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Neutral,5.34,83.36,1,Connected,14-05-2026 19:07
+CALL00221,CONT00017,Voice Solution,Voice,None,Pune,English,Positive,0.41,90.25,0,Not Connected,08-03-2026 17:22
+CALL00222,CONT00351,Voice Solution,Voice,WhatsApp,Chennai,English,Negative,0.51,91.58,0,Not Connected,03-12-2025 09:08
+CALL00223,CONT00428,Voice Solution,Voice,Email,Delhi,Telugu,Positive,0.33,91.28,0,Not Connected,25-04-2026 12:04
+CALL00224,CONT00650,Voice Solution,Voice,Email,Pune,Hindi,Positive,12.1,91.01,0,Connected,22-11-2025 14:02
+CALL00225,CONT00831,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,1.15,84.96,0,Not Connected,26-06-2026 09:06
+CALL00226,CONT00229,Voice Solution,Voice,None,Chennai,Telugu,Neutral,1.11,80.87,0,Not Connected,07-04-2026 09:28
+CALL00227,CONT00766,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,5.26,86.55,0,Connected,08-12-2025 20:58
+CALL00228,CONT00210,Voice Solution,Voice,Email,Delhi,English,Positive,0.44,82.77,0,Not Connected,18-06-2026 19:37
+CALL00229,CONT00431,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,0.52,90.66,0,Not Connected,21-12-2025 16:05
+CALL00230,CONT00294,Voice Solution,Voice,Email,Chennai,Kannada,Positive,1.32,92.87,0,Connected,27-11-2025 19:23
+CALL00231,CONT00743,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,6.63,89.36,1,Connected,14-06-2026 10:45
+CALL00232,CONT00753,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,8.42,88.5,1,Connected,05-02-2026 08:50
+CALL00233,CONT00582,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,16.19,86.95,0,Connected,27-03-2026 19:35
+CALL00234,CONT00104,Voice Solution,Voice,None,Delhi,Hindi,Positive,0.96,93.4,0,Connected,04-11-2025 13:40
+CALL00235,CONT00204,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,0.67,79.35,0,Not Connected,05-12-2025 13:57
+CALL00236,CONT00053,Voice Solution,Voice,None,Delhi,Hindi,Negative,16.17,82.47,0,Connected,11-05-2026 20:40
+CALL00237,CONT00375,Voice Solution,Voice,None,Hyderabad,Tamil,Negative,23.77,97.63,1,Connected,19-12-2025 18:33
+CALL00238,CONT00842,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,3.73,82.23,0,Connected,17-11-2025 10:38
+CALL00239,CONT00054,Voice Solution,Voice,Email,Hyderabad,Hindi,Positive,5.26,91.16,1,Connected,21-04-2026 08:39
+CALL00240,CONT00276,Voice Solution,Voice,WhatsApp,Delhi,English,Positive,16.93,92.18,1,Connected,08-06-2026 13:09
+CALL00241,CONT00335,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,4.12,78.87,0,Connected,07-04-2026 13:18
+CALL00242,CONT00031,Voice Solution,Voice,None,Hyderabad,Telugu,Neutral,19.96,79.83,0,Connected,16-12-2025 08:26
+CALL00243,CONT00135,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,5.29,94.82,1,Connected,06-11-2025 11:08
+CALL00244,CONT00058,Voice Solution,Voice,Email,Mumbai,Marathi,Neutral,19.87,83.64,0,Connected,07-02-2026 16:29
+CALL00245,CONT00105,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Positive,5.23,83.77,1,Connected,21-06-2026 09:43
+CALL00246,CONT00266,Voice Solution,Voice,WhatsApp,Delhi,English,Positive,0.47,85.9,0,Not Connected,07-12-2025 15:22
+CALL00247,CONT00522,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,18.77,83.65,0,Connected,30-04-2026 17:28
+CALL00248,CONT00496,Voice Solution,Voice,None,Pune,Telugu,Positive,7.6,91.13,1,Connected,03-02-2026 13:44
+CALL00249,CONT00253,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,24.97,82.59,1,Connected,07-02-2026 10:01
+CALL00250,CONT00295,Voice Solution,Voice,None,Hyderabad,English,Neutral,7.9,78.67,1,Connected,07-05-2026 13:27
+CALL00251,CONT00668,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,10.35,94.28,0,Connected,24-02-2026 08:35
+CALL00252,CONT00158,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Neutral,15.93,82.84,1,Connected,10-05-2026 16:41
+CALL00253,CONT00549,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,12.71,84.74,1,Connected,11-07-2026 13:01
+CALL00254,CONT00631,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,15.34,92.65,1,Connected,10-04-2026 19:01
+CALL00255,CONT00067,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Positive,9.82,88.85,1,Connected,14-07-2026 17:12
+CALL00256,CONT00754,Voice Solution,Voice,None,Chennai,Hindi,Neutral,6.43,94.06,1,Connected,08-03-2026 16:54
+CALL00257,CONT00299,Voice Solution,Voice,None,Bangalore,Hindi,Positive,10.12,92.73,1,Connected,18-11-2025 15:18
+CALL00258,CONT00463,Voice Solution,Voice,Email,Hyderabad,Marathi,Neutral,14.35,86.23,1,Connected,11-06-2026 20:50
+CALL00259,CONT00725,Voice Solution,Voice,Email,Chennai,Kannada,Neutral,15.75,93.61,0,Connected,24-12-2025 13:44
+CALL00260,CONT00820,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Negative,6.41,89.34,1,Connected,28-12-2025 09:02
+CALL00261,CONT00101,Voice Solution,Voice,None,Hyderabad,Tamil,Negative,0.2,85.51,0,Not Connected,23-04-2026 08:41
+CALL00262,CONT00056,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,0.97,89.95,0,Voicemail,22-02-2026 14:15
+CALL00263,CONT00332,Voice Solution,Voice,None,Delhi,Kannada,Negative,42.86,81.95,1,Connected,31-03-2026 10:30
+CALL00264,CONT00836,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,0.91,92.67,0,Not Connected,07-03-2026 08:46
+CALL00265,CONT00751,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Neutral,7.78,92.02,1,Connected,04-04-2026 11:31
+CALL00266,CONT00393,Voice Solution,Voice,None,Pune,Tamil,Positive,2.4,89.1,1,Connected,12-02-2026 19:12
+CALL00267,CONT00743,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Negative,7.35,78.91,0,Connected,04-07-2026 08:45
+CALL00268,CONT00874,Voice Solution,Voice,Email,Chennai,Telugu,Positive,0.59,94.27,0,Not Connected,25-04-2026 14:21
+CALL00269,CONT00381,Voice Solution,Voice,Email,Delhi,Marathi,Neutral,8.04,90.69,1,Connected,09-12-2025 11:15
+CALL00270,CONT00092,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,4.27,88.39,1,Connected,19-04-2026 18:08
+CALL00271,CONT00791,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Neutral,7.31,87.6,1,Connected,05-07-2026 19:48
+CALL00272,CONT00447,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,0.56,85.82,0,Not Connected,26-11-2025 18:12
+CALL00273,CONT00109,Voice Solution,Voice,None,Delhi,Tamil,Positive,1.13,86.78,0,Not Connected,13-11-2025 15:25
+CALL00274,CONT00317,Voice Solution,Voice,WhatsApp,Bangalore,English,Positive,0.39,92.35,0,Not Connected,06-12-2025 13:13
+CALL00275,CONT00168,Voice Solution,Voice,None,Hyderabad,Telugu,Positive,6.73,85.92,0,Connected,22-04-2026 15:23
+CALL00276,CONT00812,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,5.81,87.13,1,Connected,20-11-2025 15:15
+CALL00277,CONT00920,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,15.56,87.86,1,Connected,22-03-2026 17:11
+CALL00278,CONT00435,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,1.65,88,1,Connected,23-03-2026 10:49
+CALL00279,CONT00442,Voice Solution,Voice,WhatsApp,Pune,Hindi,Neutral,23.6,85.41,1,Connected,31-01-2026 14:02
+CALL00280,CONT00218,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,18.3,87.65,1,Connected,03-06-2026 16:23
+CALL00281,CONT00222,Voice Solution,Voice,None,Bangalore,Telugu,Positive,0.18,90.22,0,Voicemail,21-12-2025 10:44
+CALL00282,CONT00673,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,0.08,83.98,0,Not Connected,02-04-2026 08:18
+CALL00283,CONT00528,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,0.89,87.67,0,Not Connected,05-05-2026 17:40
+CALL00284,CONT00278,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Negative,1.06,98.15,0,Voicemail,02-01-2026 16:52
+CALL00285,CONT00569,Voice Solution,Voice,None,Mumbai,Kannada,Negative,1.76,88.18,1,Connected,09-05-2026 09:56
+CALL00286,CONT00574,Voice Solution,Voice,None,Delhi,Kannada,Positive,2.6,83.85,1,Connected,05-03-2026 11:36
+CALL00287,CONT00875,Voice Solution,Voice,WhatsApp,Pune,Marathi,Positive,0.12,83.26,0,Voicemail,30-03-2026 18:21
+CALL00288,CONT00466,Voice Solution,Voice,WhatsApp,Pune,Kannada,Negative,20.95,82.17,1,Connected,28-12-2025 16:46
+CALL00289,CONT00839,Voice Solution,Voice,WhatsApp,Delhi,English,Negative,9.4,96.64,0,Connected,29-04-2026 08:16
+CALL00290,CONT00754,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Negative,4.07,93.54,1,Connected,19-04-2026 09:30
+CALL00291,CONT00602,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,20.04,82.05,0,Connected,24-12-2025 10:58
+CALL00292,CONT00584,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,15.4,89.57,1,Connected,09-02-2026 20:21
+CALL00293,CONT00838,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,0.8,94.62,0,Not Connected,23-12-2025 16:07
+CALL00294,CONT00030,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,0.76,88.3,0,Not Connected,30-12-2025 14:02
+CALL00295,CONT00359,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,21.17,86.04,0,Connected,16-02-2026 19:43
+CALL00296,CONT00919,Voice Solution,Voice,None,Mumbai,English,Neutral,0.64,99.7,0,Not Connected,05-11-2025 11:41
+CALL00297,CONT00288,Voice Solution,Voice,None,Delhi,Tamil,Neutral,21.41,78.97,1,Connected,11-02-2026 08:23
+CALL00298,CONT00086,Voice Solution,Voice,Email,Chennai,Telugu,Positive,31.54,99.8,0,Connected,15-05-2026 17:15
+CALL00299,CONT00234,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Positive,8.79,88.8,0,Connected,17-12-2025 17:45
+CALL00300,CONT00747,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,1.93,94.95,0,Connected,24-03-2026 15:10
+CALL00301,CONT00313,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,14.21,82.5,0,Connected,04-03-2026 15:24
+CALL00302,CONT00365,Voice Solution,Voice,None,Mumbai,Telugu,Neutral,0.48,84.87,0,Not Connected,14-02-2026 09:24
+CALL00303,CONT00777,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,11.92,83.1,0,Connected,07-04-2026 12:37
+CALL00304,CONT00799,Voice Solution,Voice,None,Mumbai,English,Neutral,11.28,87.99,0,Connected,27-03-2026 11:45
+CALL00305,CONT00839,Voice Solution,Voice,None,Bangalore,Hindi,Positive,12.31,90.04,0,Connected,25-03-2026 09:57
+CALL00306,CONT00905,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,0.43,93.83,0,Not Connected,28-02-2026 13:04
+CALL00307,CONT00269,Voice Solution,Voice,Email,Bangalore,Marathi,Positive,0.11,79.94,0,Not Connected,31-01-2026 20:38
+CALL00308,CONT00698,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Neutral,0.57,89.28,0,Not Connected,28-12-2025 10:04
+CALL00309,CONT00131,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,14.92,92.97,1,Connected,17-06-2026 12:07
+CALL00310,CONT00803,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,10.06,93.91,1,Connected,25-02-2026 10:14
+CALL00311,CONT00789,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Negative,8.24,86.3,1,Connected,07-03-2026 10:31
+CALL00312,CONT00832,Voice Solution,Voice,None,Pune,Tamil,Neutral,2.16,86.36,0,Connected,09-03-2026 13:49
+CALL00313,CONT00351,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,4.59,88.04,1,Connected,28-12-2025 11:09
+CALL00314,CONT00180,Voice Solution,Voice,Email,Hyderabad,Marathi,Positive,1.16,89.43,0,Not Connected,02-03-2026 08:39
+CALL00315,CONT00802,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,31.97,95.01,0,Connected,01-11-2025 14:37
+CALL00316,CONT00480,Voice Solution,Voice,Email,Delhi,English,Positive,2.84,82.45,0,Connected,27-06-2026 18:26
+CALL00317,CONT00889,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Negative,6.26,84.57,0,Connected,04-02-2026 14:54
+CALL00318,CONT00163,Voice Solution,Voice,None,Bangalore,English,Neutral,15.99,81.84,0,Connected,06-03-2026 13:53
+CALL00319,CONT00783,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,3.28,90.64,0,Connected,26-02-2026 11:18
+CALL00320,CONT00888,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,16.12,94.01,1,Connected,18-12-2025 15:02
+CALL00321,CONT00096,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,1.47,81.4,0,Connected,28-01-2026 14:02
+CALL00322,CONT00774,Voice Solution,Voice,Email,Delhi,Hindi,Positive,1.13,88.94,0,Not Connected,25-06-2026 13:57
+CALL00323,CONT00510,Voice Solution,Voice,None,Mumbai,Kannada,Positive,0.58,93.65,0,Voicemail,08-05-2026 17:46
+CALL00324,CONT00365,Voice Solution,Voice,Email,Delhi,Kannada,Neutral,13.38,92.42,1,Connected,11-05-2026 15:31
+CALL00325,CONT00353,Voice Solution,Voice,None,Chennai,Kannada,Positive,21.65,92.36,0,Connected,08-01-2026 13:58
+CALL00326,CONT00800,Voice Solution,Voice,Email,Hyderabad,Telugu,Negative,0.18,82.55,0,Not Connected,05-07-2026 20:14
+CALL00327,CONT00436,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,18.83,92.35,0,Connected,15-01-2026 10:10
+CALL00328,CONT00083,Voice Solution,Voice,WhatsApp,Pune,Marathi,Positive,1.98,87.57,1,Connected,03-04-2026 16:46
+CALL00329,CONT00225,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,0.96,93.85,0,Not Connected,24-03-2026 15:39
+CALL00330,CONT00412,Voice Solution,Voice,Email,Chennai,Marathi,Positive,7.88,90.75,1,Connected,25-01-2026 15:31
+CALL00331,CONT00735,Voice Solution,Voice,None,Bangalore,Kannada,Positive,12.7,84.42,1,Connected,04-05-2026 16:07
+CALL00332,CONT00118,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,14.55,89.89,1,Connected,08-06-2026 16:31
+CALL00333,CONT00482,Voice Solution,Voice,Email,Mumbai,Hindi,Positive,5.97,92.59,0,Connected,08-01-2026 20:22
+CALL00334,CONT00192,Voice Solution,Voice,WhatsApp,Mumbai,English,Neutral,5.22,85.97,0,Connected,17-12-2025 11:15
+CALL00335,CONT00591,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Neutral,0.61,89.14,0,Not Connected,02-02-2026 15:13
+CALL00336,CONT00590,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Positive,8.4,81.82,1,Connected,26-06-2026 11:37
+CALL00337,CONT00659,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,4.28,91.25,0,Connected,23-05-2026 18:02
+CALL00338,CONT00107,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,1.12,88.22,0,Not Connected,06-06-2026 11:58
+CALL00339,CONT00382,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Negative,5.81,93.07,1,Connected,09-12-2025 14:34
+CALL00340,CONT00783,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,12.1,91.1,1,Connected,08-02-2026 09:49
+CALL00341,CONT00390,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,1.07,86.46,0,Not Connected,12-07-2026 16:57
+CALL00342,CONT00244,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,1.06,84.27,1,Connected,10-06-2026 12:33
+CALL00343,CONT00585,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,0.59,83.12,0,Not Connected,23-11-2025 08:55
+CALL00344,CONT00869,Voice Solution,Voice,None,Hyderabad,Tamil,Positive,0.42,85.96,0,Not Connected,08-07-2026 19:37
+CALL00345,CONT00468,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Negative,10.68,92.94,0,Connected,10-11-2025 17:53
+CALL00346,CONT00866,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,15.46,79.72,1,Connected,04-07-2026 10:53
+CALL00347,CONT00934,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Negative,0.87,83.32,0,Voicemail,08-02-2026 12:51
+CALL00348,CONT00538,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,3.95,92.79,1,Connected,29-04-2026 14:30
+CALL00349,CONT00210,Voice Solution,Voice,None,Bangalore,Telugu,Neutral,8.82,95.14,1,Connected,11-06-2026 20:59
+CALL00350,CONT00604,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,7.25,83.58,0,Connected,08-07-2026 11:41
+CALL00351,CONT00637,Voice Solution,Voice,None,Chennai,English,Neutral,13.67,83.27,1,Connected,27-03-2026 08:51
+CALL00352,CONT00073,Voice Solution,Voice,None,Hyderabad,Telugu,Neutral,3.35,95.54,0,Connected,04-02-2026 11:15
+CALL00353,CONT00635,Voice Solution,Voice,Email,Mumbai,Marathi,Negative,0.46,87.88,0,Not Connected,15-07-2026 14:07
+CALL00354,CONT00309,Voice Solution,Voice,Email,Pune,English,Neutral,0.12,84.03,0,Voicemail,04-11-2025 20:20
+CALL00355,CONT00696,Voice Solution,Voice,Email,Bangalore,Kannada,Negative,6.15,93.72,0,Connected,16-11-2025 15:48
+CALL00356,CONT00699,Voice Solution,Voice,WhatsApp,Pune,Marathi,Negative,21.35,91.02,1,Connected,05-07-2026 16:59
+CALL00357,CONT00710,Voice Solution,Voice,Email,Hyderabad,Kannada,Negative,19.01,92.18,1,Connected,16-07-2026 17:22
+CALL00358,CONT00590,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,5.98,84.29,1,Connected,09-04-2026 18:53
+CALL00359,CONT00860,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,3.85,90.37,1,Connected,01-04-2026 12:32
+CALL00360,CONT00186,Voice Solution,Voice,Email,Chennai,Marathi,Positive,12.82,94.73,1,Connected,27-04-2026 15:56
+CALL00361,CONT00856,Voice Solution,Voice,Email,Delhi,Marathi,Neutral,9.79,91.7,1,Connected,12-04-2026 17:34
+CALL00362,CONT00253,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,0.45,93.1,0,Voicemail,03-12-2025 16:56
+CALL00363,CONT00013,Voice Solution,Voice,WhatsApp,Pune,Marathi,Positive,18.59,95.52,0,Connected,28-04-2026 09:33
+CALL00364,CONT00299,Voice Solution,Voice,None,Bangalore,Hindi,Positive,7.22,90.64,0,Connected,09-02-2026 10:03
+CALL00365,CONT00076,Voice Solution,Voice,WhatsApp,Pune,Marathi,Negative,4.2,85.67,1,Connected,04-01-2026 11:34
+CALL00366,CONT00051,Voice Solution,Voice,WhatsApp,Pune,Marathi,Negative,0.83,92.89,0,Not Connected,17-04-2026 20:28
+CALL00367,CONT00787,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Neutral,2.72,82.97,0,Connected,13-12-2025 13:33
+CALL00368,CONT00149,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,5.54,87.39,0,Connected,14-12-2025 11:10
+CALL00369,CONT00731,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Neutral,15.91,91.44,0,Connected,12-11-2025 08:33
+CALL00370,CONT00122,Voice Solution,Voice,Email,Bangalore,English,Neutral,0.96,72.41,0,Not Connected,03-02-2026 15:20
+CALL00371,CONT00211,Voice Solution,Voice,None,Hyderabad,Hindi,Positive,9.6,89.76,1,Connected,11-07-2026 13:24
+CALL00372,CONT00280,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,5.36,90,0,Connected,30-06-2026 19:35
+CALL00373,CONT00538,Voice Solution,Voice,Email,Delhi,Kannada,Positive,6.35,82.82,1,Connected,05-12-2025 12:46
+CALL00374,CONT00685,Voice Solution,Voice,None,Pune,Marathi,Neutral,3.17,90.13,0,Connected,03-06-2026 15:19
+CALL00375,CONT00156,Voice Solution,Voice,None,Mumbai,Tamil,Neutral,10.12,89.45,1,Connected,29-01-2026 18:35
+CALL00376,CONT00238,Voice Solution,Voice,Email,Bangalore,English,Neutral,1.05,88.67,0,Not Connected,01-02-2026 14:23
+CALL00377,CONT00376,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Negative,2.99,94.45,1,Connected,29-01-2026 13:10
+CALL00378,CONT00082,Voice Solution,Voice,None,Mumbai,Marathi,Positive,0.32,92.89,0,Not Connected,23-02-2026 13:33
+CALL00379,CONT00492,Voice Solution,Voice,Email,Mumbai,Marathi,Positive,15.41,91.7,1,Connected,13-02-2026 17:32
+CALL00380,CONT00356,Voice Solution,Voice,WhatsApp,Pune,Telugu,Positive,0.16,83.38,0,Not Connected,15-05-2026 13:59
+CALL00381,CONT00925,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,14.94,88.41,0,Connected,22-02-2026 18:55
+CALL00382,CONT00273,Voice Solution,Voice,None,Bangalore,Kannada,Positive,12.04,94.42,0,Connected,14-01-2026 09:36
+CALL00383,CONT00580,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,0.12,87.43,0,Voicemail,05-06-2026 18:07
+CALL00384,CONT00044,Voice Solution,Voice,None,Delhi,Hindi,Neutral,1.02,96.27,0,Not Connected,07-07-2026 08:56
+CALL00385,CONT00573,Voice Solution,Voice,WhatsApp,Pune,English,Positive,3.26,91.85,0,Connected,13-04-2026 10:25
+CALL00386,CONT00123,Voice Solution,Voice,None,Pune,Kannada,Neutral,7.94,97.05,0,Connected,11-05-2026 10:26
+CALL00387,CONT00349,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,0.17,83.16,0,Not Connected,15-06-2026 12:50
+CALL00388,CONT00708,Voice Solution,Voice,Email,Pune,English,Positive,23.88,87.73,0,Connected,26-04-2026 20:59
+CALL00389,CONT00330,Voice Solution,Voice,None,Mumbai,English,Neutral,0.15,88.2,0,Not Connected,07-02-2026 13:33
+CALL00390,CONT00409,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,0.82,91.53,0,Not Connected,06-12-2025 16:31
+CALL00391,CONT00323,Voice Solution,Voice,Email,Mumbai,Hindi,Neutral,9.31,84.81,0,Connected,04-02-2026 18:51
+CALL00392,CONT00111,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Negative,14.44,80.46,1,Connected,01-04-2026 12:49
+CALL00393,CONT00770,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,8.02,90.39,1,Connected,31-03-2026 18:47
+CALL00394,CONT00089,Voice Solution,Voice,WhatsApp,Pune,Tamil,Negative,22.54,86.67,0,Connected,09-05-2026 19:34
+CALL00395,CONT00433,Voice Solution,Voice,Email,Hyderabad,English,Neutral,8.27,86.15,0,Connected,12-06-2026 09:34
+CALL00396,CONT00710,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Negative,0.08,85.04,0,Not Connected,07-12-2025 20:27
+CALL00397,CONT00794,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,7.38,89.12,0,Connected,02-05-2026 12:14
+CALL00398,CONT00712,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,0.09,83.12,0,Not Connected,13-11-2025 08:08
+CALL00399,CONT00099,Voice Solution,Voice,Email,Hyderabad,Tamil,Negative,5.76,87.53,0,Connected,05-06-2026 08:53
+CALL00400,CONT00539,Voice Solution,Voice,None,Chennai,English,Positive,7.67,84.36,0,Connected,01-01-2026 11:12
+CALL00401,CONT00601,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,16.68,85.45,0,Connected,23-01-2026 15:55
+CALL00402,CONT00146,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Positive,18.74,90.27,0,Connected,05-06-2026 11:45
+CALL00403,CONT00694,Voice Solution,Voice,None,Mumbai,Telugu,Positive,24.25,91.76,1,Connected,06-05-2026 17:35
+CALL00404,CONT00257,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Neutral,4.5,86.97,1,Connected,19-11-2025 10:25
+CALL00405,CONT00189,Voice Solution,Voice,None,Mumbai,Tamil,Neutral,0.91,93.34,0,Not Connected,26-04-2026 18:42
+CALL00406,CONT00240,Voice Solution,Voice,None,Chennai,Kannada,Negative,17.31,83.64,0,Connected,08-02-2026 10:33
+CALL00407,CONT00871,Voice Solution,Voice,None,Delhi,Kannada,Positive,3.81,80.9,0,Connected,21-06-2026 09:25
+CALL00408,CONT00899,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Negative,8.64,81.82,0,Connected,15-01-2026 17:46
+CALL00409,CONT00503,Voice Solution,Voice,None,Delhi,Marathi,Negative,1.63,83.12,0,Connected,25-05-2026 12:42
+CALL00410,CONT00708,Voice Solution,Voice,None,Chennai,Kannada,Positive,12.35,81.94,1,Connected,11-06-2026 16:15
+CALL00411,CONT00809,Voice Solution,Voice,Email,Mumbai,Marathi,Positive,18.58,98.61,0,Connected,22-12-2025 13:36
+CALL00412,CONT00677,Voice Solution,Voice,WhatsApp,Bangalore,English,Neutral,2.44,80.75,1,Connected,24-03-2026 18:15
+CALL00413,CONT00819,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,4.84,93.19,0,Connected,08-01-2026 15:23
+CALL00414,CONT00271,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,4.73,88.37,1,Connected,07-02-2026 16:20
+CALL00415,CONT00520,Voice Solution,Voice,Email,Hyderabad,Telugu,Neutral,1.05,89.62,0,Not Connected,25-11-2025 16:03
+CALL00416,CONT00550,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,8.68,83.97,0,Connected,23-12-2025 12:56
+CALL00417,CONT00114,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,11.62,90.13,0,Connected,31-03-2026 19:25
+CALL00418,CONT00339,Voice Solution,Voice,Email,Hyderabad,English,Neutral,12.92,83.93,1,Connected,24-03-2026 15:15
+CALL00419,CONT00568,Voice Solution,Voice,WhatsApp,Chennai,English,Positive,15.08,93.11,1,Connected,27-12-2025 09:42
+CALL00420,CONT00359,Voice Solution,Voice,Email,Bangalore,Hindi,Neutral,0.5,93.53,0,Not Connected,09-12-2025 14:03
+CALL00421,CONT00650,Voice Solution,Voice,None,Chennai,Kannada,Neutral,8.55,87.83,0,Connected,17-02-2026 19:34
+CALL00422,CONT00614,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Neutral,6.66,88.15,1,Connected,30-04-2026 13:43
+CALL00423,CONT00334,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Negative,24,90.66,0,Connected,12-12-2025 16:21
+CALL00424,CONT00689,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,8.62,90.41,1,Connected,05-05-2026 17:09
+CALL00425,CONT00169,Voice Solution,Voice,Email,Hyderabad,Hindi,Neutral,5.73,93.62,0,Connected,11-06-2026 09:02
+CALL00426,CONT00339,Voice Solution,Voice,None,Pune,English,Neutral,20.35,93.48,0,Connected,02-03-2026 20:49
+CALL00427,CONT00798,Voice Solution,Voice,None,Hyderabad,Kannada,Negative,0.68,88.36,0,Not Connected,13-03-2026 10:42
+CALL00428,CONT00261,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,12.76,86.11,0,Connected,12-04-2026 20:03
+CALL00429,CONT00887,Voice Solution,Voice,None,Pune,Marathi,Positive,5.51,92.56,0,Connected,03-06-2026 18:58
+CALL00430,CONT00735,Voice Solution,Voice,WhatsApp,Pune,English,Negative,12.19,87.72,0,Connected,09-06-2026 18:42
+CALL00431,CONT00199,Voice Solution,Voice,Email,Hyderabad,Marathi,Neutral,13.04,89.07,1,Connected,23-06-2026 10:26
+CALL00432,CONT00211,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,20.33,91.15,1,Connected,26-03-2026 20:53
+CALL00433,CONT00287,Voice Solution,Voice,None,Pune,Kannada,Neutral,0.23,93.38,0,Not Connected,27-06-2026 16:16
+CALL00434,CONT00692,Voice Solution,Voice,Email,Mumbai,Tamil,Negative,0.25,89.8,0,Not Connected,15-01-2026 16:33
+CALL00435,CONT00762,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,10.97,85.56,1,Connected,09-11-2025 17:51
+CALL00436,CONT00743,Voice Solution,Voice,None,Chennai,Kannada,Positive,0.19,97.49,0,Not Connected,13-01-2026 10:28
+CALL00437,CONT00472,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Neutral,0.31,96.15,0,Voicemail,11-07-2026 10:32
+CALL00438,CONT00482,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Neutral,0.17,83.41,0,Not Connected,18-06-2026 14:13
+CALL00439,CONT00023,Voice Solution,Voice,None,Delhi,Tamil,Neutral,8.91,83.94,1,Connected,07-11-2025 09:46
+CALL00440,CONT00560,Voice Solution,Voice,WhatsApp,Pune,Telugu,Positive,0.21,84.57,0,Not Connected,23-04-2026 15:37
+CALL00441,CONT00109,Voice Solution,Voice,WhatsApp,Pune,Marathi,Positive,3.2,92.74,0,Connected,21-03-2026 20:30
+CALL00442,CONT00296,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,0.11,97.68,0,Voicemail,17-04-2026 13:05
+CALL00443,CONT00006,Voice Solution,Voice,Email,Bangalore,English,Neutral,5.45,85.97,0,Connected,19-04-2026 14:25
+CALL00444,CONT00550,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,2.68,89.35,1,Connected,02-03-2026 20:00
+CALL00445,CONT00681,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,3.38,84.74,0,Connected,13-05-2026 12:18
+CALL00446,CONT00868,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,22.19,97,1,Connected,05-11-2025 14:29
+CALL00447,CONT00795,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Neutral,0.64,92.62,0,Voicemail,29-11-2025 17:07
+CALL00448,CONT00203,Voice Solution,Voice,None,Hyderabad,Kannada,Positive,0.95,84.38,0,Voicemail,14-04-2026 10:52
+CALL00449,CONT00325,Voice Solution,Voice,None,Delhi,Kannada,Positive,21.74,77.99,1,Connected,16-03-2026 12:32
+CALL00450,CONT00825,Voice Solution,Voice,Email,Mumbai,Telugu,Positive,6.48,93.69,0,Connected,25-03-2026 08:50
+CALL00451,CONT00785,Voice Solution,Voice,WhatsApp,Pune,Hindi,Neutral,12.19,85.64,1,Connected,05-06-2026 08:01
+CALL00452,CONT00244,Voice Solution,Voice,None,Pune,Marathi,Positive,0.96,92.71,0,Connected,12-03-2026 10:31
+CALL00453,CONT00327,Voice Solution,Voice,Email,Pune,Marathi,Positive,11.65,89.97,1,Connected,09-01-2026 14:56
+CALL00454,CONT00047,Voice Solution,Voice,WhatsApp,Pune,Tamil,Negative,1.03,79.33,0,Not Connected,10-07-2026 09:41
+CALL00455,CONT00761,Voice Solution,Voice,None,Chennai,English,Positive,5.59,84.47,0,Connected,01-05-2026 18:47
+CALL00456,CONT00591,Voice Solution,Voice,None,Delhi,Kannada,Positive,9.88,86.73,1,Connected,16-04-2026 08:32
+CALL00457,CONT00622,Voice Solution,Voice,None,Mumbai,Marathi,Negative,0.06,85.12,0,Voicemail,30-01-2026 13:07
+CALL00458,CONT00013,Voice Solution,Voice,None,Mumbai,Marathi,Positive,5.4,89.08,1,Connected,21-05-2026 19:01
+CALL00459,CONT00907,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,5.62,90.51,0,Connected,19-11-2025 15:13
+CALL00460,CONT00380,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,0.37,97.45,0,Not Connected,09-12-2025 17:15
+CALL00461,CONT00365,Voice Solution,Voice,Email,Mumbai,English,Neutral,2.6,90.86,1,Connected,06-03-2026 15:01
+CALL00462,CONT00602,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Positive,0.84,95.96,0,Not Connected,22-04-2026 18:11
+CALL00463,CONT00342,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,0.99,86.12,0,Voicemail,21-03-2026 15:18
+CALL00464,CONT00860,Voice Solution,Voice,None,Delhi,Kannada,Positive,0.53,94.33,0,Not Connected,30-06-2026 08:56
+CALL00465,CONT00792,Voice Solution,Voice,None,Pune,Tamil,Positive,19.75,86.59,0,Connected,08-06-2026 15:08
+CALL00466,CONT00221,Voice Solution,Voice,Email,Pune,Telugu,Neutral,12.8,83.91,1,Connected,06-03-2026 11:47
+CALL00467,CONT00073,Voice Solution,Voice,None,Chennai,Kannada,Negative,10.67,83.7,0,Connected,28-12-2025 14:53
+CALL00468,CONT00746,Voice Solution,Voice,None,Mumbai,Hindi,Positive,0.19,75.29,0,Not Connected,28-03-2026 17:46
+CALL00469,CONT00772,Voice Solution,Voice,Email,Mumbai,English,Neutral,0.13,92.77,0,Not Connected,01-11-2025 15:23
+CALL00470,CONT00625,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,8.72,82.05,0,Connected,09-05-2026 17:13
+CALL00471,CONT00046,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,8.29,95.54,0,Connected,10-05-2026 20:49
+CALL00472,CONT00504,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Positive,5.69,87.63,1,Connected,25-02-2026 17:09
+CALL00473,CONT00274,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,10.44,80.73,1,Connected,14-03-2026 08:14
+CALL00474,CONT00555,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,9.82,82.91,0,Connected,28-12-2025 11:14
+CALL00475,CONT00208,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,8.61,89.45,1,Connected,14-12-2025 15:46
+CALL00476,CONT00929,Voice Solution,Voice,Email,Mumbai,Hindi,Positive,0.36,79.1,0,Not Connected,22-04-2026 12:33
+CALL00477,CONT00861,Voice Solution,Voice,None,Chennai,English,Positive,0.92,91.45,0,Not Connected,09-04-2026 10:23
+CALL00478,CONT00615,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Negative,8.09,80.92,1,Connected,22-04-2026 17:21
+CALL00479,CONT00124,Voice Solution,Voice,None,Pune,Marathi,Negative,6.46,84.81,0,Connected,29-03-2026 17:14
+CALL00480,CONT00010,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,24.53,89.49,1,Connected,19-01-2026 13:54
+CALL00481,CONT00329,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,9.17,90.84,0,Connected,01-06-2026 16:12
+CALL00482,CONT00187,Voice Solution,Voice,None,Chennai,Kannada,Positive,1.05,92.49,0,Not Connected,22-05-2026 18:14
+CALL00483,CONT00543,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,1.05,81.97,0,Not Connected,10-07-2026 20:47
+CALL00484,CONT00668,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Negative,0.53,86.96,0,Not Connected,17-06-2026 12:15
+CALL00485,CONT00060,Voice Solution,Voice,None,Mumbai,Marathi,Neutral,6.5,93.96,0,Connected,13-04-2026 12:15
+CALL00486,CONT00761,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Neutral,8.99,86.96,0,Connected,15-06-2026 09:59
+CALL00487,CONT00899,Voice Solution,Voice,Email,Chennai,Hindi,Negative,0.87,89.97,0,Not Connected,27-03-2026 10:52
+CALL00488,CONT00886,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Negative,5.93,89.31,1,Connected,20-11-2025 20:22
+CALL00489,CONT00782,Voice Solution,Voice,None,Pune,Kannada,Positive,10.91,95.01,0,Connected,17-12-2025 08:26
+CALL00490,CONT00442,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,10.32,86.17,0,Connected,21-06-2026 11:46
+CALL00491,CONT00217,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,20.97,81.55,1,Connected,14-11-2025 12:54
+CALL00492,CONT00911,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Neutral,4.48,83.66,1,Connected,23-03-2026 15:25
+CALL00493,CONT00002,Voice Solution,Voice,Email,Mumbai,Hindi,Positive,13.04,89.44,0,Connected,01-11-2025 16:51
+CALL00494,CONT00536,Voice Solution,Voice,None,Bangalore,Kannada,Positive,0.79,80.65,0,Voicemail,24-12-2025 13:33
+CALL00495,CONT00718,Voice Solution,Voice,Email,Pune,English,Neutral,5.45,85.78,1,Connected,17-07-2026 09:19
+CALL00496,CONT00832,Voice Solution,Voice,Email,Mumbai,English,Neutral,3.14,88.88,1,Connected,24-03-2026 13:05
+CALL00497,CONT00711,Voice Solution,Voice,Email,Bangalore,Hindi,Positive,9.18,84.67,0,Connected,12-11-2025 15:53
+CALL00498,CONT00356,Voice Solution,Voice,None,Bangalore,Hindi,Neutral,1.19,90.13,0,Not Connected,12-06-2026 20:24
+CALL00499,CONT00626,Voice Solution,Voice,Email,Hyderabad,Marathi,Neutral,8.71,92.12,0,Connected,05-04-2026 08:39
+CALL00500,CONT00792,Voice Solution,Voice,None,Pune,Tamil,Neutral,2.82,90.77,0,Connected,08-11-2025 09:19
+CALL00501,CONT00667,Voice Solution,Voice,None,Pune,Kannada,Positive,9.03,80.76,0,Connected,02-03-2026 15:28
+CALL00502,CONT00165,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,1.05,88.9,0,Not Connected,13-04-2026 14:46
+CALL00503,CONT00734,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Neutral,13.68,89.29,0,Connected,29-01-2026 13:34
+CALL00504,CONT00091,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,0.21,86.6,0,Not Connected,16-03-2026 10:49
+CALL00505,CONT00167,Voice Solution,Voice,None,Pune,English,Neutral,1.04,90.07,0,Not Connected,05-05-2026 19:03
+CALL00506,CONT00207,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,5.16,89.89,1,Connected,27-04-2026 12:28
+CALL00507,CONT00282,Voice Solution,Voice,Email,Pune,Telugu,Positive,1.18,88.05,0,Not Connected,28-11-2025 08:11
+CALL00508,CONT00065,Voice Solution,Voice,None,Delhi,English,Positive,6.87,83.48,0,Connected,08-06-2026 18:23
+CALL00509,CONT00888,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,1.03,88.37,0,Not Connected,11-12-2025 08:48
+CALL00510,CONT00516,Voice Solution,Voice,Email,Chennai,English,Positive,1.92,97.83,1,Connected,16-06-2026 15:07
+CALL00511,CONT00157,Voice Solution,Voice,WhatsApp,Pune,Telugu,Neutral,0.17,86.54,0,Not Connected,11-05-2026 11:53
+CALL00512,CONT00761,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,4.39,93.74,0,Connected,25-03-2026 10:29
+CALL00513,CONT00769,Voice Solution,Voice,None,Hyderabad,Telugu,Negative,4.23,88.69,1,Connected,20-05-2026 15:58
+CALL00514,CONT00747,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,8.29,84.5,1,Connected,31-05-2026 20:38
+CALL00515,CONT00306,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Positive,6.85,87.02,1,Connected,08-06-2026 18:50
+CALL00516,CONT00878,Voice Solution,Voice,None,Pune,Tamil,Positive,10.43,88.42,0,Connected,28-06-2026 12:31
+CALL00517,CONT00395,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Neutral,8.85,91.78,1,Connected,16-12-2025 20:51
+CALL00518,CONT00074,Voice Solution,Voice,None,Delhi,Hindi,Neutral,14.33,99.8,1,Connected,05-12-2025 17:12
+CALL00519,CONT00187,Voice Solution,Voice,None,Hyderabad,Tamil,Positive,7.06,88.77,1,Connected,11-07-2026 16:20
+CALL00520,CONT00574,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Positive,0.65,82.35,0,Not Connected,21-01-2026 09:56
+CALL00521,CONT00337,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Neutral,21.54,80.23,1,Connected,14-07-2026 08:15
+CALL00522,CONT00676,Voice Solution,Voice,None,Chennai,Hindi,Positive,4.45,86.39,1,Connected,16-05-2026 17:40
+CALL00523,CONT00568,Voice Solution,Voice,Email,Delhi,Hindi,Negative,3.58,82.86,0,Connected,10-11-2025 10:23
+CALL00524,CONT00623,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Neutral,8.42,91.29,0,Connected,30-06-2026 11:33
+CALL00525,CONT00730,Voice Solution,Voice,None,Hyderabad,Telugu,Positive,0.56,91.33,0,Voicemail,09-07-2026 15:12
+CALL00526,CONT00240,Voice Solution,Voice,WhatsApp,Chennai,English,Positive,3.81,87.77,0,Connected,05-11-2025 18:03
+CALL00527,CONT00533,Voice Solution,Voice,None,Mumbai,Telugu,Positive,3.03,91.79,0,Connected,27-02-2026 18:57
+CALL00528,CONT00141,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Neutral,0.39,88.82,0,Voicemail,04-01-2026 17:22
+CALL00529,CONT00265,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,1.12,97.84,0,Not Connected,26-03-2026 18:51
+CALL00530,CONT00139,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Positive,6.38,91.63,1,Connected,12-06-2026 12:14
+CALL00531,CONT00459,Voice Solution,Voice,None,Delhi,Marathi,Neutral,0.8,92.98,0,Not Connected,27-06-2026 09:18
+CALL00532,CONT00070,Voice Solution,Voice,Email,Delhi,Marathi,Positive,0.11,81.26,0,Voicemail,26-04-2026 09:49
+CALL00533,CONT00385,Voice Solution,Voice,None,Chennai,Hindi,Neutral,0.89,82.64,1,Connected,02-01-2026 15:10
+CALL00534,CONT00630,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,5.78,90.89,0,Connected,05-06-2026 16:51
+CALL00535,CONT00198,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,6.41,80.75,1,Connected,26-04-2026 16:46
+CALL00536,CONT00205,Voice Solution,Voice,WhatsApp,Bangalore,English,Negative,1.85,85.38,0,Connected,06-02-2026 14:06
+CALL00537,CONT00726,Voice Solution,Voice,Email,Mumbai,Hindi,Neutral,5.69,94.4,1,Connected,13-02-2026 11:20
+CALL00538,CONT00568,Voice Solution,Voice,Email,Chennai,Tamil,Positive,7.04,85.27,1,Connected,07-02-2026 20:06
+CALL00539,CONT00799,Voice Solution,Voice,Email,Bangalore,Marathi,Positive,9.06,82.45,0,Connected,06-11-2025 15:29
+CALL00540,CONT00805,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,11.35,91.84,0,Connected,16-05-2026 15:13
+CALL00541,CONT00687,Voice Solution,Voice,None,Bangalore,Kannada,Neutral,13.64,98.87,0,Connected,13-03-2026 11:06
+CALL00542,CONT00859,Voice Solution,Voice,WhatsApp,Pune,Hindi,Positive,4.38,84.46,1,Connected,17-07-2026 20:35
+CALL00543,CONT00882,Voice Solution,Voice,None,Hyderabad,Kannada,Negative,4.61,94.62,0,Connected,23-11-2025 11:23
+CALL00544,CONT00640,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Neutral,3.16,83.83,0,Connected,23-12-2025 16:10
+CALL00545,CONT00431,Voice Solution,Voice,Email,Pune,Tamil,Positive,6.89,87.94,0,Connected,14-04-2026 12:56
+CALL00546,CONT00890,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,0.93,88.15,0,Not Connected,21-05-2026 20:34
+CALL00547,CONT00325,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Positive,0.62,84.59,0,Connected,22-01-2026 19:43
+CALL00548,CONT00442,Voice Solution,Voice,Email,Bangalore,Kannada,Neutral,2.32,92.88,0,Connected,25-03-2026 13:51
+CALL00549,CONT00804,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Neutral,0.34,80.8,0,Not Connected,24-01-2026 17:14
+CALL00550,CONT00288,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,8.96,89.48,0,Connected,17-01-2026 13:22
+CALL00551,CONT00226,Voice Solution,Voice,None,Pune,Telugu,Positive,3.21,93.87,0,Connected,01-11-2025 15:38
+CALL00552,CONT00064,Voice Solution,Voice,Email,Chennai,Tamil,Negative,1.05,92.46,0,Not Connected,21-12-2025 13:32
+CALL00553,CONT00938,Voice Solution,Voice,None,Delhi,Hindi,Neutral,0.62,90.96,0,Not Connected,22-04-2026 15:25
+CALL00554,CONT00560,Voice Solution,Voice,WhatsApp,Hyderabad,English,Negative,4.96,96.43,0,Connected,24-05-2026 14:27
+CALL00555,CONT00714,Voice Solution,Voice,Email,Hyderabad,Hindi,Positive,6.62,87.4,1,Connected,18-07-2026 11:32
+CALL00556,CONT00498,Voice Solution,Voice,Email,Bangalore,Hindi,Positive,0.55,80.88,0,Voicemail,04-12-2025 20:57
+CALL00557,CONT00849,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,9.52,89.18,1,Connected,03-02-2026 11:12
+CALL00558,CONT00926,Voice Solution,Voice,Email,Pune,English,Neutral,6.97,87.87,1,Connected,11-01-2026 19:38
+CALL00559,CONT00917,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,0.17,77.92,0,Not Connected,09-12-2025 08:08
+CALL00560,CONT00060,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Positive,3.07,82.87,0,Connected,03-04-2026 14:21
+CALL00561,CONT00397,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,4.04,82.24,1,Connected,08-07-2026 17:12
+CALL00562,CONT00257,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Neutral,7.17,84.43,1,Connected,11-04-2026 15:28
+CALL00563,CONT00577,Voice Solution,Voice,Email,Chennai,Hindi,Positive,0.82,86.74,0,Not Connected,26-02-2026 20:29
+CALL00564,CONT00239,Voice Solution,Voice,Email,Mumbai,English,Neutral,20.68,86.94,0,Connected,17-07-2026 09:17
+CALL00565,CONT00801,Voice Solution,Voice,None,Pune,Tamil,Neutral,10.44,84.61,0,Connected,24-12-2025 17:45
+CALL00566,CONT00038,Voice Solution,Voice,None,Delhi,Marathi,Positive,2.88,82.23,0,Connected,24-06-2026 16:28
+CALL00567,CONT00025,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,6.2,90.39,1,Connected,10-06-2026 16:04
+CALL00568,CONT00410,Voice Solution,Voice,None,Hyderabad,Hindi,Positive,5.9,89.08,1,Connected,09-07-2026 17:33
+CALL00569,CONT00461,Voice Solution,Voice,None,Chennai,Hindi,Neutral,0.79,89.23,0,Not Connected,20-02-2026 17:06
+CALL00570,CONT00571,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,8.68,97.4,0,Connected,13-07-2026 09:16
+CALL00571,CONT00417,Voice Solution,Voice,Email,Delhi,Marathi,Positive,5.29,89.31,0,Connected,26-05-2026 17:44
+CALL00572,CONT00357,Voice Solution,Voice,None,Pune,Hindi,Positive,0.3,86.67,0,Not Connected,17-06-2026 17:58
+CALL00573,CONT00383,Voice Solution,Voice,Email,Pune,Telugu,Negative,2.63,87.97,0,Connected,05-01-2026 19:24
+CALL00574,CONT00809,Voice Solution,Voice,None,Mumbai,Hindi,Negative,1.08,88.99,0,Voicemail,14-01-2026 09:03
+CALL00575,CONT00158,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Neutral,22.99,91.58,1,Connected,11-02-2026 20:44
+CALL00576,CONT00569,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Negative,4.67,88.28,1,Connected,11-05-2026 17:59
+CALL00577,CONT00433,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,4.74,78.79,1,Connected,10-07-2026 15:23
+CALL00578,CONT00048,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,1.16,86.32,0,Not Connected,14-06-2026 08:35
+CALL00579,CONT00328,Voice Solution,Voice,None,Chennai,English,Positive,9.97,88.51,1,Connected,06-02-2026 19:56
+CALL00580,CONT00433,Voice Solution,Voice,None,Chennai,Telugu,Positive,7.4,95.02,1,Connected,07-07-2026 11:49
+CALL00581,CONT00431,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,7.34,84.57,0,Connected,15-04-2026 14:05
+CALL00582,CONT00056,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,15.81,80.32,1,Connected,30-11-2025 13:48
+CALL00583,CONT00577,Voice Solution,Voice,None,Chennai,Hindi,Negative,4.97,88.82,1,Connected,05-07-2026 17:00
+CALL00584,CONT00268,Voice Solution,Voice,Email,Pune,Hindi,Neutral,0.25,92.83,0,Not Connected,14-02-2026 11:29
+CALL00585,CONT00069,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,2.68,86.53,0,Connected,21-12-2025 18:02
+CALL00586,CONT00728,Voice Solution,Voice,Email,Bangalore,Tamil,Positive,0.58,99.8,0,Not Connected,20-01-2026 18:53
+CALL00587,CONT00902,Voice Solution,Voice,None,Mumbai,Telugu,Positive,4.08,99.24,1,Connected,13-03-2026 20:25
+CALL00588,CONT00601,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,8.69,88.14,0,Connected,18-03-2026 17:16
+CALL00589,CONT00449,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,2.98,89.43,1,Connected,03-05-2026 12:37
+CALL00590,CONT00793,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Negative,10.84,95.34,0,Connected,08-01-2026 11:00
+CALL00591,CONT00257,Voice Solution,Voice,None,Delhi,Kannada,Positive,0.14,88.05,0,Not Connected,04-12-2025 09:35
+CALL00592,CONT00672,Voice Solution,Voice,Email,Hyderabad,Hindi,Positive,0.31,84.48,0,Voicemail,23-12-2025 11:04
+CALL00593,CONT00490,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,0.17,92.94,1,Connected,24-05-2026 20:45
+CALL00594,CONT00746,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Positive,17.33,90.82,0,Connected,06-03-2026 13:30
+CALL00595,CONT00643,Voice Solution,Voice,None,Mumbai,Hindi,Negative,4.46,84.46,0,Connected,23-06-2026 19:44
+CALL00596,CONT00049,Voice Solution,Voice,WhatsApp,Bangalore,English,Positive,0.16,89.9,0,Voicemail,13-12-2025 09:44
+CALL00597,CONT00659,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,0.96,87.7,1,Connected,28-06-2026 18:44
+CALL00598,CONT00316,Voice Solution,Voice,Email,Pune,Kannada,Positive,28.81,86.57,0,Connected,19-02-2026 11:53
+CALL00599,CONT00413,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Positive,0.64,84.57,0,Not Connected,07-07-2026 14:31
+CALL00600,CONT00434,Voice Solution,Voice,Email,Bangalore,Marathi,Neutral,4.64,89.11,0,Connected,31-03-2026 14:24
+CALL00601,CONT00002,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,5.8,87.17,1,Connected,02-05-2026 20:02
+CALL00602,CONT00841,Voice Solution,Voice,Email,Pune,Kannada,Positive,1.63,89.92,1,Connected,03-02-2026 12:42
+CALL00603,CONT00145,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,0.91,92.6,0,Not Connected,08-11-2025 09:41
+CALL00604,CONT00366,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,11.46,89.66,1,Connected,03-05-2026 19:44
+CALL00605,CONT00420,Voice Solution,Voice,WhatsApp,Pune,Telugu,Positive,3.05,89.74,0,Connected,14-05-2026 13:26
+CALL00606,CONT00573,Voice Solution,Voice,None,Hyderabad,Kannada,Neutral,9.58,85.79,0,Connected,14-05-2026 17:59
+CALL00607,CONT00785,Voice Solution,Voice,None,Delhi,Tamil,Neutral,32.67,94.37,0,Connected,04-04-2026 09:41
+CALL00608,CONT00561,Voice Solution,Voice,WhatsApp,Hyderabad,English,Negative,12.45,84.26,1,Connected,01-02-2026 12:19
+CALL00609,CONT00844,Voice Solution,Voice,None,Mumbai,Tamil,Positive,7.53,80.44,1,Connected,09-04-2026 15:26
+CALL00610,CONT00444,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,2.63,83.15,1,Connected,31-12-2025 15:28
+CALL00611,CONT00916,Voice Solution,Voice,None,Chennai,Marathi,Positive,13.11,93.67,0,Connected,02-03-2026 18:05
+CALL00612,CONT00434,Voice Solution,Voice,WhatsApp,Pune,Hindi,Positive,10.16,90.79,1,Connected,21-12-2025 10:44
+CALL00613,CONT00643,Voice Solution,Voice,Email,Pune,Kannada,Neutral,4.49,95.06,1,Connected,05-11-2025 15:15
+CALL00614,CONT00555,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,0.37,81.88,0,Not Connected,31-01-2026 11:55
+CALL00615,CONT00057,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,2.68,99.8,1,Connected,19-04-2026 12:56
+CALL00616,CONT00562,Voice Solution,Voice,None,Hyderabad,Hindi,Positive,1.12,87.08,0,Not Connected,22-11-2025 08:29
+CALL00617,CONT00178,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,0.44,79.7,0,Not Connected,01-11-2025 13:05
+CALL00618,CONT00293,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Negative,20.3,99.48,1,Connected,13-03-2026 08:10
+CALL00619,CONT00046,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Positive,7.31,81.95,1,Connected,21-06-2026 12:54
+CALL00620,CONT00170,Voice Solution,Voice,None,Hyderabad,Hindi,Neutral,29.75,86.51,0,Connected,12-11-2025 17:38
+CALL00621,CONT00271,Voice Solution,Voice,Email,Hyderabad,Hindi,Negative,7.13,87.47,1,Connected,16-12-2025 13:38
+CALL00622,CONT00417,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,10.27,90.72,0,Connected,04-12-2025 12:26
+CALL00623,CONT00848,Voice Solution,Voice,None,Bangalore,Kannada,Neutral,17.73,84.54,0,Connected,17-01-2026 08:16
+CALL00624,CONT00139,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,12.71,93.7,1,Connected,06-06-2026 15:11
+CALL00625,CONT00247,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,0.12,92.27,0,Not Connected,12-01-2026 15:06
+CALL00626,CONT00148,Voice Solution,Voice,None,Pune,Telugu,Positive,10.2,88.6,0,Connected,07-07-2026 08:04
+CALL00627,CONT00230,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,0.82,95.12,0,Not Connected,17-12-2025 15:37
+CALL00628,CONT00792,Voice Solution,Voice,WhatsApp,Delhi,English,Positive,1.79,88.16,0,Connected,01-03-2026 12:16
+CALL00629,CONT00637,Voice Solution,Voice,Email,Pune,Hindi,Neutral,0.06,87.12,0,Not Connected,02-06-2026 18:50
+CALL00630,CONT00704,Voice Solution,Voice,None,Mumbai,English,Neutral,1.91,98.49,1,Connected,27-06-2026 08:17
+CALL00631,CONT00374,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,11.12,89.98,0,Connected,26-12-2025 13:44
+CALL00632,CONT00080,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,6.63,83.57,0,Connected,15-02-2026 10:58
+CALL00633,CONT00606,Voice Solution,Voice,None,Chennai,Marathi,Positive,11.39,84.25,0,Connected,18-12-2025 15:53
+CALL00634,CONT00738,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Neutral,8.35,88.59,1,Connected,31-12-2025 18:32
+CALL00635,CONT00065,Voice Solution,Voice,None,Bangalore,Hindi,Neutral,1.05,76.51,0,Not Connected,26-11-2025 19:02
+CALL00636,CONT00088,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,7.37,85.34,0,Connected,15-07-2026 16:17
+CALL00637,CONT00088,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,2.37,88,1,Connected,08-11-2025 10:33
+CALL00638,CONT00713,Voice Solution,Voice,None,Chennai,Kannada,Neutral,14.41,87.66,0,Connected,21-02-2026 17:26
+CALL00639,CONT00726,Voice Solution,Voice,None,Pune,Marathi,Neutral,0.21,82.21,0,Not Connected,11-07-2026 15:06
+CALL00640,CONT00204,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Neutral,8.91,86.26,0,Connected,29-04-2026 19:27
+CALL00641,CONT00913,Voice Solution,Voice,WhatsApp,Mumbai,English,Neutral,8.57,94.4,0,Connected,26-05-2026 17:44
+CALL00642,CONT00382,Voice Solution,Voice,Email,Hyderabad,Kannada,Neutral,14.43,93.37,1,Connected,07-03-2026 08:20
+CALL00643,CONT00601,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Positive,5.13,88.98,1,Connected,26-12-2025 18:35
+CALL00644,CONT00476,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,2.38,88.16,1,Connected,02-06-2026 08:02
+CALL00645,CONT00573,Voice Solution,Voice,WhatsApp,Pune,Telugu,Neutral,0.34,87.69,0,Voicemail,14-11-2025 20:34
+CALL00646,CONT00783,Voice Solution,Voice,Email,Mumbai,Telugu,Positive,9.88,89.68,0,Connected,28-11-2025 14:37
+CALL00647,CONT00606,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,0.08,89.01,0,Not Connected,17-01-2026 12:16
+CALL00648,CONT00819,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,14.89,90.12,0,Connected,04-06-2026 09:50
+CALL00649,CONT00539,Voice Solution,Voice,None,Pune,English,Negative,7.17,91.01,0,Connected,03-04-2026 09:49
+CALL00650,CONT00214,Voice Solution,Voice,None,Hyderabad,Telugu,Neutral,0.75,82.44,0,Not Connected,14-11-2025 08:54
+CALL00651,CONT00074,Voice Solution,Voice,Email,Delhi,Tamil,Positive,3.43,86.95,1,Connected,06-05-2026 10:31
+CALL00652,CONT00061,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,0.66,89.49,0,Not Connected,07-11-2025 19:12
+CALL00653,CONT00698,Voice Solution,Voice,Email,Delhi,Telugu,Neutral,8.98,83.67,0,Connected,03-11-2025 11:46
+CALL00654,CONT00543,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Positive,3.41,85.13,1,Connected,19-02-2026 11:21
+CALL00655,CONT00219,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Neutral,0.92,87.41,0,Not Connected,26-06-2026 18:51
+CALL00656,CONT00012,Voice Solution,Voice,None,Bangalore,Hindi,Neutral,6.9,87.66,0,Connected,27-06-2026 14:21
+CALL00657,CONT00814,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Positive,7.39,89.58,0,Connected,15-06-2026 18:42
+CALL00658,CONT00415,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Positive,1.13,84.26,0,Connected,15-11-2025 17:02
+CALL00659,CONT00032,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,9.56,93.34,1,Connected,11-05-2026 11:29
+CALL00660,CONT00160,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Negative,1.14,87.61,0,Not Connected,27-02-2026 08:32
+CALL00661,CONT00237,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,3.2,89.23,0,Connected,28-11-2025 20:09
+CALL00662,CONT00739,Voice Solution,Voice,None,Pune,Telugu,Negative,3.52,86.65,1,Connected,21-05-2026 12:47
+CALL00663,CONT00181,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,0.65,89.68,0,Not Connected,09-12-2025 09:14
+CALL00664,CONT00829,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Negative,7.59,96.86,0,Connected,19-06-2026 10:50
+CALL00665,CONT00558,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,8.08,86.6,1,Connected,25-01-2026 19:45
+CALL00666,CONT00341,Voice Solution,Voice,None,Hyderabad,Telugu,Positive,13.03,85.78,0,Connected,06-03-2026 19:39
+CALL00667,CONT00458,Voice Solution,Voice,Email,Mumbai,Hindi,Neutral,0.67,84.35,0,Not Connected,25-11-2025 19:52
+CALL00668,CONT00080,Voice Solution,Voice,WhatsApp,Bangalore,Telugu,Negative,15.9,88.2,1,Connected,25-03-2026 14:26
+CALL00669,CONT00647,Voice Solution,Voice,None,Pune,English,Positive,3.06,88.14,1,Connected,13-11-2025 19:11
+CALL00670,CONT00772,Voice Solution,Voice,WhatsApp,Pune,Hindi,Neutral,8.64,88.76,1,Connected,31-05-2026 11:47
+CALL00671,CONT00820,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Negative,15.19,90.84,0,Connected,25-11-2025 18:23
+CALL00672,CONT00759,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Positive,12.97,90.21,1,Connected,07-01-2026 20:32
+CALL00673,CONT00473,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Neutral,22.52,88.39,0,Connected,06-01-2026 18:33
+CALL00674,CONT00671,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Negative,9.18,98.27,1,Connected,21-06-2026 12:19
+CALL00675,CONT00715,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,0.84,91.95,0,Not Connected,17-02-2026 14:14
+CALL00676,CONT00112,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,13.98,83.05,1,Connected,26-03-2026 15:57
+CALL00677,CONT00292,Voice Solution,Voice,Email,Hyderabad,English,Neutral,0.84,80.77,0,Not Connected,19-02-2026 12:18
+CALL00678,CONT00822,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,0.38,85.02,0,Voicemail,16-06-2026 14:41
+CALL00679,CONT00631,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Positive,0.85,89.26,0,Not Connected,19-02-2026 18:08
+CALL00680,CONT00383,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Negative,9.36,84.6,0,Connected,04-12-2025 08:05
+CALL00681,CONT00017,Voice Solution,Voice,None,Mumbai,Kannada,Neutral,15.69,85.36,1,Connected,19-02-2026 16:44
+CALL00682,CONT00493,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,5.21,88.63,1,Connected,24-06-2026 20:28
+CALL00683,CONT00331,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,3.46,86.79,0,Connected,22-01-2026 16:07
+CALL00684,CONT00926,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,7.83,78.26,0,Connected,12-12-2025 19:53
+CALL00685,CONT00739,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,0.44,93.89,0,Not Connected,09-02-2026 18:20
+CALL00686,CONT00873,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,0.43,92.72,0,Not Connected,06-11-2025 16:30
+CALL00687,CONT00486,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,20.12,82.07,1,Connected,29-04-2026 17:57
+CALL00688,CONT00406,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Neutral,19.78,88.78,0,Connected,14-06-2026 16:51
+CALL00689,CONT00117,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,0.94,82.92,0,Not Connected,17-06-2026 11:46
+CALL00690,CONT00555,Voice Solution,Voice,None,Delhi,Tamil,Neutral,2.79,85.46,1,Connected,30-03-2026 20:58
+CALL00691,CONT00880,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,5.22,90.93,0,Connected,17-05-2026 13:25
+CALL00692,CONT00115,Voice Solution,Voice,Email,Chennai,Telugu,Positive,0.98,92.55,0,Not Connected,09-01-2026 19:44
+CALL00693,CONT00795,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Neutral,3.95,92.43,0,Connected,20-02-2026 11:43
+CALL00694,CONT00549,Voice Solution,Voice,Email,Bangalore,Marathi,Neutral,5.29,89.72,1,Connected,04-11-2025 15:29
+CALL00695,CONT00814,Voice Solution,Voice,Email,Delhi,Kannada,Positive,19.99,94.88,0,Connected,03-02-2026 20:23
+CALL00696,CONT00625,Voice Solution,Voice,WhatsApp,Bangalore,English,Neutral,0.39,85.45,0,Not Connected,01-04-2026 10:15
+CALL00697,CONT00547,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Positive,4.2,86.56,1,Connected,17-03-2026 18:00
+CALL00698,CONT00644,Voice Solution,Voice,None,Delhi,Tamil,Positive,6.43,75.53,0,Connected,05-07-2026 09:07
+CALL00699,CONT00336,Voice Solution,Voice,None,Mumbai,Telugu,Neutral,9.51,88.03,0,Connected,01-07-2026 18:31
+CALL00700,CONT00336,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,1.28,91.4,0,Connected,01-12-2025 12:44
+CALL00701,CONT00922,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,6.39,89.93,0,Connected,10-12-2025 19:21
+CALL00702,CONT00889,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,0.96,85.38,0,Not Connected,17-06-2026 09:35
+CALL00703,CONT00740,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,6.12,92.72,1,Connected,06-12-2025 10:10
+CALL00704,CONT00147,Voice Solution,Voice,Email,Mumbai,Marathi,Positive,0.3,88.13,0,Not Connected,11-06-2026 13:59
+CALL00705,CONT00122,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Negative,6.1,92.33,0,Connected,06-11-2025 20:42
+CALL00706,CONT00081,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Neutral,1.09,90.93,0,Connected,08-06-2026 09:55
+CALL00707,CONT00685,Voice Solution,Voice,Email,Mumbai,Tamil,Negative,15.34,95.62,1,Connected,14-01-2026 15:33
+CALL00708,CONT00666,Voice Solution,Voice,Email,Hyderabad,Telugu,Neutral,4.66,90.2,1,Connected,04-11-2025 13:26
+CALL00709,CONT00662,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,3.5,91.55,0,Connected,14-03-2026 08:08
+CALL00710,CONT00375,Voice Solution,Voice,Email,Mumbai,Tamil,Positive,4.83,88.12,1,Connected,26-02-2026 19:04
+CALL00711,CONT00570,Voice Solution,Voice,None,Chennai,Marathi,Positive,20.43,85.99,1,Connected,02-02-2026 15:12
+CALL00712,CONT00063,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,1.82,90.95,0,Connected,01-01-2026 17:59
+CALL00713,CONT00504,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Positive,10.36,96.01,1,Connected,13-05-2026 16:06
+CALL00714,CONT00668,Voice Solution,Voice,Email,Bangalore,Telugu,Neutral,0.34,85.42,0,Not Connected,22-05-2026 08:27
+CALL00715,CONT00449,Voice Solution,Voice,None,Bangalore,Marathi,Positive,1.08,87.26,0,Not Connected,26-11-2025 15:16
+CALL00716,CONT00428,Voice Solution,Voice,None,Chennai,Kannada,Positive,2.06,88.63,1,Connected,22-04-2026 09:08
+CALL00717,CONT00868,Voice Solution,Voice,Email,Pune,Telugu,Positive,6.64,91.92,1,Connected,13-03-2026 18:05
+CALL00718,CONT00427,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,6.42,90.23,1,Connected,26-02-2026 10:09
+CALL00719,CONT00421,Voice Solution,Voice,None,Bangalore,Telugu,Neutral,6.42,93.07,1,Connected,31-05-2026 16:38
+CALL00720,CONT00322,Voice Solution,Voice,Email,Bangalore,Hindi,Negative,2.33,98.37,0,Connected,13-06-2026 17:22
+CALL00721,CONT00913,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,1.12,85.31,0,Not Connected,20-11-2025 15:03
+CALL00722,CONT00680,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,7.88,91.55,0,Connected,21-02-2026 12:56
+CALL00723,CONT00166,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Positive,0.53,90.1,1,Connected,20-03-2026 18:36
+CALL00724,CONT00597,Voice Solution,Voice,Email,Mumbai,Hindi,Negative,1.18,88.6,0,Not Connected,17-12-2025 09:01
+CALL00725,CONT00649,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,7.22,91.53,1,Connected,01-11-2025 08:22
+CALL00726,CONT00461,Voice Solution,Voice,Email,Pune,Marathi,Neutral,0.11,87.17,0,Not Connected,29-01-2026 19:22
+CALL00727,CONT00459,Voice Solution,Voice,None,Pune,Telugu,Neutral,5.72,90.12,1,Connected,22-03-2026 19:36
+CALL00728,CONT00189,Voice Solution,Voice,None,Bangalore,Tamil,Positive,7.73,81.97,1,Connected,08-12-2025 15:16
+CALL00729,CONT00464,Voice Solution,Voice,None,Bangalore,Hindi,Positive,4.51,85.81,0,Connected,19-03-2026 09:02
+CALL00730,CONT00912,Voice Solution,Voice,None,Delhi,Kannada,Positive,14.35,93.74,0,Connected,17-07-2026 14:33
+CALL00731,CONT00379,Voice Solution,Voice,WhatsApp,Bangalore,English,Negative,0.28,93.55,0,Voicemail,10-04-2026 15:42
+CALL00732,CONT00002,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,2.13,89.8,1,Connected,27-04-2026 18:26
+CALL00733,CONT00618,Voice Solution,Voice,WhatsApp,Mumbai,English,Neutral,0.29,86.23,0,Voicemail,10-11-2025 17:42
+CALL00734,CONT00364,Voice Solution,Voice,None,Pune,Marathi,Neutral,13.5,92.63,1,Connected,18-03-2026 10:31
+CALL00735,CONT00072,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,6.03,94.68,1,Connected,21-04-2026 11:22
+CALL00736,CONT00427,Voice Solution,Voice,None,Pune,Tamil,Neutral,11.62,86.44,1,Connected,13-11-2025 17:54
+CALL00737,CONT00638,Voice Solution,Voice,Email,Delhi,Kannada,Positive,15.59,81.22,1,Connected,17-04-2026 16:42
+CALL00738,CONT00170,Voice Solution,Voice,None,Pune,Telugu,Positive,0.27,90.75,0,Not Connected,10-03-2026 18:39
+CALL00739,CONT00205,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,5.24,93.07,1,Connected,23-01-2026 12:57
+CALL00740,CONT00825,Voice Solution,Voice,WhatsApp,Pune,Hindi,Neutral,6.13,91.44,1,Connected,09-02-2026 20:36
+CALL00741,CONT00337,Voice Solution,Voice,None,Pune,Hindi,Positive,0.35,96.33,0,Connected,08-12-2025 10:28
+CALL00742,CONT00472,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,18.43,96.35,1,Connected,02-02-2026 15:49
+CALL00743,CONT00195,Voice Solution,Voice,None,Chennai,Telugu,Positive,12.16,86.97,1,Connected,03-02-2026 16:36
+CALL00744,CONT00670,Voice Solution,Voice,WhatsApp,Delhi,English,Negative,12.94,89.49,0,Connected,08-01-2026 14:14
+CALL00745,CONT00653,Voice Solution,Voice,Email,Delhi,Hindi,Positive,0.64,86.02,0,Not Connected,24-06-2026 12:00
+CALL00746,CONT00275,Voice Solution,Voice,WhatsApp,Delhi,English,Positive,5.92,83.39,0,Connected,17-03-2026 20:18
+CALL00747,CONT00007,Voice Solution,Voice,Email,Hyderabad,Telugu,Negative,14.83,83.68,0,Connected,15-01-2026 19:02
+CALL00748,CONT00905,Voice Solution,Voice,Email,Hyderabad,Marathi,Positive,2.76,92.09,1,Connected,05-12-2025 11:06
+CALL00749,CONT00566,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Negative,16.44,90.01,0,Connected,01-11-2025 15:05
+CALL00750,CONT00616,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,0.89,92.95,0,Voicemail,30-12-2025 17:55
+CALL00751,CONT00854,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Positive,5.99,99.8,1,Connected,17-06-2026 11:20
+CALL00752,CONT00850,Voice Solution,Voice,Email,Delhi,Marathi,Neutral,8.18,91,0,Connected,01-06-2026 19:39
+CALL00753,CONT00573,Voice Solution,Voice,Email,Bangalore,Kannada,Negative,8.14,84.56,0,Connected,14-04-2026 14:16
+CALL00754,CONT00599,Voice Solution,Voice,None,Chennai,Hindi,Positive,11.01,93.68,1,Connected,05-11-2025 15:54
+CALL00755,CONT00770,Voice Solution,Voice,Email,Hyderabad,Telugu,Negative,2.53,84.47,1,Connected,17-01-2026 09:47
+CALL00756,CONT00178,Voice Solution,Voice,WhatsApp,Pune,Telugu,Neutral,0.19,97.24,0,Voicemail,01-01-2026 17:53
+CALL00757,CONT00242,Voice Solution,Voice,WhatsApp,Pune,Tamil,Neutral,0.47,78.64,0,Not Connected,12-03-2026 20:04
+CALL00758,CONT00203,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,0.31,85.77,0,Voicemail,28-01-2026 15:22
+CALL00759,CONT00543,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,6.13,91.61,0,Connected,25-06-2026 16:42
+CALL00760,CONT00801,Voice Solution,Voice,None,Hyderabad,Telugu,Negative,19.42,94.39,0,Connected,12-12-2025 08:19
+CALL00761,CONT00462,Voice Solution,Voice,None,Chennai,English,Negative,5.48,85.12,1,Connected,28-01-2026 09:19
+CALL00762,CONT00080,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,14.29,84.21,0,Connected,12-02-2026 17:06
+CALL00763,CONT00523,Voice Solution,Voice,Email,Pune,Kannada,Positive,0.25,89.24,0,Not Connected,14-11-2025 14:00
+CALL00764,CONT00417,Voice Solution,Voice,None,Delhi,Tamil,Positive,22.88,98.04,1,Connected,28-04-2026 12:32
+CALL00765,CONT00766,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,0.64,80.81,0,Not Connected,05-03-2026 11:12
+CALL00766,CONT00384,Voice Solution,Voice,WhatsApp,Mumbai,Telugu,Positive,8.07,86.93,0,Connected,23-11-2025 15:39
+CALL00767,CONT00391,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,14.55,89.8,0,Connected,02-01-2026 11:12
+CALL00768,CONT00896,Voice Solution,Voice,Email,Chennai,Kannada,Positive,3.65,84.52,0,Connected,23-03-2026 20:09
+CALL00769,CONT00799,Voice Solution,Voice,None,Mumbai,Marathi,Neutral,5.09,84.5,0,Connected,02-04-2026 10:17
+CALL00770,CONT00688,Voice Solution,Voice,Email,Chennai,Marathi,Positive,26.83,87.33,0,Connected,25-03-2026 15:05
+CALL00771,CONT00126,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,0.59,89.96,0,Not Connected,13-06-2026 15:29
+CALL00772,CONT00494,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,8.45,87.52,0,Connected,12-02-2026 12:29
+CALL00773,CONT00047,Voice Solution,Voice,None,Pune,English,Neutral,11.14,95.83,0,Connected,12-02-2026 15:29
+CALL00774,CONT00718,Voice Solution,Voice,None,Mumbai,Marathi,Positive,21.41,91.46,0,Connected,09-12-2025 11:39
+CALL00775,CONT00476,Voice Solution,Voice,Email,Hyderabad,Hindi,Positive,1.07,90.42,0,Voicemail,17-05-2026 18:55
+CALL00776,CONT00619,Voice Solution,Voice,Email,Chennai,Kannada,Neutral,3.09,93.64,1,Connected,14-03-2026 14:49
+CALL00777,CONT00464,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Neutral,0.31,90.5,0,Not Connected,06-01-2026 17:12
+CALL00778,CONT00787,Voice Solution,Voice,None,Pune,Hindi,Neutral,21.73,86.28,1,Connected,28-04-2026 19:39
+CALL00779,CONT00849,Voice Solution,Voice,None,Mumbai,Marathi,Negative,0.99,87.18,0,Not Connected,12-12-2025 09:13
+CALL00780,CONT00123,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,0.57,82.85,0,Not Connected,15-11-2025 15:42
+CALL00781,CONT00474,Voice Solution,Voice,None,Chennai,English,Neutral,5.15,98.52,1,Connected,19-02-2026 14:00
+CALL00782,CONT00134,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,12.71,93.15,0,Connected,06-04-2026 18:55
+CALL00783,CONT00619,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,0.14,75.7,0,Not Connected,19-06-2026 10:28
+CALL00784,CONT00817,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Neutral,17.19,95.17,1,Connected,06-04-2026 18:15
+CALL00785,CONT00841,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Positive,0.16,81.17,0,Not Connected,08-12-2025 20:26
+CALL00786,CONT00562,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,2.22,91.1,0,Connected,05-02-2026 20:36
+CALL00787,CONT00849,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,1.13,77.48,0,Not Connected,12-07-2026 11:37
+CALL00788,CONT00607,Voice Solution,Voice,Email,Mumbai,Kannada,Neutral,6.43,86.36,0,Connected,15-05-2026 18:27
+CALL00789,CONT00780,Voice Solution,Voice,Email,Pune,Telugu,Neutral,0.33,95.2,0,Not Connected,25-01-2026 20:53
+CALL00790,CONT00023,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Neutral,3.48,95.48,0,Connected,10-11-2025 09:40
+CALL00791,CONT00566,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Negative,6.17,90.03,0,Connected,05-11-2025 09:59
+CALL00792,CONT00886,Voice Solution,Voice,Email,Chennai,English,Positive,6.76,92.44,0,Connected,03-03-2026 15:50
+CALL00793,CONT00766,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Positive,9.08,81.43,1,Connected,26-02-2026 15:31
+CALL00794,CONT00235,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Positive,3.28,91.19,1,Connected,08-04-2026 18:06
+CALL00795,CONT00059,Voice Solution,Voice,None,Delhi,Marathi,Negative,3.76,92.75,1,Connected,16-06-2026 19:50
+CALL00796,CONT00164,Voice Solution,Voice,None,Chennai,Kannada,Neutral,0.45,99.8,0,Not Connected,04-06-2026 09:54
+CALL00797,CONT00771,Voice Solution,Voice,None,Pune,Kannada,Neutral,2.38,85.38,1,Connected,03-05-2026 11:44
+CALL00798,CONT00826,Voice Solution,Voice,Email,Pune,Hindi,Positive,13.8,88.58,0,Connected,15-11-2025 16:36
+CALL00799,CONT00216,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Neutral,1.56,88.89,0,Connected,06-04-2026 19:50
+CALL00800,CONT00183,Voice Solution,Voice,Email,Mumbai,Kannada,Positive,13.53,91.99,1,Connected,16-03-2026 11:24
+CALL00801,CONT00569,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,1.92,92.9,1,Connected,06-04-2026 20:29
+CALL00802,CONT00657,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,0.16,93.8,0,Voicemail,17-12-2025 20:06
+CALL00803,CONT00935,Voice Solution,Voice,WhatsApp,Pune,Hindi,Neutral,1.08,93.44,0,Not Connected,22-04-2026 14:26
+CALL00804,CONT00090,Voice Solution,Voice,None,Pune,Tamil,Neutral,5.75,81.09,1,Connected,10-03-2026 17:41
+CALL00805,CONT00311,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,25.98,75.43,1,Connected,03-02-2026 13:47
+CALL00806,CONT00557,Voice Solution,Voice,None,Mumbai,Hindi,Neutral,1.05,85.93,0,Not Connected,23-02-2026 17:27
+CALL00807,CONT00257,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,5.81,88.32,0,Connected,01-07-2026 20:15
+CALL00808,CONT00533,Voice Solution,Voice,Email,Pune,Tamil,Neutral,10.36,85.43,1,Connected,08-01-2026 16:15
+CALL00809,CONT00533,Voice Solution,Voice,None,Chennai,Tamil,Positive,11.89,86.2,1,Connected,28-03-2026 09:57
+CALL00810,CONT00052,Voice Solution,Voice,Email,Pune,Tamil,Positive,21.73,86.82,0,Connected,11-11-2025 09:00
+CALL00811,CONT00338,Voice Solution,Voice,None,Mumbai,Telugu,Positive,1.8,91.39,0,Connected,12-07-2026 14:31
+CALL00812,CONT00171,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,19.77,83.33,0,Connected,08-12-2025 13:12
+CALL00813,CONT00067,Voice Solution,Voice,None,Delhi,Tamil,Positive,3.29,88.11,0,Connected,14-03-2026 14:48
+CALL00814,CONT00625,Voice Solution,Voice,Email,Bangalore,Marathi,Neutral,0.14,88.15,0,Not Connected,19-05-2026 10:23
+CALL00815,CONT00300,Voice Solution,Voice,None,Chennai,Kannada,Positive,15,91.27,1,Connected,23-11-2025 09:47
+CALL00816,CONT00672,Voice Solution,Voice,Email,Bangalore,Marathi,Positive,17.52,94.31,1,Connected,06-06-2026 14:50
+CALL00817,CONT00778,Voice Solution,Voice,Email,Delhi,Telugu,Neutral,0.32,96.92,0,Not Connected,21-03-2026 19:47
+CALL00818,CONT00832,Voice Solution,Voice,None,Mumbai,Hindi,Positive,12.38,84.77,0,Connected,12-02-2026 11:22
+CALL00819,CONT00232,Voice Solution,Voice,None,Mumbai,Telugu,Neutral,5.8,78.5,1,Connected,29-05-2026 17:36
+CALL00820,CONT00837,Voice Solution,Voice,Email,Delhi,Kannada,Neutral,6.96,87.29,1,Connected,19-02-2026 19:46
+CALL00821,CONT00068,Voice Solution,Voice,WhatsApp,Pune,English,Negative,5.8,80.56,0,Connected,12-02-2026 14:01
+CALL00822,CONT00506,Voice Solution,Voice,Email,Delhi,Telugu,Neutral,0.45,99.8,0,Not Connected,20-04-2026 09:31
+CALL00823,CONT00028,Voice Solution,Voice,None,Chennai,Marathi,Positive,7.93,84.14,1,Connected,13-03-2026 19:51
+CALL00824,CONT00628,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,0.89,91.32,0,Voicemail,07-03-2026 11:47
+CALL00825,CONT00051,Voice Solution,Voice,None,Bangalore,Tamil,Positive,17.06,93.17,0,Connected,14-02-2026 11:05
+CALL00826,CONT00693,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Negative,10.93,90.2,0,Connected,31-01-2026 14:17
+CALL00827,CONT00260,Voice Solution,Voice,Email,Mumbai,Tamil,Positive,13.93,98.88,1,Connected,21-12-2025 12:13
+CALL00828,CONT00591,Voice Solution,Voice,Email,Pune,English,Positive,6.33,87.49,0,Connected,29-11-2025 14:34
+CALL00829,CONT00785,Voice Solution,Voice,None,Mumbai,Kannada,Positive,5.75,84.33,0,Connected,02-06-2026 17:27
+CALL00830,CONT00620,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Neutral,6.99,84.07,0,Connected,15-07-2026 14:27
+CALL00831,CONT00586,Voice Solution,Voice,None,Delhi,Marathi,Positive,24.9,92.25,0,Connected,09-02-2026 10:37
+CALL00832,CONT00687,Voice Solution,Voice,Email,Bangalore,Marathi,Negative,3.23,87.55,0,Connected,18-02-2026 15:55
+CALL00833,CONT00184,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Positive,0.64,84.07,0,Voicemail,01-05-2026 18:23
+CALL00834,CONT00023,Voice Solution,Voice,WhatsApp,Mumbai,English,Positive,5.53,90.71,1,Connected,01-11-2025 12:33
+CALL00835,CONT00786,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,1.09,92.05,0,Not Connected,25-12-2025 10:56
+CALL00836,CONT00129,Voice Solution,Voice,Email,Bangalore,Kannada,Neutral,0.21,89.86,0,Not Connected,29-03-2026 18:42
+CALL00837,CONT00291,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Negative,0.11,93,0,Not Connected,17-03-2026 10:44
+CALL00838,CONT00832,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,15.55,88.94,0,Connected,21-05-2026 16:43
+CALL00839,CONT00501,Voice Solution,Voice,None,Mumbai,Hindi,Positive,0.22,85.53,0,Not Connected,25-02-2026 09:44
+CALL00840,CONT00186,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Neutral,18.71,92.56,1,Connected,03-04-2026 17:59
+CALL00841,CONT00479,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Positive,6.4,84.05,0,Connected,02-01-2026 17:28
+CALL00842,CONT00571,Voice Solution,Voice,Email,Mumbai,Tamil,Positive,10.81,82.86,0,Connected,02-07-2026 20:31
+CALL00843,CONT00492,Voice Solution,Voice,Email,Hyderabad,Telugu,Positive,0.33,94.28,0,Not Connected,25-11-2025 18:59
+CALL00844,CONT00513,Voice Solution,Voice,None,Chennai,Tamil,Positive,9.77,86.76,0,Connected,29-01-2026 18:07
+CALL00845,CONT00643,Voice Solution,Voice,WhatsApp,Mumbai,Marathi,Positive,0.61,96.83,0,Not Connected,14-01-2026 10:00
+CALL00846,CONT00067,Voice Solution,Voice,None,Pune,Tamil,Positive,5.79,92.78,0,Connected,29-05-2026 16:51
+CALL00847,CONT00805,Voice Solution,Voice,Email,Chennai,Telugu,Positive,0.75,86.38,0,Not Connected,17-11-2025 18:00
+CALL00848,CONT00467,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Neutral,1.18,90.93,0,Voicemail,08-03-2026 14:29
+CALL00849,CONT00285,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,3.2,99.8,1,Connected,09-07-2026 08:02
+CALL00850,CONT00601,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,0.92,92.27,0,Voicemail,28-04-2026 18:29
+CALL00851,CONT00417,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,7.12,91.41,1,Connected,01-05-2026 12:27
+CALL00852,CONT00100,Voice Solution,Voice,None,Bangalore,English,Neutral,5.8,85.53,1,Connected,01-04-2026 08:50
+CALL00853,CONT00189,Voice Solution,Voice,Email,Delhi,English,Positive,12.52,97.72,0,Connected,25-11-2025 19:47
+CALL00854,CONT00890,Voice Solution,Voice,WhatsApp,Pune,Kannada,Neutral,8.04,95.09,1,Connected,29-04-2026 15:16
+CALL00855,CONT00858,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,8.85,85.57,0,Connected,17-05-2026 12:53
+CALL00856,CONT00388,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Negative,19.71,97.9,1,Connected,10-04-2026 16:09
+CALL00857,CONT00241,Voice Solution,Voice,Email,Pune,English,Positive,18.23,89.32,1,Connected,26-04-2026 12:43
+CALL00858,CONT00782,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Positive,0.45,84.3,0,Not Connected,02-01-2026 12:09
+CALL00859,CONT00731,Voice Solution,Voice,Email,Delhi,English,Negative,0.5,85.51,0,Not Connected,30-03-2026 19:33
+CALL00860,CONT00417,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Neutral,1.07,92.89,0,Not Connected,03-04-2026 11:14
+CALL00861,CONT00918,Voice Solution,Voice,Email,Pune,Telugu,Positive,0.99,84.33,0,Not Connected,05-04-2026 08:47
+CALL00862,CONT00176,Voice Solution,Voice,None,Chennai,Telugu,Negative,7.01,82.98,0,Connected,19-12-2025 12:26
+CALL00863,CONT00387,Voice Solution,Voice,WhatsApp,Bangalore,Marathi,Positive,12.33,86.31,1,Connected,23-01-2026 15:30
+CALL00864,CONT00471,Voice Solution,Voice,Email,Mumbai,Kannada,Positive,4.16,87.05,0,Connected,26-04-2026 17:22
+CALL00865,CONT00853,Voice Solution,Voice,None,Bangalore,Tamil,Negative,5.65,85.13,0,Connected,28-03-2026 19:13
+CALL00866,CONT00233,Voice Solution,Voice,WhatsApp,Pune,Telugu,Positive,5.24,86.23,0,Connected,26-02-2026 14:35
+CALL00867,CONT00663,Voice Solution,Voice,Email,Mumbai,Hindi,Negative,6.7,93.08,0,Connected,02-01-2026 15:15
+CALL00868,CONT00452,Voice Solution,Voice,WhatsApp,Bangalore,English,Positive,13.05,89.78,1,Connected,08-05-2026 10:32
+CALL00869,CONT00277,Voice Solution,Voice,Email,Mumbai,Telugu,Neutral,3.26,85.92,1,Connected,19-12-2025 15:33
+CALL00870,CONT00229,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Neutral,7.34,86.36,0,Connected,15-07-2026 18:57
+CALL00871,CONT00171,Voice Solution,Voice,None,Chennai,English,Negative,8.62,87.84,1,Connected,12-06-2026 10:03
+CALL00872,CONT00735,Voice Solution,Voice,None,Mumbai,Kannada,Neutral,2.53,88.13,1,Connected,21-03-2026 13:56
+CALL00873,CONT00213,Voice Solution,Voice,None,Hyderabad,Telugu,Positive,8.48,88.15,1,Connected,03-06-2026 17:18
+CALL00874,CONT00282,Voice Solution,Voice,None,Delhi,Telugu,Neutral,4.59,92.9,0,Connected,30-05-2026 12:55
+CALL00875,CONT00041,Voice Solution,Voice,Email,Bangalore,Hindi,Positive,7.12,89.49,1,Connected,02-12-2025 09:12
+CALL00876,CONT00122,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,0.27,89.63,0,Not Connected,07-04-2026 15:54
+CALL00877,CONT00227,Voice Solution,Voice,None,Pune,Tamil,Negative,7.05,95.63,0,Connected,24-03-2026 16:55
+CALL00878,CONT00294,Voice Solution,Voice,None,Hyderabad,Kannada,Neutral,17.34,97.88,0,Connected,19-11-2025 14:26
+CALL00879,CONT00600,Voice Solution,Voice,Email,Delhi,Tamil,Neutral,0.44,82.35,0,Not Connected,18-11-2025 16:51
+CALL00880,CONT00267,Voice Solution,Voice,None,Delhi,Telugu,Positive,3.93,80.61,1,Connected,15-07-2026 17:01
+CALL00881,CONT00541,Voice Solution,Voice,Email,Hyderabad,Tamil,Neutral,10.39,86.75,0,Connected,17-01-2026 20:18
+CALL00882,CONT00759,Voice Solution,Voice,Email,Chennai,English,Positive,9.06,92.42,0,Connected,24-04-2026 16:09
+CALL00883,CONT00828,Voice Solution,Voice,Email,Mumbai,Kannada,Neutral,11.38,90.38,0,Connected,13-05-2026 18:41
+CALL00884,CONT00451,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,5.42,93.77,1,Connected,21-02-2026 12:53
+CALL00885,CONT00449,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,12.43,86.54,1,Connected,22-02-2026 17:24
+CALL00886,CONT00756,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,0.28,78.72,0,Not Connected,10-06-2026 10:59
+CALL00887,CONT00061,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,34.97,81.67,0,Connected,15-04-2026 16:36
+CALL00888,CONT00502,Voice Solution,Voice,WhatsApp,Bangalore,Kannada,Positive,12.55,91.32,1,Connected,12-03-2026 15:09
+CALL00889,CONT00147,Voice Solution,Voice,WhatsApp,Pune,English,Neutral,13.63,93.81,1,Connected,25-12-2025 18:58
+CALL00890,CONT00686,Voice Solution,Voice,None,Mumbai,Tamil,Positive,14.23,78.97,0,Connected,11-03-2026 11:25
+CALL00891,CONT00790,Voice Solution,Voice,WhatsApp,Delhi,Hindi,Neutral,13.07,95.55,1,Connected,11-04-2026 20:43
+CALL00892,CONT00334,Voice Solution,Voice,Email,Chennai,Tamil,Positive,3.41,90.82,1,Connected,26-01-2026 20:36
+CALL00893,CONT00881,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,0.49,88.15,0,Not Connected,25-12-2025 10:10
+CALL00894,CONT00891,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Positive,6.63,85.37,1,Connected,27-04-2026 11:56
+CALL00895,CONT00142,Voice Solution,Voice,None,Hyderabad,Kannada,Neutral,9.58,96.46,1,Connected,08-11-2025 12:34
+CALL00896,CONT00044,Voice Solution,Voice,Email,Bangalore,Telugu,Positive,8.85,92.99,0,Connected,05-07-2026 16:42
+CALL00897,CONT00144,Voice Solution,Voice,None,Bangalore,English,Neutral,3.94,90.95,1,Connected,13-07-2026 10:48
+CALL00898,CONT00865,Voice Solution,Voice,WhatsApp,Hyderabad,English,Positive,14.51,84.84,1,Connected,24-12-2025 18:32
+CALL00899,CONT00333,Voice Solution,Voice,Email,Mumbai,English,Positive,0.74,96.57,0,Not Connected,07-07-2026 08:41
+CALL00900,CONT00497,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,6.08,88.65,1,Connected,27-06-2026 09:51
+CALL00901,CONT00396,Voice Solution,Voice,WhatsApp,Pune,Tamil,Positive,9.77,90,1,Connected,17-06-2026 09:01
+CALL00902,CONT00055,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Positive,0.67,88.87,0,Not Connected,06-01-2026 09:24
+CALL00903,CONT00307,Voice Solution,Voice,WhatsApp,Chennai,Hindi,Negative,5.1,84.67,0,Connected,21-12-2025 10:59
+CALL00904,CONT00870,Voice Solution,Voice,WhatsApp,Pune,Kannada,Negative,0.86,90.1,0,Not Connected,05-02-2026 08:41
+CALL00905,CONT00423,Voice Solution,Voice,WhatsApp,Hyderabad,English,Neutral,1.57,91.98,1,Connected,31-01-2026 18:06
+CALL00906,CONT00417,Voice Solution,Voice,None,Bangalore,Marathi,Positive,10.94,86.29,1,Connected,04-02-2026 09:10
+CALL00907,CONT00673,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Positive,15.31,89.67,0,Connected,27-01-2026 12:01
+CALL00908,CONT00797,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,6.31,88.79,0,Connected,17-01-2026 17:35
+CALL00909,CONT00325,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Positive,5.69,93.08,1,Connected,28-02-2026 10:17
+CALL00910,CONT00710,Voice Solution,Voice,Email,Mumbai,English,Negative,13.85,87.01,0,Connected,14-04-2026 19:19
+CALL00911,CONT00671,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Positive,2.39,89.63,1,Connected,01-05-2026 17:46
+CALL00912,CONT00080,Voice Solution,Voice,None,Chennai,English,Negative,8.79,90.69,0,Connected,11-06-2026 20:31
+CALL00913,CONT00031,Voice Solution,Voice,None,Hyderabad,Kannada,Neutral,4.8,86.89,1,Connected,07-11-2025 19:09
+CALL00914,CONT00112,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,0.05,84.37,0,Not Connected,10-04-2026 10:22
+CALL00915,CONT00558,Voice Solution,Voice,Email,Chennai,Tamil,Positive,11.91,85.19,1,Connected,31-03-2026 17:03
+CALL00916,CONT00865,Voice Solution,Voice,WhatsApp,Chennai,English,Negative,13.34,90.55,1,Connected,24-01-2026 09:27
+CALL00917,CONT00717,Voice Solution,Voice,Email,Mumbai,Marathi,Positive,3.47,87.32,0,Connected,27-03-2026 13:20
+CALL00918,CONT00564,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,0.14,87.26,0,Not Connected,20-02-2026 10:41
+CALL00919,CONT00650,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Neutral,0.3,91.52,0,Not Connected,06-12-2025 16:53
+CALL00920,CONT00472,Voice Solution,Voice,WhatsApp,Mumbai,Tamil,Positive,3.52,93.6,1,Connected,07-05-2026 08:11
+CALL00921,CONT00074,Voice Solution,Voice,Email,Pune,Hindi,Positive,2.78,94.46,1,Connected,21-01-2026 20:27
+CALL00922,CONT00553,Voice Solution,Voice,WhatsApp,Delhi,Marathi,Neutral,22.31,85.44,0,Connected,02-11-2025 16:22
+CALL00923,CONT00479,Voice Solution,Voice,WhatsApp,Pune,English,Positive,6.91,93.11,0,Connected,16-05-2026 19:53
+CALL00924,CONT00589,Voice Solution,Voice,Email,Bangalore,Tamil,Neutral,2.04,98.92,1,Connected,11-11-2025 10:55
+CALL00925,CONT00387,Voice Solution,Voice,Email,Mumbai,English,Positive,0.78,89.13,0,Not Connected,22-06-2026 08:56
+CALL00926,CONT00699,Voice Solution,Voice,None,Mumbai,Hindi,Positive,6.04,88.13,0,Connected,14-05-2026 15:06
+CALL00927,CONT00882,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,7.85,87.09,0,Connected,27-02-2026 16:03
+CALL00928,CONT00564,Voice Solution,Voice,None,Chennai,Hindi,Neutral,0.22,83.18,0,Not Connected,20-11-2025 08:03
+CALL00929,CONT00930,Voice Solution,Voice,Email,Bangalore,Kannada,Positive,6.05,92.71,0,Connected,14-07-2026 17:50
+CALL00930,CONT00433,Voice Solution,Voice,WhatsApp,Chennai,Tamil,Negative,20.85,88.16,1,Connected,10-06-2026 14:26
+CALL00931,CONT00412,Voice Solution,Voice,Email,Hyderabad,Hindi,Negative,6.57,87.75,1,Connected,14-06-2026 17:16
+CALL00932,CONT00467,Voice Solution,Voice,WhatsApp,Chennai,Telugu,Neutral,0.4,91.94,0,Not Connected,23-12-2025 08:51
+CALL00933,CONT00599,Voice Solution,Voice,None,Chennai,English,Positive,22.75,92.4,1,Connected,20-01-2026 16:08
+CALL00934,CONT00621,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Positive,0.59,85.5,0,Not Connected,21-05-2026 20:54
+CALL00935,CONT00909,Voice Solution,Voice,Email,Bangalore,Marathi,Neutral,1.03,85.62,0,Not Connected,07-04-2026 19:54
+CALL00936,CONT00737,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Neutral,12.3,85.39,1,Connected,28-02-2026 13:35
+CALL00937,CONT00248,Voice Solution,Voice,None,Mumbai,Telugu,Positive,4.55,99.07,0,Connected,29-12-2025 19:04
+CALL00938,CONT00581,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Neutral,0.19,95.89,0,Not Connected,03-06-2026 10:59
+CALL00939,CONT00120,Voice Solution,Voice,None,Delhi,Kannada,Positive,13.36,92.04,1,Connected,08-03-2026 17:34
+CALL00940,CONT00067,Voice Solution,Voice,None,Mumbai,Tamil,Positive,0.08,86.62,0,Not Connected,12-06-2026 12:25
+CALL00941,CONT00573,Voice Solution,Voice,WhatsApp,Chennai,English,Neutral,1.03,87.22,0,Not Connected,28-05-2026 17:10
+CALL00942,CONT00327,Voice Solution,Voice,None,Mumbai,Telugu,Neutral,7.92,90.32,0,Connected,23-02-2026 10:04
+CALL00943,CONT00920,Voice Solution,Voice,None,Bangalore,Hindi,Positive,0.58,99.55,1,Connected,28-05-2026 18:20
+CALL00944,CONT00703,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,0.87,89.94,0,Not Connected,14-11-2025 16:08
+CALL00945,CONT00470,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Negative,27.13,91.04,0,Connected,09-11-2025 15:15
+CALL00946,CONT00493,Voice Solution,Voice,Email,Mumbai,Tamil,Neutral,11.36,75.76,1,Connected,10-12-2025 19:28
+CALL00947,CONT00701,Voice Solution,Voice,WhatsApp,Chennai,Kannada,Neutral,14.17,89.79,0,Connected,25-06-2026 13:12
+CALL00948,CONT00663,Voice Solution,Voice,WhatsApp,Bangalore,Hindi,Positive,24.45,81.53,0,Connected,20-05-2026 16:59
+CALL00949,CONT00286,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,0.38,86.07,0,Not Connected,04-07-2026 12:37
+CALL00950,CONT00914,Voice Solution,Voice,WhatsApp,Chennai,Marathi,Positive,0.6,88.73,0,Not Connected,23-06-2026 17:08
+CALL00951,CONT00608,Voice Solution,Voice,WhatsApp,Pune,Marathi,Neutral,14.43,86.99,1,Connected,04-11-2025 11:43
+CALL00952,CONT00312,Voice Solution,Voice,WhatsApp,Delhi,Telugu,Neutral,10.79,85.32,1,Connected,03-04-2026 13:40
+CALL00953,CONT00309,Voice Solution,Voice,None,Pune,Kannada,Positive,7.43,85.36,0,Connected,29-11-2025 15:19
+CALL00954,CONT00775,Voice Solution,Voice,None,Bangalore,Tamil,Positive,0.17,87.44,0,Not Connected,17-02-2026 09:21
+CALL00955,CONT00097,Voice Solution,Voice,WhatsApp,Hyderabad,Telugu,Positive,12.52,87.23,0,Connected,06-02-2026 11:03
+CALL00956,CONT00113,Voice Solution,Voice,Email,Delhi,Hindi,Positive,3.77,88.6,1,Connected,03-06-2026 10:58
+CALL00957,CONT00637,Voice Solution,Voice,Email,Mumbai,Hindi,Negative,11.93,88.23,1,Connected,14-01-2026 10:41
+CALL00958,CONT00456,Voice Solution,Voice,None,Chennai,Tamil,Neutral,9.91,94.89,1,Connected,26-03-2026 13:19
+CALL00959,CONT00463,Voice Solution,Voice,WhatsApp,Bangalore,English,Positive,0.66,78.25,0,Not Connected,08-03-2026 12:29
+CALL00960,CONT00132,Voice Solution,Voice,WhatsApp,Delhi,English,Neutral,4.39,89.72,1,Connected,12-12-2025 09:36
+CALL00961,CONT00930,Voice Solution,Voice,None,Delhi,Hindi,Neutral,7.02,88.86,0,Connected,11-12-2025 14:17
+CALL00962,CONT00929,Voice Solution,Voice,None,Bangalore,Tamil,Neutral,3.94,87.83,1,Connected,04-12-2025 13:13
+CALL00963,CONT00121,Voice Solution,Voice,None,Mumbai,English,Positive,0.78,84.97,0,Voicemail,17-11-2025 17:53
+CALL00964,CONT00197,Voice Solution,Voice,None,Mumbai,Kannada,Positive,2.17,87.75,1,Connected,14-04-2026 16:31
+CALL00965,CONT00806,Voice Solution,Voice,WhatsApp,Hyderabad,Hindi,Positive,9.18,80.33,0,Connected,02-04-2026 13:14
+CALL00966,CONT00482,Voice Solution,Voice,Email,Pune,Marathi,Neutral,6.15,89.53,0,Connected,15-01-2026 18:34
+CALL00967,CONT00634,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,0.47,90.44,0,Not Connected,26-01-2026 19:51
+CALL00968,CONT00794,Voice Solution,Voice,WhatsApp,Hyderabad,Tamil,Neutral,4.17,84.98,1,Connected,25-02-2026 13:01
+CALL00969,CONT00897,Voice Solution,Voice,None,Pune,Marathi,Positive,6.17,98.2,1,Connected,27-11-2025 18:00
+CALL00970,CONT00772,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Positive,3.49,87.9,0,Connected,14-03-2026 18:19
+CALL00971,CONT00039,Voice Solution,Voice,Email,Bangalore,English,Positive,0.36,88.72,0,Not Connected,07-06-2026 14:53
+CALL00972,CONT00566,Voice Solution,Voice,None,Mumbai,English,Negative,3.63,95.18,0,Connected,17-04-2026 12:57
+CALL00973,CONT00512,Voice Solution,Voice,WhatsApp,Hyderabad,Marathi,Positive,1.04,99.21,0,Not Connected,06-02-2026 14:56
+CALL00974,CONT00474,Voice Solution,Voice,None,Delhi,Telugu,Positive,7.84,82.88,0,Connected,25-06-2026 10:53
+CALL00975,CONT00161,Voice Solution,Voice,None,Mumbai,Hindi,Negative,6.88,85.61,1,Connected,22-04-2026 09:13
+CALL00976,CONT00289,Voice Solution,Voice,Email,Chennai,Marathi,Neutral,7.04,87.99,0,Connected,09-05-2026 09:30
+CALL00977,CONT00200,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,6.02,84.79,1,Connected,02-03-2026 14:53
+CALL00978,CONT00788,Voice Solution,Voice,WhatsApp,Mumbai,Hindi,Positive,25.24,92.73,1,Connected,16-12-2025 18:14
+CALL00979,CONT00528,Voice Solution,Voice,WhatsApp,Delhi,Kannada,Neutral,0.19,84.24,0,Not Connected,03-01-2026 16:53
+CALL00980,CONT00917,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Positive,0.78,94.83,0,Not Connected,10-03-2026 17:15
+CALL00981,CONT00685,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Neutral,10.8,91.62,1,Connected,12-05-2026 11:25
+CALL00982,CONT00503,Voice Solution,Voice,None,Bangalore,English,Positive,0.77,94.32,0,Not Connected,30-04-2026 14:59
+CALL00983,CONT00248,Voice Solution,Voice,WhatsApp,Pune,Kannada,Positive,0.2,84.26,0,Not Connected,29-11-2025 14:05
+CALL00984,CONT00383,Voice Solution,Voice,None,Chennai,English,Neutral,11.12,86.58,1,Connected,29-03-2026 17:36
+CALL00985,CONT00218,Voice Solution,Voice,WhatsApp,Bangalore,English,Neutral,10.72,92.99,1,Connected,11-11-2025 11:10
+CALL00986,CONT00087,Voice Solution,Voice,Email,Chennai,Telugu,Neutral,0.21,92.08,0,Not Connected,13-04-2026 20:30
+CALL00987,CONT00082,Voice Solution,Voice,None,Bangalore,English,Positive,15.53,87.07,0,Connected,21-02-2026 10:07
+CALL00988,CONT00062,Voice Solution,Voice,WhatsApp,Pune,Hindi,Positive,0.09,87.78,0,Not Connected,06-05-2026 10:18
+CALL00989,CONT00799,Voice Solution,Voice,WhatsApp,Delhi,Tamil,Neutral,0.14,86.33,0,Voicemail,20-06-2026 15:54
+CALL00990,CONT00500,Voice Solution,Voice,Email,Mumbai,English,Neutral,18.35,87.64,0,Connected,15-06-2026 16:49
+CALL00991,CONT00042,Voice Solution,Voice,None,Mumbai,Marathi,Negative,1.36,83.67,0,Connected,06-02-2026 16:13
+CALL00992,CONT00012,Voice Solution,Voice,Email,Bangalore,Hindi,Neutral,27.15,82.83,0,Connected,25-12-2025 19:14
+CALL00993,CONT00833,Voice Solution,Voice,WhatsApp,Mumbai,Kannada,Neutral,6.46,93.53,1,Connected,19-02-2026 10:17
+CALL00994,CONT00746,Voice Solution,Voice,WhatsApp,Bangalore,Tamil,Negative,5.76,87.47,1,Connected,01-04-2026 11:31
+CALL00995,CONT00841,Voice Solution,Voice,None,Bangalore,Marathi,Positive,33.08,94.26,1,Connected,04-07-2026 20:54
+CALL00996,CONT00643,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,8.29,91.48,0,Connected,08-01-2026 14:43
+CALL00997,CONT00115,Voice Solution,Voice,Email,Hyderabad,Kannada,Positive,1.16,90.06,0,Not Connected,08-07-2026 09:52
+CALL00998,CONT00218,Voice Solution,Voice,None,Hyderabad,Marathi,Positive,0.22,84.95,0,Not Connected,06-12-2025 13:43
+CALL00999,CONT00649,Voice Solution,Voice,Email,Chennai,Hindi,Neutral,14.54,82.45,1,Connected,27-06-2026 10:02
+CALL01000,CONT00106,Voice Solution,Voice,WhatsApp,Hyderabad,Kannada,Neutral,20.34,86.22,1,Connected,28-03-2026 18:44

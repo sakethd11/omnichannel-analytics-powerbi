@@ -1,0 +1,1001 @@
+event id,product,event type,success status,failure reason,execution time seconds,region,trigger time
+AUTO00001,Voice Solution,Email Trigger,Success,,6.79,Chennai,11-02-2026 08:29
+AUTO00002,Voice Solution,WhatsApp Trigger,Success,,2.13,Bangalore,15-02-2026 16:53
+AUTO00003,Voice Solution,Lead Qualification,Success,,0.51,Chennai,11-01-2026 12:24
+AUTO00004,Voice Solution,CRM Update,Success,,2.06,Chennai,08-05-2026 11:21
+AUTO00005,Voice Solution,Follow-up Trigger,Success,,2.92,Mumbai,21-11-2025 14:40
+AUTO00006,Voice Solution,WhatsApp Trigger,Success,,7.3,Bangalore,11-02-2026 20:37
+AUTO00007,Voice Solution,Lead Qualification,Failed,Timeout,1.66,Delhi,02-03-2026 18:48
+AUTO00008,Voice Solution,Email Trigger,Success,,4.39,Chennai,03-06-2026 08:08
+AUTO00009,Voice Solution,Email Trigger,Success,,1.96,Hyderabad,27-01-2026 17:08
+AUTO00010,Voice Solution,Follow-up Trigger,Success,,2.86,Chennai,08-02-2026 19:13
+AUTO00011,Voice Solution,Follow-up Trigger,Success,,3.63,Delhi,01-04-2026 08:25
+AUTO00012,Voice Solution,WhatsApp Trigger,Success,,10.08,Chennai,11-03-2026 17:41
+AUTO00013,Voice Solution,Follow-up Trigger,Success,,5.53,Pune,30-03-2026 12:10
+AUTO00014,Voice Solution,Call Summary Generation,Success,,1.15,Mumbai,16-07-2026 17:45
+AUTO00015,Voice Solution,Call Summary Generation,Success,,3.1,Mumbai,11-05-2026 18:31
+AUTO00016,Voice Solution,Lead Qualification,Success,,2.82,Chennai,10-04-2026 17:26
+AUTO00017,Voice Solution,Lead Qualification,Success,,3.43,Mumbai,22-11-2025 08:01
+AUTO00018,Voice Solution,Lead Qualification,Success,,0.66,Hyderabad,11-07-2026 10:32
+AUTO00019,Voice Solution,Call Summary Generation,Success,,2.42,Bangalore,24-06-2026 13:00
+AUTO00020,Voice Solution,WhatsApp Trigger,Success,,1.36,Chennai,19-12-2025 20:31
+AUTO00021,Voice Solution,WhatsApp Trigger,Success,,1.19,Hyderabad,29-12-2025 11:42
+AUTO00022,Voice Solution,Follow-up Trigger,Success,,4.36,Pune,19-04-2026 14:45
+AUTO00023,Voice Solution,WhatsApp Trigger,Success,,6.56,Hyderabad,07-05-2026 20:33
+AUTO00024,Voice Solution,Lead Qualification,Success,,4.53,Hyderabad,09-05-2026 15:49
+AUTO00025,Voice Solution,CRM Update,Success,,7.26,Pune,24-04-2026 17:27
+AUTO00026,Voice Solution,Lead Qualification,Success,,2,Delhi,21-12-2025 13:43
+AUTO00027,Voice Solution,Call Summary Generation,Success,,12.84,Chennai,25-12-2025 19:25
+AUTO00028,Voice Solution,CRM Update,Success,,0.2,Chennai,02-07-2026 10:40
+AUTO00029,Voice Solution,Follow-up Trigger,Failed,API Error,7.92,Chennai,11-03-2026 13:32
+AUTO00030,Voice Solution,Email Trigger,Success,,2.7,Bangalore,15-03-2026 13:43
+AUTO00031,Voice Solution,WhatsApp Trigger,Success,,2.74,Hyderabad,21-11-2025 14:29
+AUTO00032,Voice Solution,WhatsApp Trigger,Success,,0.28,Chennai,16-04-2026 14:24
+AUTO00033,Voice Solution,Call Summary Generation,Success,,2.22,Mumbai,28-01-2026 15:16
+AUTO00034,Voice Solution,Lead Qualification,Success,,1.38,Delhi,14-11-2025 09:08
+AUTO00035,Voice Solution,Lead Qualification,Success,,0.7,Pune,30-06-2026 09:56
+AUTO00036,Voice Solution,CRM Update,Success,,3.44,Pune,23-12-2025 17:56
+AUTO00037,Voice Solution,WhatsApp Trigger,Success,,5.11,Bangalore,31-01-2026 13:58
+AUTO00038,Voice Solution,Call Summary Generation,Success,,2.02,Pune,05-12-2025 18:06
+AUTO00039,Voice Solution,Follow-up Trigger,Success,,1.43,Delhi,25-05-2026 15:54
+AUTO00040,Voice Solution,Lead Qualification,Success,,2.75,Hyderabad,20-01-2026 13:41
+AUTO00041,Voice Solution,WhatsApp Trigger,Success,,1.53,Pune,20-12-2025 08:22
+AUTO00042,Voice Solution,Email Trigger,Success,,3.97,Pune,02-11-2025 20:23
+AUTO00043,Voice Solution,Call Summary Generation,Success,,1.49,Mumbai,24-12-2025 14:53
+AUTO00044,Voice Solution,CRM Update,Success,,4.64,Hyderabad,14-02-2026 08:05
+AUTO00045,Voice Solution,Lead Qualification,Success,,0.4,Chennai,18-07-2026 09:38
+AUTO00046,Voice Solution,Lead Qualification,Success,,2.41,Delhi,10-05-2026 11:24
+AUTO00047,Voice Solution,Follow-up Trigger,Success,,0.83,Pune,06-06-2026 11:09
+AUTO00048,Voice Solution,Lead Qualification,Success,,2.07,Mumbai,14-12-2025 08:29
+AUTO00049,Voice Solution,Call Summary Generation,Success,,1.91,Delhi,11-04-2026 08:40
+AUTO00050,Voice Solution,WhatsApp Trigger,Failed,Messaging Delivery Error,8.19,Bangalore,21-05-2026 19:04
+AUTO00051,Voice Solution,WhatsApp Trigger,Success,,1.64,Mumbai,03-06-2026 09:28
+AUTO00052,Voice Solution,WhatsApp Trigger,Success,,2.09,Bangalore,10-07-2026 12:24
+AUTO00053,Voice Solution,Email Trigger,Success,,4.84,Pune,09-05-2026 11:18
+AUTO00054,Voice Solution,Email Trigger,Success,,0.63,Mumbai,01-06-2026 14:57
+AUTO00055,Voice Solution,Lead Qualification,Success,,0.54,Chennai,27-05-2026 20:56
+AUTO00056,Voice Solution,Email Trigger,Success,,1.02,Delhi,25-06-2026 15:45
+AUTO00057,Voice Solution,Email Trigger,Success,,0.23,Delhi,23-12-2025 18:27
+AUTO00058,Voice Solution,Follow-up Trigger,Success,,1.1,Hyderabad,05-06-2026 16:15
+AUTO00059,Voice Solution,Email Trigger,Success,,3.28,Mumbai,10-07-2026 09:20
+AUTO00060,Voice Solution,CRM Update,Success,,1.13,Mumbai,07-05-2026 19:29
+AUTO00061,Voice Solution,CRM Update,Success,,5.43,Bangalore,11-12-2025 11:23
+AUTO00062,Voice Solution,CRM Update,Success,,1.82,Mumbai,06-04-2026 14:11
+AUTO00063,Voice Solution,Lead Qualification,Success,,2.88,Delhi,15-11-2025 13:25
+AUTO00064,Voice Solution,WhatsApp Trigger,Success,,4.09,Mumbai,04-01-2026 16:02
+AUTO00065,Voice Solution,Follow-up Trigger,Success,,1.77,Hyderabad,09-11-2025 12:39
+AUTO00066,Voice Solution,Lead Qualification,Success,,3.88,Hyderabad,09-03-2026 20:26
+AUTO00067,Voice Solution,WhatsApp Trigger,Failed,Messaging Delivery Error,4.25,Delhi,16-03-2026 18:19
+AUTO00068,Voice Solution,Follow-up Trigger,Success,,8.92,Delhi,02-01-2026 10:27
+AUTO00069,Voice Solution,Follow-up Trigger,Success,,2.21,Delhi,19-03-2026 14:41
+AUTO00070,Voice Solution,Follow-up Trigger,Success,,0.28,Mumbai,20-01-2026 09:10
+AUTO00071,Voice Solution,CRM Update,Success,,2.12,Mumbai,12-04-2026 11:05
+AUTO00072,Voice Solution,CRM Update,Success,,0.2,Chennai,19-06-2026 12:10
+AUTO00073,Voice Solution,CRM Update,Success,,0.7,Pune,11-12-2025 10:13
+AUTO00074,Voice Solution,Follow-up Trigger,Success,,4.6,Pune,28-11-2025 12:58
+AUTO00075,Voice Solution,Call Summary Generation,Success,,2.56,Bangalore,15-03-2026 19:36
+AUTO00076,Voice Solution,Follow-up Trigger,Success,,9.83,Mumbai,20-05-2026 16:09
+AUTO00077,Voice Solution,CRM Update,Success,,3.39,Chennai,03-12-2025 17:31
+AUTO00078,Voice Solution,Follow-up Trigger,Success,,1.36,Chennai,18-12-2025 09:52
+AUTO00079,Voice Solution,CRM Update,Success,,2.19,Hyderabad,01-01-2026 18:01
+AUTO00080,Voice Solution,CRM Update,Success,,2.27,Mumbai,04-06-2026 15:05
+AUTO00081,Voice Solution,CRM Update,Failed,Data Validation Error,0.9,Chennai,07-02-2026 13:23
+AUTO00082,Voice Solution,Call Summary Generation,Success,,2.63,Hyderabad,21-04-2026 18:21
+AUTO00083,Voice Solution,WhatsApp Trigger,Success,,0.42,Bangalore,02-06-2026 12:57
+AUTO00084,Voice Solution,Follow-up Trigger,Success,,4.77,Hyderabad,05-12-2025 08:10
+AUTO00085,Voice Solution,Lead Qualification,Success,,2.51,Bangalore,15-06-2026 14:02
+AUTO00086,Voice Solution,CRM Update,Success,,1.08,Pune,09-02-2026 14:41
+AUTO00087,Voice Solution,Call Summary Generation,Success,,0.33,Pune,11-03-2026 10:36
+AUTO00088,Voice Solution,Lead Qualification,Success,,1.31,Delhi,15-07-2026 17:50
+AUTO00089,Voice Solution,WhatsApp Trigger,Success,,2.12,Delhi,05-11-2025 16:35
+AUTO00090,Voice Solution,Follow-up Trigger,Success,,3.26,Hyderabad,06-06-2026 11:43
+AUTO00091,Voice Solution,Call Summary Generation,Success,,5.89,Delhi,13-07-2026 12:35
+AUTO00092,Voice Solution,CRM Update,Success,,2.74,Mumbai,26-05-2026 16:17
+AUTO00093,Voice Solution,CRM Update,Success,,2.7,Hyderabad,15-11-2025 08:49
+AUTO00094,Voice Solution,CRM Update,Failed,API Error,3.27,Chennai,12-12-2025 16:48
+AUTO00095,Voice Solution,Call Summary Generation,Success,,0.79,Mumbai,28-04-2026 13:44
+AUTO00096,Voice Solution,Lead Qualification,Success,,1.15,Hyderabad,02-01-2026 14:31
+AUTO00097,Voice Solution,WhatsApp Trigger,Success,,2.42,Pune,19-06-2026 11:30
+AUTO00098,Voice Solution,Follow-up Trigger,Success,,0.67,Bangalore,29-06-2026 19:23
+AUTO00099,Voice Solution,WhatsApp Trigger,Success,,4.26,Delhi,22-12-2025 15:55
+AUTO00100,Voice Solution,CRM Update,Success,,0.72,Delhi,04-02-2026 09:50
+AUTO00101,Voice Solution,WhatsApp Trigger,Success,,0.25,Delhi,10-06-2026 20:22
+AUTO00102,Voice Solution,Lead Qualification,Success,,6.94,Hyderabad,19-06-2026 12:15
+AUTO00103,Voice Solution,Email Trigger,Success,,1.2,Mumbai,25-06-2026 10:06
+AUTO00104,Voice Solution,Email Trigger,Success,,4.94,Bangalore,23-03-2026 15:35
+AUTO00105,Voice Solution,Follow-up Trigger,Success,,4.01,Delhi,20-04-2026 15:58
+AUTO00106,Voice Solution,Follow-up Trigger,Failed,Timeout,4.06,Mumbai,29-11-2025 11:48
+AUTO00107,Voice Solution,WhatsApp Trigger,Success,,4.76,Chennai,06-12-2025 10:35
+AUTO00108,Voice Solution,Follow-up Trigger,Success,,0.89,Pune,13-11-2025 12:13
+AUTO00109,Voice Solution,Call Summary Generation,Success,,7.6,Chennai,09-04-2026 20:21
+AUTO00110,Voice Solution,Lead Qualification,Success,,2.36,Bangalore,06-05-2026 10:21
+AUTO00111,Voice Solution,CRM Update,Success,,2.82,Delhi,01-07-2026 08:09
+AUTO00112,Voice Solution,CRM Update,Success,,2.97,Chennai,25-01-2026 18:18
+AUTO00113,Voice Solution,WhatsApp Trigger,Success,,0.99,Pune,05-01-2026 16:10
+AUTO00114,Voice Solution,CRM Update,Success,,1.44,Mumbai,19-04-2026 10:46
+AUTO00115,Voice Solution,WhatsApp Trigger,Success,,2.87,Mumbai,15-12-2025 15:43
+AUTO00116,Voice Solution,Follow-up Trigger,Success,,6.5,Chennai,01-01-2026 16:19
+AUTO00117,Voice Solution,Follow-up Trigger,Success,,0.93,Delhi,14-03-2026 11:51
+AUTO00118,Voice Solution,Call Summary Generation,Success,,1.98,Pune,28-11-2025 09:03
+AUTO00119,Voice Solution,Call Summary Generation,Success,,2.44,Bangalore,16-02-2026 16:29
+AUTO00120,Voice Solution,Lead Qualification,Success,,2.82,Delhi,14-12-2025 19:06
+AUTO00121,Voice Solution,CRM Update,Success,,5.86,Hyderabad,08-03-2026 19:36
+AUTO00122,Voice Solution,Call Summary Generation,Success,,0.84,Chennai,19-06-2026 12:32
+AUTO00123,Voice Solution,Lead Qualification,Success,,2.79,Hyderabad,09-05-2026 20:31
+AUTO00124,Voice Solution,Email Trigger,Success,,3.82,Chennai,13-06-2026 16:13
+AUTO00125,Voice Solution,Call Summary Generation,Success,,4.99,Bangalore,01-03-2026 10:20
+AUTO00126,Voice Solution,Lead Qualification,Success,,2.78,Delhi,24-02-2026 11:36
+AUTO00127,Voice Solution,WhatsApp Trigger,Success,,1.56,Pune,21-06-2026 17:10
+AUTO00128,Voice Solution,WhatsApp Trigger,Success,,1.12,Delhi,17-07-2026 13:31
+AUTO00129,Voice Solution,Lead Qualification,Success,,2.28,Chennai,17-05-2026 13:02
+AUTO00130,Voice Solution,Follow-up Trigger,Success,,0.57,Mumbai,17-03-2026 10:56
+AUTO00131,Voice Solution,Email Trigger,Success,,3.34,Hyderabad,14-04-2026 18:18
+AUTO00132,Voice Solution,Lead Qualification,Success,,4.16,Pune,13-06-2026 19:03
+AUTO00133,Voice Solution,Call Summary Generation,Success,,6.49,Pune,22-06-2026 14:49
+AUTO00134,Voice Solution,Follow-up Trigger,Success,,1.85,Delhi,21-04-2026 08:57
+AUTO00135,Voice Solution,Lead Qualification,Failed,Data Validation Error,3.73,Delhi,01-04-2026 11:31
+AUTO00136,Voice Solution,CRM Update,Success,,5.4,Chennai,09-04-2026 11:00
+AUTO00137,Voice Solution,Call Summary Generation,Success,,3.16,Mumbai,04-02-2026 17:05
+AUTO00138,Voice Solution,Call Summary Generation,Success,,3.55,Hyderabad,21-06-2026 13:35
+AUTO00139,Voice Solution,WhatsApp Trigger,Success,,3.56,Mumbai,29-04-2026 08:34
+AUTO00140,Voice Solution,CRM Update,Success,,1.28,Pune,21-02-2026 20:21
+AUTO00141,Voice Solution,CRM Update,Success,,3.48,Mumbai,22-12-2025 17:25
+AUTO00142,Voice Solution,Call Summary Generation,Success,,1.94,Chennai,21-02-2026 14:55
+AUTO00143,Voice Solution,Email Trigger,Success,,7.34,Mumbai,09-02-2026 17:00
+AUTO00144,Voice Solution,Follow-up Trigger,Success,,0.65,Hyderabad,21-02-2026 17:40
+AUTO00145,Voice Solution,WhatsApp Trigger,Success,,6.33,Pune,20-01-2026 17:08
+AUTO00146,Voice Solution,CRM Update,Success,,2.59,Bangalore,06-05-2026 19:16
+AUTO00147,Voice Solution,WhatsApp Trigger,Success,,2.11,Pune,21-02-2026 15:01
+AUTO00148,Voice Solution,Call Summary Generation,Success,,3.65,Bangalore,02-11-2025 14:49
+AUTO00149,Voice Solution,Follow-up Trigger,Success,,0.7,Hyderabad,10-03-2026 17:50
+AUTO00150,Voice Solution,Lead Qualification,Success,,1.45,Pune,08-06-2026 09:14
+AUTO00151,Voice Solution,CRM Update,Success,,1.23,Pune,24-12-2025 12:12
+AUTO00152,Voice Solution,Follow-up Trigger,Success,,1.7,Pune,12-06-2026 14:38
+AUTO00153,Voice Solution,WhatsApp Trigger,Success,,7.72,Pune,13-06-2026 10:32
+AUTO00154,Voice Solution,Call Summary Generation,Success,,0.49,Chennai,06-03-2026 16:51
+AUTO00155,Voice Solution,Follow-up Trigger,Success,,5.05,Delhi,10-03-2026 19:59
+AUTO00156,Voice Solution,Lead Qualification,Success,,1.16,Pune,23-12-2025 19:56
+AUTO00157,Voice Solution,Follow-up Trigger,Success,,2.31,Chennai,21-04-2026 08:30
+AUTO00158,Voice Solution,Call Summary Generation,Success,,3.24,Hyderabad,06-06-2026 20:30
+AUTO00159,Voice Solution,WhatsApp Trigger,Success,,0.68,Pune,09-04-2026 19:38
+AUTO00160,Voice Solution,CRM Update,Failed,CRM Sync Error,1.06,Mumbai,17-05-2026 16:55
+AUTO00161,Voice Solution,CRM Update,Success,,1.84,Pune,05-07-2026 18:26
+AUTO00162,Voice Solution,Email Trigger,Success,,1.48,Pune,22-05-2026 08:13
+AUTO00163,Voice Solution,WhatsApp Trigger,Success,,4.6,Bangalore,03-05-2026 19:22
+AUTO00164,Voice Solution,Email Trigger,Success,,3.39,Mumbai,03-03-2026 16:15
+AUTO00165,Voice Solution,Email Trigger,Success,,0.57,Pune,13-07-2026 17:37
+AUTO00166,Voice Solution,Call Summary Generation,Success,,1.64,Pune,06-02-2026 12:02
+AUTO00167,Voice Solution,Call Summary Generation,Success,,2.29,Pune,17-05-2026 14:44
+AUTO00168,Voice Solution,Call Summary Generation,Success,,3.05,Chennai,28-06-2026 12:08
+AUTO00169,Voice Solution,Lead Qualification,Success,,2.07,Hyderabad,24-03-2026 12:25
+AUTO00170,Voice Solution,WhatsApp Trigger,Success,,3.47,Bangalore,05-02-2026 18:36
+AUTO00171,Voice Solution,CRM Update,Success,,1.52,Pune,20-05-2026 19:37
+AUTO00172,Voice Solution,WhatsApp Trigger,Success,,3.66,Hyderabad,04-03-2026 18:05
+AUTO00173,Voice Solution,Call Summary Generation,Failed,API Error,5.3,Bangalore,06-05-2026 17:29
+AUTO00174,Voice Solution,Lead Qualification,Success,,5.02,Bangalore,17-07-2026 11:13
+AUTO00175,Voice Solution,WhatsApp Trigger,Success,,3.01,Bangalore,28-03-2026 19:07
+AUTO00176,Voice Solution,WhatsApp Trigger,Success,,2.44,Pune,10-07-2026 12:48
+AUTO00177,Voice Solution,Email Trigger,Success,,3.76,Chennai,27-03-2026 15:36
+AUTO00178,Voice Solution,WhatsApp Trigger,Success,,2.7,Pune,28-03-2026 20:05
+AUTO00179,Voice Solution,Email Trigger,Success,,2.97,Pune,18-05-2026 11:56
+AUTO00180,Voice Solution,Email Trigger,Success,,3.1,Hyderabad,08-03-2026 12:24
+AUTO00181,Voice Solution,Follow-up Trigger,Failed,Data Validation Error,6.03,Delhi,09-12-2025 10:17
+AUTO00182,Voice Solution,Call Summary Generation,Success,,1.69,Delhi,09-03-2026 10:00
+AUTO00183,Voice Solution,Lead Qualification,Success,,9.11,Delhi,31-03-2026 08:12
+AUTO00184,Voice Solution,Email Trigger,Success,,1.91,Hyderabad,07-02-2026 20:56
+AUTO00185,Voice Solution,WhatsApp Trigger,Success,,0.9,Mumbai,10-07-2026 11:09
+AUTO00186,Voice Solution,Email Trigger,Success,,3.06,Hyderabad,24-03-2026 13:04
+AUTO00187,Voice Solution,Email Trigger,Success,,0.89,Bangalore,20-02-2026 16:27
+AUTO00188,Voice Solution,Email Trigger,Success,,3.97,Pune,30-12-2025 15:16
+AUTO00189,Voice Solution,CRM Update,Success,,1.67,Mumbai,02-11-2025 19:54
+AUTO00190,Voice Solution,CRM Update,Success,,4.94,Bangalore,12-07-2026 10:07
+AUTO00191,Voice Solution,CRM Update,Success,,1.33,Pune,20-03-2026 13:14
+AUTO00192,Voice Solution,CRM Update,Success,,1.95,Pune,07-12-2025 15:03
+AUTO00193,Voice Solution,Follow-up Trigger,Success,,6.3,Bangalore,09-04-2026 15:24
+AUTO00194,Voice Solution,Email Trigger,Success,,5.56,Hyderabad,09-11-2025 14:49
+AUTO00195,Voice Solution,Follow-up Trigger,Success,,2.59,Delhi,21-06-2026 16:00
+AUTO00196,Voice Solution,WhatsApp Trigger,Success,,1.97,Mumbai,07-02-2026 10:11
+AUTO00197,Voice Solution,Call Summary Generation,Success,,0.87,Pune,27-03-2026 10:01
+AUTO00198,Voice Solution,Lead Qualification,Success,,0.45,Chennai,27-05-2026 17:21
+AUTO00199,Voice Solution,Follow-up Trigger,Success,,0.96,Pune,11-03-2026 10:50
+AUTO00200,Voice Solution,CRM Update,Success,,6.12,Delhi,01-04-2026 18:24
+AUTO00201,Voice Solution,CRM Update,Success,,3.15,Pune,24-12-2025 17:38
+AUTO00202,Voice Solution,WhatsApp Trigger,Success,,1.08,Chennai,28-02-2026 12:56
+AUTO00203,Voice Solution,Email Trigger,Success,,3.87,Hyderabad,10-04-2026 20:24
+AUTO00204,Voice Solution,Lead Qualification,Success,,1.07,Pune,24-02-2026 12:54
+AUTO00205,Voice Solution,Follow-up Trigger,Success,,4.77,Mumbai,14-01-2026 13:00
+AUTO00206,Voice Solution,Email Trigger,Success,,1.74,Hyderabad,21-02-2026 20:46
+AUTO00207,Voice Solution,Email Trigger,Success,,4.39,Chennai,12-02-2026 14:37
+AUTO00208,Voice Solution,Call Summary Generation,Success,,0.43,Bangalore,12-07-2026 20:07
+AUTO00209,Voice Solution,Call Summary Generation,Success,,0.76,Pune,15-06-2026 16:58
+AUTO00210,Voice Solution,Follow-up Trigger,Success,,4.35,Hyderabad,20-02-2026 12:53
+AUTO00211,Voice Solution,Follow-up Trigger,Success,,4.56,Pune,07-02-2026 18:29
+AUTO00212,Voice Solution,Follow-up Trigger,Success,,6.48,Mumbai,02-04-2026 14:27
+AUTO00213,Voice Solution,Follow-up Trigger,Success,,3.22,Pune,13-05-2026 15:12
+AUTO00214,Voice Solution,CRM Update,Success,,1.71,Hyderabad,12-04-2026 16:00
+AUTO00215,Voice Solution,Email Trigger,Success,,2,Delhi,27-05-2026 16:06
+AUTO00216,Voice Solution,Email Trigger,Success,,3.16,Hyderabad,18-04-2026 20:55
+AUTO00217,Voice Solution,CRM Update,Success,,0.56,Chennai,10-04-2026 19:48
+AUTO00218,Voice Solution,Email Trigger,Success,,0.38,Hyderabad,07-01-2026 12:19
+AUTO00219,Voice Solution,Follow-up Trigger,Success,,4.69,Mumbai,15-03-2026 15:05
+AUTO00220,Voice Solution,Lead Qualification,Success,,5.83,Hyderabad,14-05-2026 19:07
+AUTO00221,Voice Solution,Call Summary Generation,Success,,3.01,Hyderabad,08-03-2026 17:22
+AUTO00222,Voice Solution,Call Summary Generation,Success,,1.64,Mumbai,03-12-2025 09:08
+AUTO00223,Voice Solution,Email Trigger,Failed,Messaging Delivery Error,1.51,Hyderabad,25-04-2026 12:04
+AUTO00224,Voice Solution,Lead Qualification,Success,,2.24,Mumbai,22-11-2025 14:02
+AUTO00225,Voice Solution,Call Summary Generation,Success,,2.2,Chennai,26-06-2026 09:06
+AUTO00226,Voice Solution,Lead Qualification,Success,,2.16,Mumbai,07-04-2026 09:28
+AUTO00227,Voice Solution,CRM Update,Success,,3.15,Chennai,08-12-2025 20:58
+AUTO00228,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,1.13,Chennai,18-06-2026 19:37
+AUTO00229,Voice Solution,Email Trigger,Success,,3.16,Mumbai,21-12-2025 16:05
+AUTO00230,Voice Solution,CRM Update,Success,,0.94,Hyderabad,27-11-2025 19:23
+AUTO00231,Voice Solution,CRM Update,Success,,2.99,Pune,14-06-2026 10:45
+AUTO00232,Voice Solution,Lead Qualification,Success,,0.43,Delhi,05-02-2026 08:50
+AUTO00233,Voice Solution,Email Trigger,Success,,1.09,Pune,27-03-2026 19:35
+AUTO00234,Voice Solution,CRM Update,Success,,5.22,Mumbai,04-11-2025 13:40
+AUTO00235,Voice Solution,Follow-up Trigger,Success,,3.64,Hyderabad,05-12-2025 13:57
+AUTO00236,Voice Solution,CRM Update,Success,,3.93,Chennai,11-05-2026 20:40
+AUTO00237,Voice Solution,Follow-up Trigger,Success,,8.62,Bangalore,19-12-2025 18:33
+AUTO00238,Voice Solution,WhatsApp Trigger,Failed,CRM Sync Error,2.25,Delhi,17-11-2025 10:38
+AUTO00239,Voice Solution,Follow-up Trigger,Success,,3.5,Pune,21-04-2026 08:39
+AUTO00240,Voice Solution,Follow-up Trigger,Success,,1.7,Hyderabad,08-06-2026 13:09
+AUTO00241,Voice Solution,Lead Qualification,Success,,2.42,Delhi,07-04-2026 13:18
+AUTO00242,Voice Solution,CRM Update,Success,,3.04,Bangalore,16-12-2025 08:26
+AUTO00243,Voice Solution,WhatsApp Trigger,Success,,0.65,Bangalore,06-11-2025 11:08
+AUTO00244,Voice Solution,CRM Update,Success,,0.2,Bangalore,07-02-2026 16:29
+AUTO00245,Voice Solution,Follow-up Trigger,Success,,2.77,Pune,21-06-2026 09:43
+AUTO00246,Voice Solution,Call Summary Generation,Success,,1.59,Mumbai,07-12-2025 15:22
+AUTO00247,Voice Solution,Follow-up Trigger,Success,,0.74,Delhi,30-04-2026 17:28
+AUTO00248,Voice Solution,CRM Update,Success,,3.88,Mumbai,03-02-2026 13:44
+AUTO00249,Voice Solution,WhatsApp Trigger,Success,,2.37,Bangalore,07-02-2026 10:01
+AUTO00250,Voice Solution,Call Summary Generation,Success,,2.71,Hyderabad,07-05-2026 13:27
+AUTO00251,Voice Solution,WhatsApp Trigger,Success,,1.14,Bangalore,24-02-2026 08:35
+AUTO00252,Voice Solution,Lead Qualification,Success,,2.49,Mumbai,10-05-2026 16:41
+AUTO00253,Voice Solution,Follow-up Trigger,Success,,3.77,Bangalore,11-07-2026 13:01
+AUTO00254,Voice Solution,Follow-up Trigger,Success,,1.1,Bangalore,10-04-2026 19:01
+AUTO00255,Voice Solution,Lead Qualification,Success,,0.87,Mumbai,14-07-2026 17:12
+AUTO00256,Voice Solution,CRM Update,Success,,7.63,Mumbai,08-03-2026 16:54
+AUTO00257,Voice Solution,Follow-up Trigger,Success,,1.07,Hyderabad,18-11-2025 15:18
+AUTO00258,Voice Solution,CRM Update,Success,,2.39,Mumbai,11-06-2026 20:50
+AUTO00259,Voice Solution,WhatsApp Trigger,Success,,2.14,Hyderabad,24-12-2025 13:44
+AUTO00260,Voice Solution,Call Summary Generation,Success,,0.68,Chennai,28-12-2025 09:02
+AUTO00261,Voice Solution,Call Summary Generation,Success,,4.11,Chennai,23-04-2026 08:41
+AUTO00262,Voice Solution,Call Summary Generation,Success,,4.25,Mumbai,22-02-2026 14:15
+AUTO00263,Voice Solution,Email Trigger,Success,,3.9,Bangalore,31-03-2026 10:30
+AUTO00264,Voice Solution,Lead Qualification,Success,,2.05,Delhi,07-03-2026 08:46
+AUTO00265,Voice Solution,Call Summary Generation,Success,,2.94,Bangalore,04-04-2026 11:31
+AUTO00266,Voice Solution,Follow-up Trigger,Failed,API Error,1.3,Mumbai,12-02-2026 19:12
+AUTO00267,Voice Solution,Lead Qualification,Success,,2.71,Hyderabad,04-07-2026 08:45
+AUTO00268,Voice Solution,WhatsApp Trigger,Success,,4,Bangalore,25-04-2026 14:21
+AUTO00269,Voice Solution,WhatsApp Trigger,Success,,4.43,Chennai,09-12-2025 11:15
+AUTO00270,Voice Solution,WhatsApp Trigger,Success,,3.07,Pune,19-04-2026 18:08
+AUTO00271,Voice Solution,WhatsApp Trigger,Success,,3.92,Mumbai,05-07-2026 19:48
+AUTO00272,Voice Solution,Email Trigger,Success,,3.25,Bangalore,26-11-2025 18:12
+AUTO00273,Voice Solution,CRM Update,Success,,4.38,Pune,13-11-2025 15:25
+AUTO00274,Voice Solution,CRM Update,Success,,2.13,Bangalore,06-12-2025 13:13
+AUTO00275,Voice Solution,Call Summary Generation,Success,,1.01,Hyderabad,22-04-2026 15:23
+AUTO00276,Voice Solution,Email Trigger,Success,,1.25,Hyderabad,20-11-2025 15:15
+AUTO00277,Voice Solution,CRM Update,Success,,1.41,Hyderabad,22-03-2026 17:11
+AUTO00278,Voice Solution,WhatsApp Trigger,Success,,7.67,Pune,23-03-2026 10:49
+AUTO00279,Voice Solution,CRM Update,Success,,3.39,Delhi,31-01-2026 14:02
+AUTO00280,Voice Solution,Lead Qualification,Success,,3.67,Pune,03-06-2026 16:23
+AUTO00281,Voice Solution,Call Summary Generation,Success,,5.14,Mumbai,21-12-2025 10:44
+AUTO00282,Voice Solution,CRM Update,Success,,0.69,Mumbai,02-04-2026 08:18
+AUTO00283,Voice Solution,Lead Qualification,Success,,2.95,Chennai,05-05-2026 17:40
+AUTO00284,Voice Solution,Follow-up Trigger,Success,,2.04,Chennai,02-01-2026 16:52
+AUTO00285,Voice Solution,Lead Qualification,Success,,5.36,Mumbai,09-05-2026 09:56
+AUTO00286,Voice Solution,Lead Qualification,Success,,4.21,Bangalore,05-03-2026 11:36
+AUTO00287,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,3.16,Mumbai,30-03-2026 18:21
+AUTO00288,Voice Solution,WhatsApp Trigger,Success,,1.45,Delhi,28-12-2025 16:46
+AUTO00289,Voice Solution,Call Summary Generation,Success,,3.45,Chennai,29-04-2026 08:16
+AUTO00290,Voice Solution,WhatsApp Trigger,Failed,Timeout,3.1,Chennai,19-04-2026 09:30
+AUTO00291,Voice Solution,Lead Qualification,Success,,2.69,Pune,24-12-2025 10:58
+AUTO00292,Voice Solution,Email Trigger,Success,,3.44,Chennai,09-02-2026 20:21
+AUTO00293,Voice Solution,WhatsApp Trigger,Success,,7.59,Mumbai,23-12-2025 16:07
+AUTO00294,Voice Solution,WhatsApp Trigger,Success,,3.84,Chennai,30-12-2025 14:02
+AUTO00295,Voice Solution,Lead Qualification,Success,,1.89,Chennai,16-02-2026 19:43
+AUTO00296,Voice Solution,Follow-up Trigger,Success,,1.34,Pune,05-11-2025 11:41
+AUTO00297,Voice Solution,Follow-up Trigger,Success,,0.1,Mumbai,11-02-2026 08:23
+AUTO00298,Voice Solution,CRM Update,Success,,1.2,Bangalore,15-05-2026 17:15
+AUTO00299,Voice Solution,Call Summary Generation,Success,,3.49,Chennai,17-12-2025 17:45
+AUTO00300,Voice Solution,Follow-up Trigger,Success,,1.24,Chennai,24-03-2026 15:10
+AUTO00301,Voice Solution,WhatsApp Trigger,Success,,3.53,Chennai,04-03-2026 15:24
+AUTO00302,Voice Solution,Email Trigger,Success,,1.14,Delhi,14-02-2026 09:24
+AUTO00303,Voice Solution,CRM Update,Success,,1.15,Mumbai,07-04-2026 12:37
+AUTO00304,Voice Solution,Call Summary Generation,Success,,3.31,Chennai,27-03-2026 11:45
+AUTO00305,Voice Solution,Email Trigger,Success,,1.5,Delhi,25-03-2026 09:57
+AUTO00306,Voice Solution,Email Trigger,Success,,2.02,Bangalore,28-02-2026 13:04
+AUTO00307,Voice Solution,WhatsApp Trigger,Success,,6.39,Bangalore,31-01-2026 20:38
+AUTO00308,Voice Solution,Lead Qualification,Success,,1.11,Pune,28-12-2025 10:04
+AUTO00309,Voice Solution,Lead Qualification,Success,,3.43,Pune,17-06-2026 12:07
+AUTO00310,Voice Solution,Lead Qualification,Failed,API Error,0.8,Pune,25-02-2026 10:14
+AUTO00311,Voice Solution,Follow-up Trigger,Success,,2.52,Delhi,07-03-2026 10:31
+AUTO00312,Voice Solution,Lead Qualification,Success,,2.31,Bangalore,09-03-2026 13:49
+AUTO00313,Voice Solution,Call Summary Generation,Success,,2.33,Pune,28-12-2025 11:09
+AUTO00314,Voice Solution,WhatsApp Trigger,Success,,3.09,Hyderabad,02-03-2026 08:39
+AUTO00315,Voice Solution,Follow-up Trigger,Success,,10.23,Pune,01-11-2025 14:37
+AUTO00316,Voice Solution,Call Summary Generation,Failed,Data Validation Error,2.32,Bangalore,27-06-2026 18:26
+AUTO00317,Voice Solution,Lead Qualification,Success,,3.85,Hyderabad,04-02-2026 14:54
+AUTO00318,Voice Solution,Call Summary Generation,Success,,1.95,Delhi,06-03-2026 13:53
+AUTO00319,Voice Solution,Email Trigger,Success,,1.21,Hyderabad,26-02-2026 11:18
+AUTO00320,Voice Solution,WhatsApp Trigger,Success,,1.1,Bangalore,18-12-2025 15:02
+AUTO00321,Voice Solution,WhatsApp Trigger,Success,,7.79,Chennai,28-01-2026 14:02
+AUTO00322,Voice Solution,Call Summary Generation,Success,,4.39,Hyderabad,25-06-2026 13:57
+AUTO00323,Voice Solution,CRM Update,Success,,1.51,Bangalore,08-05-2026 17:46
+AUTO00324,Voice Solution,WhatsApp Trigger,Success,,0.55,Pune,11-05-2026 15:31
+AUTO00325,Voice Solution,Email Trigger,Success,,5.44,Chennai,08-01-2026 13:58
+AUTO00326,Voice Solution,WhatsApp Trigger,Success,,2.4,Delhi,05-07-2026 20:14
+AUTO00327,Voice Solution,CRM Update,Success,,3.83,Delhi,15-01-2026 10:10
+AUTO00328,Voice Solution,WhatsApp Trigger,Success,,1.51,Mumbai,03-04-2026 16:46
+AUTO00329,Voice Solution,WhatsApp Trigger,Success,,2.05,Delhi,24-03-2026 15:39
+AUTO00330,Voice Solution,CRM Update,Success,,1.48,Mumbai,25-01-2026 15:31
+AUTO00331,Voice Solution,WhatsApp Trigger,Success,,2.8,Delhi,04-05-2026 16:07
+AUTO00332,Voice Solution,Call Summary Generation,Success,,4.49,Delhi,08-06-2026 16:31
+AUTO00333,Voice Solution,Follow-up Trigger,Success,,3.58,Delhi,08-01-2026 20:22
+AUTO00334,Voice Solution,Call Summary Generation,Success,,4.07,Mumbai,17-12-2025 11:15
+AUTO00335,Voice Solution,WhatsApp Trigger,Success,,8.12,Pune,02-02-2026 15:13
+AUTO00336,Voice Solution,Lead Qualification,Success,,3.8,Mumbai,26-06-2026 11:37
+AUTO00337,Voice Solution,Lead Qualification,Success,,1.54,Hyderabad,23-05-2026 18:02
+AUTO00338,Voice Solution,Follow-up Trigger,Failed,Data Validation Error,1.46,Bangalore,06-06-2026 11:58
+AUTO00339,Voice Solution,WhatsApp Trigger,Success,,4.46,Bangalore,09-12-2025 14:34
+AUTO00340,Voice Solution,Email Trigger,Success,,4.02,Pune,08-02-2026 09:49
+AUTO00341,Voice Solution,WhatsApp Trigger,Success,,7.2,Bangalore,12-07-2026 16:57
+AUTO00342,Voice Solution,Lead Qualification,Success,,1.47,Delhi,10-06-2026 12:33
+AUTO00343,Voice Solution,CRM Update,Success,,3.24,Pune,23-11-2025 08:55
+AUTO00344,Voice Solution,Follow-up Trigger,Success,,2.14,Bangalore,08-07-2026 19:37
+AUTO00345,Voice Solution,CRM Update,Success,,0.62,Mumbai,10-11-2025 17:53
+AUTO00346,Voice Solution,Email Trigger,Success,,1.21,Hyderabad,04-07-2026 10:53
+AUTO00347,Voice Solution,WhatsApp Trigger,Success,,2.04,Chennai,08-02-2026 12:51
+AUTO00348,Voice Solution,Email Trigger,Success,,0.9,Hyderabad,29-04-2026 14:30
+AUTO00349,Voice Solution,CRM Update,Success,,1.56,Bangalore,11-06-2026 20:59
+AUTO00350,Voice Solution,WhatsApp Trigger,Success,,6.18,Pune,08-07-2026 11:41
+AUTO00351,Voice Solution,Call Summary Generation,Success,,5.22,Bangalore,27-03-2026 08:51
+AUTO00352,Voice Solution,Call Summary Generation,Success,,1.88,Mumbai,04-02-2026 11:15
+AUTO00353,Voice Solution,Email Trigger,Success,,1.52,Hyderabad,15-07-2026 14:07
+AUTO00354,Voice Solution,Call Summary Generation,Success,,0.1,Mumbai,04-11-2025 20:20
+AUTO00355,Voice Solution,Call Summary Generation,Failed,API Error,0.63,Mumbai,16-11-2025 15:48
+AUTO00356,Voice Solution,Lead Qualification,Success,,2.43,Chennai,05-07-2026 16:59
+AUTO00357,Voice Solution,Call Summary Generation,Success,,2.63,Mumbai,16-07-2026 17:22
+AUTO00358,Voice Solution,Lead Qualification,Success,,0.27,Mumbai,09-04-2026 18:53
+AUTO00359,Voice Solution,Follow-up Trigger,Failed,Messaging Delivery Error,2.35,Chennai,01-04-2026 12:32
+AUTO00360,Voice Solution,Lead Qualification,Success,,4.55,Delhi,27-04-2026 15:56
+AUTO00361,Voice Solution,Lead Qualification,Success,,3.01,Delhi,12-04-2026 17:34
+AUTO00362,Voice Solution,CRM Update,Success,,3.06,Pune,03-12-2025 16:56
+AUTO00363,Voice Solution,Lead Qualification,Success,,2.39,Chennai,28-04-2026 09:33
+AUTO00364,Voice Solution,Lead Qualification,Success,,3.11,Pune,09-02-2026 10:03
+AUTO00365,Voice Solution,CRM Update,Success,,5.67,Pune,04-01-2026 11:34
+AUTO00366,Voice Solution,Lead Qualification,Success,,3.44,Mumbai,17-04-2026 20:28
+AUTO00367,Voice Solution,Call Summary Generation,Success,,1.13,Pune,13-12-2025 13:33
+AUTO00368,Voice Solution,Lead Qualification,Success,,4.37,Bangalore,14-12-2025 11:10
+AUTO00369,Voice Solution,Follow-up Trigger,Success,,2,Hyderabad,12-11-2025 08:33
+AUTO00370,Voice Solution,Lead Qualification,Failed,Timeout,1.4,Bangalore,03-02-2026 15:20
+AUTO00371,Voice Solution,Lead Qualification,Success,,10.52,Bangalore,11-07-2026 13:24
+AUTO00372,Voice Solution,Follow-up Trigger,Success,,2.36,Mumbai,30-06-2026 19:35
+AUTO00373,Voice Solution,CRM Update,Success,,1.22,Hyderabad,05-12-2025 12:46
+AUTO00374,Voice Solution,Call Summary Generation,Success,,1.79,Pune,03-06-2026 15:19
+AUTO00375,Voice Solution,Lead Qualification,Success,,2.01,Hyderabad,29-01-2026 18:35
+AUTO00376,Voice Solution,Call Summary Generation,Success,,3.78,Pune,01-02-2026 14:23
+AUTO00377,Voice Solution,Email Trigger,Success,,3.28,Delhi,29-01-2026 13:10
+AUTO00378,Voice Solution,Call Summary Generation,Success,,4.09,Chennai,23-02-2026 13:33
+AUTO00379,Voice Solution,CRM Update,Success,,5.34,Mumbai,13-02-2026 17:32
+AUTO00380,Voice Solution,CRM Update,Success,,6.29,Pune,15-05-2026 13:59
+AUTO00381,Voice Solution,Lead Qualification,Success,,5.94,Pune,22-02-2026 18:55
+AUTO00382,Voice Solution,Follow-up Trigger,Success,,0.41,Hyderabad,14-01-2026 09:36
+AUTO00383,Voice Solution,CRM Update,Success,,7.85,Mumbai,05-06-2026 18:07
+AUTO00384,Voice Solution,Follow-up Trigger,Success,,1.46,Pune,07-07-2026 08:56
+AUTO00385,Voice Solution,Email Trigger,Success,,3.63,Delhi,13-04-2026 10:25
+AUTO00386,Voice Solution,Follow-up Trigger,Success,,3.74,Bangalore,11-05-2026 10:26
+AUTO00387,Voice Solution,WhatsApp Trigger,Success,,2.24,Pune,15-06-2026 12:50
+AUTO00388,Voice Solution,Follow-up Trigger,Success,,1.48,Hyderabad,26-04-2026 20:59
+AUTO00389,Voice Solution,CRM Update,Success,,0.71,Delhi,07-02-2026 13:33
+AUTO00390,Voice Solution,Follow-up Trigger,Success,,2.61,Mumbai,06-12-2025 16:31
+AUTO00391,Voice Solution,Follow-up Trigger,Success,,2.31,Pune,04-02-2026 18:51
+AUTO00392,Voice Solution,WhatsApp Trigger,Success,,0.95,Delhi,01-04-2026 12:49
+AUTO00393,Voice Solution,WhatsApp Trigger,Success,,2.44,Delhi,31-03-2026 18:47
+AUTO00394,Voice Solution,Lead Qualification,Success,,3.49,Delhi,09-05-2026 19:34
+AUTO00395,Voice Solution,CRM Update,Success,,8.92,Delhi,12-06-2026 09:34
+AUTO00396,Voice Solution,Lead Qualification,Success,,1.61,Delhi,07-12-2025 20:27
+AUTO00397,Voice Solution,WhatsApp Trigger,Success,,1.69,Delhi,02-05-2026 12:14
+AUTO00398,Voice Solution,Follow-up Trigger,Success,,5.33,Chennai,13-11-2025 08:08
+AUTO00399,Voice Solution,WhatsApp Trigger,Failed,API Error,2.7,Mumbai,05-06-2026 08:53
+AUTO00400,Voice Solution,Email Trigger,Success,,0.58,Bangalore,01-01-2026 11:12
+AUTO00401,Voice Solution,Follow-up Trigger,Success,,1.51,Mumbai,23-01-2026 15:55
+AUTO00402,Voice Solution,Lead Qualification,Success,,1.67,Hyderabad,05-06-2026 11:45
+AUTO00403,Voice Solution,Follow-up Trigger,Success,,3.01,Hyderabad,06-05-2026 17:35
+AUTO00404,Voice Solution,Email Trigger,Success,,0.91,Mumbai,19-11-2025 10:25
+AUTO00405,Voice Solution,WhatsApp Trigger,Success,,0.72,Delhi,26-04-2026 18:42
+AUTO00406,Voice Solution,CRM Update,Success,,1.72,Chennai,08-02-2026 10:33
+AUTO00407,Voice Solution,Call Summary Generation,Success,,1.8,Bangalore,21-06-2026 09:25
+AUTO00408,Voice Solution,CRM Update,Success,,1.08,Pune,15-01-2026 17:46
+AUTO00409,Voice Solution,CRM Update,Success,,0.92,Pune,25-05-2026 12:42
+AUTO00410,Voice Solution,WhatsApp Trigger,Success,,4.64,Delhi,11-06-2026 16:15
+AUTO00411,Voice Solution,CRM Update,Success,,1.92,Mumbai,22-12-2025 13:36
+AUTO00412,Voice Solution,Email Trigger,Success,,4.51,Pune,24-03-2026 18:15
+AUTO00413,Voice Solution,WhatsApp Trigger,Success,,3.76,Mumbai,08-01-2026 15:23
+AUTO00414,Voice Solution,CRM Update,Success,,1.46,Chennai,07-02-2026 16:20
+AUTO00415,Voice Solution,Call Summary Generation,Success,,1.24,Chennai,25-11-2025 16:03
+AUTO00416,Voice Solution,Lead Qualification,Success,,5.62,Mumbai,23-12-2025 12:56
+AUTO00417,Voice Solution,WhatsApp Trigger,Success,,3.8,Delhi,31-03-2026 19:25
+AUTO00418,Voice Solution,WhatsApp Trigger,Success,,2.37,Delhi,24-03-2026 15:15
+AUTO00419,Voice Solution,Follow-up Trigger,Success,,4.81,Delhi,27-12-2025 09:42
+AUTO00420,Voice Solution,CRM Update,Success,,0.88,Pune,09-12-2025 14:03
+AUTO00421,Voice Solution,Lead Qualification,Failed,Timeout,7.36,Bangalore,17-02-2026 19:34
+AUTO00422,Voice Solution,Call Summary Generation,Success,,1.6,Bangalore,30-04-2026 13:43
+AUTO00423,Voice Solution,Email Trigger,Success,,0.78,Delhi,12-12-2025 16:21
+AUTO00424,Voice Solution,WhatsApp Trigger,Success,,1.98,Mumbai,05-05-2026 17:09
+AUTO00425,Voice Solution,Email Trigger,Success,,0.98,Chennai,11-06-2026 09:02
+AUTO00426,Voice Solution,Email Trigger,Success,,2.84,Hyderabad,02-03-2026 20:49
+AUTO00427,Voice Solution,Email Trigger,Success,,1.95,Chennai,13-03-2026 10:42
+AUTO00428,Voice Solution,Follow-up Trigger,Success,,1.92,Chennai,12-04-2026 20:03
+AUTO00429,Voice Solution,Email Trigger,Success,,8.19,Hyderabad,03-06-2026 18:58
+AUTO00430,Voice Solution,CRM Update,Success,,3.47,Delhi,09-06-2026 18:42
+AUTO00431,Voice Solution,CRM Update,Success,,1.38,Chennai,23-06-2026 10:26
+AUTO00432,Voice Solution,Lead Qualification,Success,,2.53,Hyderabad,26-03-2026 20:53
+AUTO00433,Voice Solution,Lead Qualification,Success,,5.66,Pune,27-06-2026 16:16
+AUTO00434,Voice Solution,Call Summary Generation,Success,,1.86,Mumbai,15-01-2026 16:33
+AUTO00435,Voice Solution,Email Trigger,Failed,Timeout,2.63,Mumbai,09-11-2025 17:51
+AUTO00436,Voice Solution,Email Trigger,Success,,1.58,Mumbai,13-01-2026 10:28
+AUTO00437,Voice Solution,Follow-up Trigger,Success,,4.75,Delhi,11-07-2026 10:32
+AUTO00438,Voice Solution,Email Trigger,Success,,2.55,Chennai,18-06-2026 14:13
+AUTO00439,Voice Solution,Email Trigger,Success,,6.08,Chennai,07-11-2025 09:46
+AUTO00440,Voice Solution,Email Trigger,Success,,2.95,Bangalore,23-04-2026 15:37
+AUTO00441,Voice Solution,WhatsApp Trigger,Failed,API Error,2.02,Mumbai,21-03-2026 20:30
+AUTO00442,Voice Solution,WhatsApp Trigger,Success,,2.2,Delhi,17-04-2026 13:05
+AUTO00443,Voice Solution,Follow-up Trigger,Failed,Data Validation Error,7.5,Hyderabad,19-04-2026 14:25
+AUTO00444,Voice Solution,Follow-up Trigger,Success,,2.71,Delhi,02-03-2026 20:00
+AUTO00445,Voice Solution,CRM Update,Success,,1.35,Chennai,13-05-2026 12:18
+AUTO00446,Voice Solution,Follow-up Trigger,Success,,1.93,Mumbai,05-11-2025 14:29
+AUTO00447,Voice Solution,Call Summary Generation,Success,,7.22,Bangalore,29-11-2025 17:07
+AUTO00448,Voice Solution,CRM Update,Success,,0.87,Pune,14-04-2026 10:52
+AUTO00449,Voice Solution,Email Trigger,Success,,1.52,Delhi,16-03-2026 12:32
+AUTO00450,Voice Solution,Follow-up Trigger,Success,,5.29,Bangalore,25-03-2026 08:50
+AUTO00451,Voice Solution,Call Summary Generation,Success,,3.96,Chennai,05-06-2026 08:01
+AUTO00452,Voice Solution,Follow-up Trigger,Success,,1.23,Hyderabad,12-03-2026 10:31
+AUTO00453,Voice Solution,Follow-up Trigger,Failed,Messaging Delivery Error,2.04,Delhi,09-01-2026 14:56
+AUTO00454,Voice Solution,CRM Update,Success,,1.56,Pune,10-07-2026 09:41
+AUTO00455,Voice Solution,CRM Update,Success,,7.2,Chennai,01-05-2026 18:47
+AUTO00456,Voice Solution,Lead Qualification,Success,,3.19,Mumbai,16-04-2026 08:32
+AUTO00457,Voice Solution,CRM Update,Success,,2.08,Delhi,30-01-2026 13:07
+AUTO00458,Voice Solution,CRM Update,Success,,2.17,Bangalore,21-05-2026 19:01
+AUTO00459,Voice Solution,WhatsApp Trigger,Success,,1.59,Delhi,19-11-2025 15:13
+AUTO00460,Voice Solution,Follow-up Trigger,Success,,5.21,Chennai,09-12-2025 17:15
+AUTO00461,Voice Solution,CRM Update,Success,,3.89,Chennai,06-03-2026 15:01
+AUTO00462,Voice Solution,Follow-up Trigger,Failed,Timeout,5.16,Bangalore,22-04-2026 18:11
+AUTO00463,Voice Solution,Follow-up Trigger,Success,,2.18,Pune,21-03-2026 15:18
+AUTO00464,Voice Solution,WhatsApp Trigger,Success,,1.7,Chennai,30-06-2026 08:56
+AUTO00465,Voice Solution,Follow-up Trigger,Failed,Timeout,3.52,Delhi,08-06-2026 15:08
+AUTO00466,Voice Solution,Call Summary Generation,Success,,2.81,Pune,06-03-2026 11:47
+AUTO00467,Voice Solution,CRM Update,Failed,Data Validation Error,8.97,Bangalore,28-12-2025 14:53
+AUTO00468,Voice Solution,Follow-up Trigger,Failed,API Error,2.09,Chennai,28-03-2026 17:46
+AUTO00469,Voice Solution,Lead Qualification,Success,,1.71,Chennai,01-11-2025 15:23
+AUTO00470,Voice Solution,Lead Qualification,Success,,2.72,Delhi,09-05-2026 17:13
+AUTO00471,Voice Solution,WhatsApp Trigger,Success,,1.29,Chennai,10-05-2026 20:49
+AUTO00472,Voice Solution,Call Summary Generation,Success,,3.54,Delhi,25-02-2026 17:09
+AUTO00473,Voice Solution,CRM Update,Success,,1.09,Mumbai,14-03-2026 08:14
+AUTO00474,Voice Solution,WhatsApp Trigger,Success,,3.24,Pune,28-12-2025 11:14
+AUTO00475,Voice Solution,Lead Qualification,Success,,2.77,Delhi,14-12-2025 15:46
+AUTO00476,Voice Solution,Call Summary Generation,Success,,7.6,Hyderabad,22-04-2026 12:33
+AUTO00477,Voice Solution,CRM Update,Success,,3.09,Chennai,09-04-2026 10:23
+AUTO00478,Voice Solution,Follow-up Trigger,Success,,1.35,Mumbai,22-04-2026 17:21
+AUTO00479,Voice Solution,CRM Update,Success,,3.93,Pune,29-03-2026 17:14
+AUTO00480,Voice Solution,Email Trigger,Success,,1.41,Bangalore,19-01-2026 13:54
+AUTO00481,Voice Solution,CRM Update,Success,,3.64,Hyderabad,01-06-2026 16:12
+AUTO00482,Voice Solution,Follow-up Trigger,Success,,2.08,Bangalore,22-05-2026 18:14
+AUTO00483,Voice Solution,Email Trigger,Success,,1.17,Hyderabad,10-07-2026 20:47
+AUTO00484,Voice Solution,Call Summary Generation,Success,,0.92,Mumbai,17-06-2026 12:15
+AUTO00485,Voice Solution,WhatsApp Trigger,Success,,6.64,Pune,13-04-2026 12:15
+AUTO00486,Voice Solution,Call Summary Generation,Success,,0.81,Mumbai,15-06-2026 09:59
+AUTO00487,Voice Solution,CRM Update,Success,,2.91,Mumbai,27-03-2026 10:52
+AUTO00488,Voice Solution,WhatsApp Trigger,Success,,5.38,Hyderabad,20-11-2025 20:22
+AUTO00489,Voice Solution,CRM Update,Success,,1.37,Delhi,17-12-2025 08:26
+AUTO00490,Voice Solution,Lead Qualification,Success,,2.11,Pune,21-06-2026 11:46
+AUTO00491,Voice Solution,Lead Qualification,Success,,6.79,Bangalore,14-11-2025 12:54
+AUTO00492,Voice Solution,Follow-up Trigger,Success,,1.93,Delhi,23-03-2026 15:25
+AUTO00493,Voice Solution,Call Summary Generation,Success,,1.68,Delhi,01-11-2025 16:51
+AUTO00494,Voice Solution,Lead Qualification,Success,,1.58,Chennai,24-12-2025 13:33
+AUTO00495,Voice Solution,Email Trigger,Failed,Messaging Delivery Error,4.66,Bangalore,17-07-2026 09:19
+AUTO00496,Voice Solution,Email Trigger,Success,,3.06,Hyderabad,24-03-2026 13:05
+AUTO00497,Voice Solution,CRM Update,Success,,2.24,Chennai,12-11-2025 15:53
+AUTO00498,Voice Solution,WhatsApp Trigger,Success,,4.55,Chennai,12-06-2026 20:24
+AUTO00499,Voice Solution,Email Trigger,Success,,5.29,Mumbai,05-04-2026 08:39
+AUTO00500,Voice Solution,CRM Update,Success,,1.5,Hyderabad,08-11-2025 09:19
+AUTO00501,Voice Solution,WhatsApp Trigger,Success,,1.08,Delhi,02-03-2026 15:28
+AUTO00502,Voice Solution,Lead Qualification,Success,,2.54,Pune,13-04-2026 14:46
+AUTO00503,Voice Solution,CRM Update,Success,,5.66,Delhi,29-01-2026 13:34
+AUTO00504,Voice Solution,WhatsApp Trigger,Success,,2.27,Delhi,16-03-2026 10:49
+AUTO00505,Voice Solution,Follow-up Trigger,Success,,3.72,Mumbai,05-05-2026 19:03
+AUTO00506,Voice Solution,Call Summary Generation,Failed,Timeout,1.02,Delhi,27-04-2026 12:28
+AUTO00507,Voice Solution,Call Summary Generation,Success,,2.52,Bangalore,28-11-2025 08:11
+AUTO00508,Voice Solution,Follow-up Trigger,Success,,4.8,Delhi,08-06-2026 18:23
+AUTO00509,Voice Solution,Email Trigger,Success,,5.95,Delhi,11-12-2025 08:48
+AUTO00510,Voice Solution,Call Summary Generation,Success,,3.44,Bangalore,16-06-2026 15:07
+AUTO00511,Voice Solution,WhatsApp Trigger,Success,,2.68,Mumbai,11-05-2026 11:53
+AUTO00512,Voice Solution,Follow-up Trigger,Success,,2.91,Chennai,25-03-2026 10:29
+AUTO00513,Voice Solution,Email Trigger,Success,,4.36,Hyderabad,20-05-2026 15:58
+AUTO00514,Voice Solution,CRM Update,Success,,3.42,Mumbai,31-05-2026 20:38
+AUTO00515,Voice Solution,CRM Update,Success,,1.15,Delhi,08-06-2026 18:50
+AUTO00516,Voice Solution,WhatsApp Trigger,Success,,0.89,Chennai,28-06-2026 12:31
+AUTO00517,Voice Solution,WhatsApp Trigger,Success,,1.36,Hyderabad,16-12-2025 20:51
+AUTO00518,Voice Solution,WhatsApp Trigger,Success,,1.77,Hyderabad,05-12-2025 17:12
+AUTO00519,Voice Solution,Call Summary Generation,Success,,7.34,Hyderabad,11-07-2026 16:20
+AUTO00520,Voice Solution,WhatsApp Trigger,Success,,5.79,Bangalore,21-01-2026 09:56
+AUTO00521,Voice Solution,Follow-up Trigger,Failed,Timeout,2.37,Bangalore,14-07-2026 08:15
+AUTO00522,Voice Solution,Follow-up Trigger,Success,,2.99,Chennai,16-05-2026 17:40
+AUTO00523,Voice Solution,Email Trigger,Success,,1.98,Delhi,10-11-2025 10:23
+AUTO00524,Voice Solution,Follow-up Trigger,Success,,1.51,Chennai,30-06-2026 11:33
+AUTO00525,Voice Solution,Call Summary Generation,Success,,4.75,Delhi,09-07-2026 15:12
+AUTO00526,Voice Solution,CRM Update,Success,,0.81,Mumbai,05-11-2025 18:03
+AUTO00527,Voice Solution,Email Trigger,Success,,4.52,Hyderabad,27-02-2026 18:57
+AUTO00528,Voice Solution,Follow-up Trigger,Success,,2.22,Hyderabad,04-01-2026 17:22
+AUTO00529,Voice Solution,WhatsApp Trigger,Success,,1.43,Bangalore,26-03-2026 18:51
+AUTO00530,Voice Solution,Follow-up Trigger,Success,,0.69,Mumbai,12-06-2026 12:14
+AUTO00531,Voice Solution,Lead Qualification,Success,,1.91,Pune,27-06-2026 09:18
+AUTO00532,Voice Solution,Email Trigger,Failed,API Error,1.86,Mumbai,26-04-2026 09:49
+AUTO00533,Voice Solution,Call Summary Generation,Success,,3.5,Delhi,02-01-2026 15:10
+AUTO00534,Voice Solution,Follow-up Trigger,Success,,3.51,Mumbai,05-06-2026 16:51
+AUTO00535,Voice Solution,Follow-up Trigger,Success,,1.1,Bangalore,26-04-2026 16:46
+AUTO00536,Voice Solution,Call Summary Generation,Success,,2.4,Delhi,06-02-2026 14:06
+AUTO00537,Voice Solution,CRM Update,Success,,6.4,Chennai,13-02-2026 11:20
+AUTO00538,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,1.96,Delhi,07-02-2026 20:06
+AUTO00539,Voice Solution,WhatsApp Trigger,Success,,0.93,Chennai,06-11-2025 15:29
+AUTO00540,Voice Solution,CRM Update,Success,,10.22,Pune,16-05-2026 15:13
+AUTO00541,Voice Solution,CRM Update,Success,,1.04,Delhi,13-03-2026 11:06
+AUTO00542,Voice Solution,Lead Qualification,Success,,5.16,Hyderabad,17-07-2026 20:35
+AUTO00543,Voice Solution,Call Summary Generation,Success,,3.67,Pune,23-11-2025 11:23
+AUTO00544,Voice Solution,Email Trigger,Failed,CRM Sync Error,1.98,Chennai,23-12-2025 16:10
+AUTO00545,Voice Solution,WhatsApp Trigger,Success,,0.95,Bangalore,14-04-2026 12:56
+AUTO00546,Voice Solution,CRM Update,Success,,3.23,Pune,21-05-2026 20:34
+AUTO00547,Voice Solution,CRM Update,Success,,3.3,Pune,22-01-2026 19:43
+AUTO00548,Voice Solution,Call Summary Generation,Success,,3.93,Pune,25-03-2026 13:51
+AUTO00549,Voice Solution,Email Trigger,Success,,1.98,Chennai,24-01-2026 17:14
+AUTO00550,Voice Solution,CRM Update,Success,,0.99,Chennai,17-01-2026 13:22
+AUTO00551,Voice Solution,Lead Qualification,Success,,4.78,Delhi,01-11-2025 15:38
+AUTO00552,Voice Solution,Email Trigger,Success,,1.51,Hyderabad,21-12-2025 13:32
+AUTO00553,Voice Solution,Lead Qualification,Success,,1.34,Pune,22-04-2026 15:25
+AUTO00554,Voice Solution,Follow-up Trigger,Success,,4.08,Delhi,24-05-2026 14:27
+AUTO00555,Voice Solution,WhatsApp Trigger,Success,,2.05,Delhi,18-07-2026 11:32
+AUTO00556,Voice Solution,CRM Update,Success,,3.05,Hyderabad,04-12-2025 20:57
+AUTO00557,Voice Solution,Email Trigger,Success,,3.55,Delhi,03-02-2026 11:12
+AUTO00558,Voice Solution,Lead Qualification,Success,,6.17,Hyderabad,11-01-2026 19:38
+AUTO00559,Voice Solution,WhatsApp Trigger,Success,,2.56,Bangalore,09-12-2025 08:08
+AUTO00560,Voice Solution,WhatsApp Trigger,Success,,4.7,Hyderabad,03-04-2026 14:21
+AUTO00561,Voice Solution,CRM Update,Success,,2.08,Mumbai,08-07-2026 17:12
+AUTO00562,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,5.88,Hyderabad,11-04-2026 15:28
+AUTO00563,Voice Solution,CRM Update,Success,,7.57,Hyderabad,26-02-2026 20:29
+AUTO00564,Voice Solution,Follow-up Trigger,Success,,11.89,Mumbai,17-07-2026 09:17
+AUTO00565,Voice Solution,CRM Update,Failed,Timeout,2.62,Hyderabad,24-12-2025 17:45
+AUTO00566,Voice Solution,Call Summary Generation,Success,,4.82,Chennai,24-06-2026 16:28
+AUTO00567,Voice Solution,Lead Qualification,Success,,3.42,Delhi,10-06-2026 16:04
+AUTO00568,Voice Solution,Call Summary Generation,Success,,2.44,Delhi,09-07-2026 17:33
+AUTO00569,Voice Solution,WhatsApp Trigger,Success,,1.44,Bangalore,20-02-2026 17:06
+AUTO00570,Voice Solution,WhatsApp Trigger,Success,,1.61,Bangalore,13-07-2026 09:16
+AUTO00571,Voice Solution,WhatsApp Trigger,Success,,2.18,Mumbai,26-05-2026 17:44
+AUTO00572,Voice Solution,CRM Update,Success,,5.14,Chennai,17-06-2026 17:58
+AUTO00573,Voice Solution,Email Trigger,Success,,1.14,Bangalore,05-01-2026 19:24
+AUTO00574,Voice Solution,CRM Update,Success,,2.41,Delhi,14-01-2026 09:03
+AUTO00575,Voice Solution,Lead Qualification,Success,,2.37,Bangalore,11-02-2026 20:44
+AUTO00576,Voice Solution,CRM Update,Success,,1.77,Bangalore,11-05-2026 17:59
+AUTO00577,Voice Solution,WhatsApp Trigger,Success,,1.15,Hyderabad,10-07-2026 15:23
+AUTO00578,Voice Solution,Follow-up Trigger,Success,,2.42,Bangalore,14-06-2026 08:35
+AUTO00579,Voice Solution,Lead Qualification,Success,,0.13,Mumbai,06-02-2026 19:56
+AUTO00580,Voice Solution,Call Summary Generation,Failed,Timeout,6.54,Delhi,07-07-2026 11:49
+AUTO00581,Voice Solution,Follow-up Trigger,Success,,0.41,Mumbai,15-04-2026 14:05
+AUTO00582,Voice Solution,Lead Qualification,Success,,0.81,Mumbai,30-11-2025 13:48
+AUTO00583,Voice Solution,Lead Qualification,Success,,4.74,Pune,05-07-2026 17:00
+AUTO00584,Voice Solution,WhatsApp Trigger,Success,,1.73,Chennai,14-02-2026 11:29
+AUTO00585,Voice Solution,Call Summary Generation,Success,,3.03,Pune,21-12-2025 18:02
+AUTO00586,Voice Solution,CRM Update,Success,,5.28,Pune,20-01-2026 18:53
+AUTO00587,Voice Solution,Call Summary Generation,Failed,Messaging Delivery Error,0.92,Hyderabad,13-03-2026 20:25
+AUTO00588,Voice Solution,WhatsApp Trigger,Success,,0.78,Mumbai,18-03-2026 17:16
+AUTO00589,Voice Solution,WhatsApp Trigger,Success,,2.4,Chennai,03-05-2026 12:37
+AUTO00590,Voice Solution,WhatsApp Trigger,Success,,1.81,Delhi,08-01-2026 11:00
+AUTO00591,Voice Solution,Follow-up Trigger,Success,,1.01,Delhi,04-12-2025 09:35
+AUTO00592,Voice Solution,Call Summary Generation,Failed,Data Validation Error,1.45,Chennai,23-12-2025 11:04
+AUTO00593,Voice Solution,Call Summary Generation,Success,,0.34,Mumbai,24-05-2026 20:45
+AUTO00594,Voice Solution,Lead Qualification,Success,,4.52,Mumbai,06-03-2026 13:30
+AUTO00595,Voice Solution,Email Trigger,Success,,4.52,Hyderabad,23-06-2026 19:44
+AUTO00596,Voice Solution,CRM Update,Success,,1.68,Hyderabad,13-12-2025 09:44
+AUTO00597,Voice Solution,WhatsApp Trigger,Success,,2.52,Pune,28-06-2026 18:44
+AUTO00598,Voice Solution,Call Summary Generation,Success,,3.17,Delhi,19-02-2026 11:53
+AUTO00599,Voice Solution,Call Summary Generation,Failed,CRM Sync Error,2.89,Hyderabad,07-07-2026 14:31
+AUTO00600,Voice Solution,Lead Qualification,Success,,3.93,Chennai,31-03-2026 14:24
+AUTO00601,Voice Solution,CRM Update,Success,,1.57,Delhi,02-05-2026 20:02
+AUTO00602,Voice Solution,Email Trigger,Success,,5.01,Mumbai,03-02-2026 12:42
+AUTO00603,Voice Solution,Email Trigger,Success,,4.74,Delhi,08-11-2025 09:41
+AUTO00604,Voice Solution,WhatsApp Trigger,Success,,1.98,Bangalore,03-05-2026 19:44
+AUTO00605,Voice Solution,Email Trigger,Success,,2.65,Delhi,14-05-2026 13:26
+AUTO00606,Voice Solution,Email Trigger,Success,,5.64,Hyderabad,14-05-2026 17:59
+AUTO00607,Voice Solution,CRM Update,Success,,2.8,Chennai,04-04-2026 09:41
+AUTO00608,Voice Solution,CRM Update,Success,,2.67,Mumbai,01-02-2026 12:19
+AUTO00609,Voice Solution,WhatsApp Trigger,Success,,1.84,Mumbai,09-04-2026 15:26
+AUTO00610,Voice Solution,Call Summary Generation,Success,,3.53,Hyderabad,31-12-2025 15:28
+AUTO00611,Voice Solution,Lead Qualification,Success,,1.55,Hyderabad,02-03-2026 18:05
+AUTO00612,Voice Solution,WhatsApp Trigger,Success,,5.12,Hyderabad,21-12-2025 10:44
+AUTO00613,Voice Solution,Follow-up Trigger,Success,,0.75,Bangalore,05-11-2025 15:15
+AUTO00614,Voice Solution,Email Trigger,Success,,3.18,Chennai,31-01-2026 11:55
+AUTO00615,Voice Solution,Lead Qualification,Success,,1.7,Bangalore,19-04-2026 12:56
+AUTO00616,Voice Solution,Call Summary Generation,Failed,Messaging Delivery Error,1.34,Hyderabad,22-11-2025 08:29
+AUTO00617,Voice Solution,Call Summary Generation,Success,,6.31,Chennai,01-11-2025 13:05
+AUTO00618,Voice Solution,CRM Update,Success,,4.79,Hyderabad,13-03-2026 08:10
+AUTO00619,Voice Solution,Follow-up Trigger,Success,,1.15,Chennai,21-06-2026 12:54
+AUTO00620,Voice Solution,Call Summary Generation,Success,,3.41,Mumbai,12-11-2025 17:38
+AUTO00621,Voice Solution,Follow-up Trigger,Success,,3.74,Bangalore,16-12-2025 13:38
+AUTO00622,Voice Solution,Email Trigger,Failed,CRM Sync Error,0.54,Pune,04-12-2025 12:26
+AUTO00623,Voice Solution,CRM Update,Failed,Messaging Delivery Error,3.18,Hyderabad,17-01-2026 08:16
+AUTO00624,Voice Solution,Lead Qualification,Success,,4.58,Hyderabad,06-06-2026 15:11
+AUTO00625,Voice Solution,CRM Update,Success,,3.45,Delhi,12-01-2026 15:06
+AUTO00626,Voice Solution,Email Trigger,Success,,1.3,Pune,07-07-2026 08:04
+AUTO00627,Voice Solution,Call Summary Generation,Success,,4.6,Mumbai,17-12-2025 15:37
+AUTO00628,Voice Solution,Follow-up Trigger,Success,,2.2,Hyderabad,01-03-2026 12:16
+AUTO00629,Voice Solution,Email Trigger,Success,,1.62,Bangalore,02-06-2026 18:50
+AUTO00630,Voice Solution,Call Summary Generation,Success,,1.75,Mumbai,27-06-2026 08:17
+AUTO00631,Voice Solution,WhatsApp Trigger,Success,,1.85,Hyderabad,26-12-2025 13:44
+AUTO00632,Voice Solution,Follow-up Trigger,Success,,1.9,Bangalore,15-02-2026 10:58
+AUTO00633,Voice Solution,Email Trigger,Success,,6.88,Delhi,18-12-2025 15:53
+AUTO00634,Voice Solution,Lead Qualification,Success,,5.61,Delhi,31-12-2025 18:32
+AUTO00635,Voice Solution,Lead Qualification,Success,,3.08,Bangalore,26-11-2025 19:02
+AUTO00636,Voice Solution,Call Summary Generation,Success,,1.22,Mumbai,15-07-2026 16:17
+AUTO00637,Voice Solution,Call Summary Generation,Success,,4.42,Bangalore,08-11-2025 10:33
+AUTO00638,Voice Solution,Lead Qualification,Success,,1.09,Pune,21-02-2026 17:26
+AUTO00639,Voice Solution,WhatsApp Trigger,Success,,9.13,Bangalore,11-07-2026 15:06
+AUTO00640,Voice Solution,CRM Update,Success,,5.71,Delhi,29-04-2026 19:27
+AUTO00641,Voice Solution,Lead Qualification,Failed,Data Validation Error,3.91,Delhi,26-05-2026 17:44
+AUTO00642,Voice Solution,Call Summary Generation,Success,,2.76,Delhi,07-03-2026 08:20
+AUTO00643,Voice Solution,Call Summary Generation,Failed,Timeout,2.96,Pune,26-12-2025 18:35
+AUTO00644,Voice Solution,WhatsApp Trigger,Success,,2.3,Hyderabad,02-06-2026 08:02
+AUTO00645,Voice Solution,Lead Qualification,Success,,4.56,Pune,14-11-2025 20:34
+AUTO00646,Voice Solution,WhatsApp Trigger,Success,,2.76,Hyderabad,28-11-2025 14:37
+AUTO00647,Voice Solution,Lead Qualification,Success,,3.63,Pune,17-01-2026 12:16
+AUTO00648,Voice Solution,CRM Update,Success,,6.87,Chennai,04-06-2026 09:50
+AUTO00649,Voice Solution,Email Trigger,Success,,2.76,Hyderabad,03-04-2026 09:49
+AUTO00650,Voice Solution,Lead Qualification,Success,,6.8,Mumbai,14-11-2025 08:54
+AUTO00651,Voice Solution,Email Trigger,Success,,3.81,Mumbai,06-05-2026 10:31
+AUTO00652,Voice Solution,Lead Qualification,Failed,CRM Sync Error,3.81,Delhi,07-11-2025 19:12
+AUTO00653,Voice Solution,CRM Update,Failed,Data Validation Error,1.14,Pune,03-11-2025 11:46
+AUTO00654,Voice Solution,Call Summary Generation,Success,,5.31,Bangalore,19-02-2026 11:21
+AUTO00655,Voice Solution,Email Trigger,Failed,CRM Sync Error,1.5,Delhi,26-06-2026 18:51
+AUTO00656,Voice Solution,WhatsApp Trigger,Success,,2.16,Bangalore,27-06-2026 14:21
+AUTO00657,Voice Solution,Lead Qualification,Success,,5.82,Pune,15-06-2026 18:42
+AUTO00658,Voice Solution,Call Summary Generation,Success,,1.85,Delhi,15-11-2025 17:02
+AUTO00659,Voice Solution,Lead Qualification,Failed,Data Validation Error,3.24,Delhi,11-05-2026 11:29
+AUTO00660,Voice Solution,WhatsApp Trigger,Success,,2.22,Mumbai,27-02-2026 08:32
+AUTO00661,Voice Solution,CRM Update,Success,,0.98,Bangalore,28-11-2025 20:09
+AUTO00662,Voice Solution,Follow-up Trigger,Success,,1.53,Chennai,21-05-2026 12:47
+AUTO00663,Voice Solution,Lead Qualification,Success,,1.74,Chennai,09-12-2025 09:14
+AUTO00664,Voice Solution,WhatsApp Trigger,Success,,2.68,Delhi,19-06-2026 10:50
+AUTO00665,Voice Solution,Follow-up Trigger,Success,,1.15,Pune,25-01-2026 19:45
+AUTO00666,Voice Solution,Lead Qualification,Success,,1.5,Delhi,06-03-2026 19:39
+AUTO00667,Voice Solution,Email Trigger,Failed,Messaging Delivery Error,1.29,Mumbai,25-11-2025 19:52
+AUTO00668,Voice Solution,Call Summary Generation,Success,,3.05,Bangalore,25-03-2026 14:26
+AUTO00669,Voice Solution,Call Summary Generation,Success,,2.09,Delhi,13-11-2025 19:11
+AUTO00670,Voice Solution,WhatsApp Trigger,Success,,0.79,Pune,31-05-2026 11:47
+AUTO00671,Voice Solution,Email Trigger,Success,,1.56,Chennai,25-11-2025 18:23
+AUTO00672,Voice Solution,CRM Update,Success,,4.7,Bangalore,07-01-2026 20:32
+AUTO00673,Voice Solution,Follow-up Trigger,Success,,2.84,Delhi,06-01-2026 18:33
+AUTO00674,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,0.84,Bangalore,21-06-2026 12:19
+AUTO00675,Voice Solution,Lead Qualification,Success,,2.02,Mumbai,17-02-2026 14:14
+AUTO00676,Voice Solution,Call Summary Generation,Success,,0.1,Chennai,26-03-2026 15:57
+AUTO00677,Voice Solution,Lead Qualification,Success,,3.22,Pune,19-02-2026 12:18
+AUTO00678,Voice Solution,Follow-up Trigger,Success,,0.21,Bangalore,16-06-2026 14:41
+AUTO00679,Voice Solution,Email Trigger,Success,,1.4,Chennai,19-02-2026 18:08
+AUTO00680,Voice Solution,Email Trigger,Success,,0.3,Delhi,04-12-2025 08:05
+AUTO00681,Voice Solution,WhatsApp Trigger,Success,,2.91,Pune,19-02-2026 16:44
+AUTO00682,Voice Solution,WhatsApp Trigger,Success,,5.69,Pune,24-06-2026 20:28
+AUTO00683,Voice Solution,Email Trigger,Success,,0.81,Hyderabad,22-01-2026 16:07
+AUTO00684,Voice Solution,WhatsApp Trigger,Success,,4.36,Bangalore,12-12-2025 19:53
+AUTO00685,Voice Solution,Email Trigger,Success,,1.33,Chennai,09-02-2026 18:20
+AUTO00686,Voice Solution,Follow-up Trigger,Failed,Messaging Delivery Error,3.25,Bangalore,06-11-2025 16:30
+AUTO00687,Voice Solution,WhatsApp Trigger,Success,,6.81,Delhi,29-04-2026 17:57
+AUTO00688,Voice Solution,Email Trigger,Success,,4.78,Delhi,14-06-2026 16:51
+AUTO00689,Voice Solution,WhatsApp Trigger,Success,,1.11,Pune,17-06-2026 11:46
+AUTO00690,Voice Solution,Lead Qualification,Success,,6.02,Pune,30-03-2026 20:58
+AUTO00691,Voice Solution,Call Summary Generation,Success,,3.43,Chennai,17-05-2026 13:25
+AUTO00692,Voice Solution,Lead Qualification,Success,,1.64,Mumbai,09-01-2026 19:44
+AUTO00693,Voice Solution,CRM Update,Success,,2.58,Bangalore,20-02-2026 11:43
+AUTO00694,Voice Solution,Email Trigger,Success,,1.11,Bangalore,04-11-2025 15:29
+AUTO00695,Voice Solution,CRM Update,Success,,5.18,Delhi,03-02-2026 20:23
+AUTO00696,Voice Solution,Email Trigger,Success,,0.21,Bangalore,01-04-2026 10:15
+AUTO00697,Voice Solution,Call Summary Generation,Success,,5.47,Chennai,17-03-2026 18:00
+AUTO00698,Voice Solution,WhatsApp Trigger,Success,,0.3,Hyderabad,05-07-2026 09:07
+AUTO00699,Voice Solution,Email Trigger,Success,,2.29,Pune,01-07-2026 18:31
+AUTO00700,Voice Solution,Lead Qualification,Success,,5.73,Delhi,01-12-2025 12:44
+AUTO00701,Voice Solution,WhatsApp Trigger,Success,,5.64,Pune,10-12-2025 19:21
+AUTO00702,Voice Solution,Call Summary Generation,Success,,2.03,Pune,17-06-2026 09:35
+AUTO00703,Voice Solution,Lead Qualification,Success,,4.18,Pune,06-12-2025 10:10
+AUTO00704,Voice Solution,WhatsApp Trigger,Failed,Timeout,1.58,Hyderabad,11-06-2026 13:59
+AUTO00705,Voice Solution,Email Trigger,Success,,1.34,Bangalore,06-11-2025 20:42
+AUTO00706,Voice Solution,Email Trigger,Success,,1.42,Mumbai,08-06-2026 09:55
+AUTO00707,Voice Solution,Lead Qualification,Success,,2.24,Pune,14-01-2026 15:33
+AUTO00708,Voice Solution,Follow-up Trigger,Success,,0.39,Chennai,04-11-2025 13:26
+AUTO00709,Voice Solution,Email Trigger,Success,,5.68,Pune,14-03-2026 08:08
+AUTO00710,Voice Solution,Follow-up Trigger,Success,,4.04,Pune,26-02-2026 19:04
+AUTO00711,Voice Solution,WhatsApp Trigger,Failed,Messaging Delivery Error,3.72,Bangalore,02-02-2026 15:12
+AUTO00712,Voice Solution,Follow-up Trigger,Success,,2.44,Chennai,01-01-2026 17:59
+AUTO00713,Voice Solution,Lead Qualification,Success,,6.72,Bangalore,13-05-2026 16:06
+AUTO00714,Voice Solution,CRM Update,Success,,1.54,Pune,22-05-2026 08:27
+AUTO00715,Voice Solution,CRM Update,Failed,API Error,4.16,Bangalore,26-11-2025 15:16
+AUTO00716,Voice Solution,Lead Qualification,Success,,3.58,Bangalore,22-04-2026 09:08
+AUTO00717,Voice Solution,CRM Update,Success,,1.37,Delhi,13-03-2026 18:05
+AUTO00718,Voice Solution,Lead Qualification,Success,,1.09,Hyderabad,26-02-2026 10:09
+AUTO00719,Voice Solution,Email Trigger,Success,,2.81,Mumbai,31-05-2026 16:38
+AUTO00720,Voice Solution,Follow-up Trigger,Success,,3.91,Hyderabad,13-06-2026 17:22
+AUTO00721,Voice Solution,CRM Update,Failed,Timeout,1.97,Hyderabad,20-11-2025 15:03
+AUTO00722,Voice Solution,Email Trigger,Success,,0.71,Chennai,21-02-2026 12:56
+AUTO00723,Voice Solution,CRM Update,Success,,3.17,Delhi,20-03-2026 18:36
+AUTO00724,Voice Solution,WhatsApp Trigger,Success,,3.04,Delhi,17-12-2025 09:01
+AUTO00725,Voice Solution,Lead Qualification,Success,,1.97,Bangalore,01-11-2025 08:22
+AUTO00726,Voice Solution,Lead Qualification,Success,,0.13,Hyderabad,29-01-2026 19:22
+AUTO00727,Voice Solution,Email Trigger,Success,,3.51,Mumbai,22-03-2026 19:36
+AUTO00728,Voice Solution,WhatsApp Trigger,Success,,2.98,Chennai,08-12-2025 15:16
+AUTO00729,Voice Solution,Follow-up Trigger,Success,,3.25,Delhi,19-03-2026 09:02
+AUTO00730,Voice Solution,WhatsApp Trigger,Success,,4.42,Bangalore,17-07-2026 14:33
+AUTO00731,Voice Solution,WhatsApp Trigger,Success,,2.52,Mumbai,10-04-2026 15:42
+AUTO00732,Voice Solution,Call Summary Generation,Success,,1.01,Hyderabad,27-04-2026 18:26
+AUTO00733,Voice Solution,Follow-up Trigger,Success,,3.43,Mumbai,10-11-2025 17:42
+AUTO00734,Voice Solution,Follow-up Trigger,Success,,3.24,Delhi,18-03-2026 10:31
+AUTO00735,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,0.75,Chennai,21-04-2026 11:22
+AUTO00736,Voice Solution,CRM Update,Success,,2.6,Hyderabad,13-11-2025 17:54
+AUTO00737,Voice Solution,Call Summary Generation,Success,,0.9,Chennai,17-04-2026 16:42
+AUTO00738,Voice Solution,CRM Update,Success,,4.73,Pune,10-03-2026 18:39
+AUTO00739,Voice Solution,WhatsApp Trigger,Success,,1.8,Mumbai,23-01-2026 12:57
+AUTO00740,Voice Solution,CRM Update,Success,,0.95,Mumbai,09-02-2026 20:36
+AUTO00741,Voice Solution,Follow-up Trigger,Success,,1.34,Bangalore,08-12-2025 10:28
+AUTO00742,Voice Solution,Follow-up Trigger,Success,,2.14,Hyderabad,02-02-2026 15:49
+AUTO00743,Voice Solution,CRM Update,Success,,4.19,Mumbai,03-02-2026 16:36
+AUTO00744,Voice Solution,Follow-up Trigger,Success,,2.98,Delhi,08-01-2026 14:14
+AUTO00745,Voice Solution,Lead Qualification,Success,,1.49,Pune,24-06-2026 12:00
+AUTO00746,Voice Solution,Follow-up Trigger,Success,,3.2,Delhi,17-03-2026 20:18
+AUTO00747,Voice Solution,WhatsApp Trigger,Success,,2.14,Chennai,15-01-2026 19:02
+AUTO00748,Voice Solution,Email Trigger,Success,,2.88,Pune,05-12-2025 11:06
+AUTO00749,Voice Solution,CRM Update,Success,,0.38,Pune,01-11-2025 15:05
+AUTO00750,Voice Solution,Call Summary Generation,Success,,1.6,Delhi,30-12-2025 17:55
+AUTO00751,Voice Solution,CRM Update,Success,,0.59,Mumbai,17-06-2026 11:20
+AUTO00752,Voice Solution,Follow-up Trigger,Success,,1.18,Delhi,01-06-2026 19:39
+AUTO00753,Voice Solution,Follow-up Trigger,Success,,2.42,Hyderabad,14-04-2026 14:16
+AUTO00754,Voice Solution,Email Trigger,Success,,3.83,Chennai,05-11-2025 15:54
+AUTO00755,Voice Solution,Email Trigger,Success,,4.82,Pune,17-01-2026 09:47
+AUTO00756,Voice Solution,Call Summary Generation,Success,,4.91,Hyderabad,01-01-2026 17:53
+AUTO00757,Voice Solution,WhatsApp Trigger,Success,,3.39,Mumbai,12-03-2026 20:04
+AUTO00758,Voice Solution,Lead Qualification,Success,,2.34,Mumbai,28-01-2026 15:22
+AUTO00759,Voice Solution,WhatsApp Trigger,Success,,2.61,Delhi,25-06-2026 16:42
+AUTO00760,Voice Solution,Call Summary Generation,Success,,1.79,Bangalore,12-12-2025 08:19
+AUTO00761,Voice Solution,CRM Update,Success,,4.36,Pune,28-01-2026 09:19
+AUTO00762,Voice Solution,Follow-up Trigger,Success,,6.47,Pune,12-02-2026 17:06
+AUTO00763,Voice Solution,WhatsApp Trigger,Success,,5.97,Bangalore,14-11-2025 14:00
+AUTO00764,Voice Solution,Follow-up Trigger,Success,,2.82,Mumbai,28-04-2026 12:32
+AUTO00765,Voice Solution,Follow-up Trigger,Success,,1.46,Mumbai,05-03-2026 11:12
+AUTO00766,Voice Solution,WhatsApp Trigger,Success,,3.62,Pune,23-11-2025 15:39
+AUTO00767,Voice Solution,WhatsApp Trigger,Success,,1.35,Chennai,02-01-2026 11:12
+AUTO00768,Voice Solution,Email Trigger,Success,,2.51,Pune,23-03-2026 20:09
+AUTO00769,Voice Solution,Call Summary Generation,Success,,1.88,Mumbai,02-04-2026 10:17
+AUTO00770,Voice Solution,Call Summary Generation,Success,,3.44,Mumbai,25-03-2026 15:05
+AUTO00771,Voice Solution,Lead Qualification,Failed,Data Validation Error,2.82,Chennai,13-06-2026 15:29
+AUTO00772,Voice Solution,Email Trigger,Success,,1.8,Hyderabad,12-02-2026 12:29
+AUTO00773,Voice Solution,Lead Qualification,Success,,9.48,Hyderabad,12-02-2026 15:29
+AUTO00774,Voice Solution,WhatsApp Trigger,Success,,0.78,Chennai,09-12-2025 11:39
+AUTO00775,Voice Solution,Call Summary Generation,Success,,1.48,Chennai,17-05-2026 18:55
+AUTO00776,Voice Solution,Call Summary Generation,Success,,3.27,Hyderabad,14-03-2026 14:49
+AUTO00777,Voice Solution,Lead Qualification,Success,,5.37,Hyderabad,06-01-2026 17:12
+AUTO00778,Voice Solution,CRM Update,Failed,API Error,4.78,Hyderabad,28-04-2026 19:39
+AUTO00779,Voice Solution,Email Trigger,Success,,0.98,Hyderabad,12-12-2025 09:13
+AUTO00780,Voice Solution,Email Trigger,Success,,7.16,Pune,15-11-2025 15:42
+AUTO00781,Voice Solution,Email Trigger,Success,,3.51,Pune,19-02-2026 14:00
+AUTO00782,Voice Solution,Call Summary Generation,Failed,Data Validation Error,2.64,Delhi,06-04-2026 18:55
+AUTO00783,Voice Solution,Follow-up Trigger,Success,,2.93,Chennai,19-06-2026 10:28
+AUTO00784,Voice Solution,Call Summary Generation,Failed,Timeout,9.37,Bangalore,06-04-2026 18:15
+AUTO00785,Voice Solution,Follow-up Trigger,Success,,6.34,Delhi,08-12-2025 20:26
+AUTO00786,Voice Solution,Call Summary Generation,Success,,1.08,Bangalore,05-02-2026 20:36
+AUTO00787,Voice Solution,WhatsApp Trigger,Success,,2.45,Bangalore,12-07-2026 11:37
+AUTO00788,Voice Solution,Call Summary Generation,Success,,4.66,Mumbai,15-05-2026 18:27
+AUTO00789,Voice Solution,WhatsApp Trigger,Success,,7.44,Chennai,25-01-2026 20:53
+AUTO00790,Voice Solution,Follow-up Trigger,Success,,1.69,Pune,10-11-2025 09:40
+AUTO00791,Voice Solution,Email Trigger,Success,,2.46,Delhi,05-11-2025 09:59
+AUTO00792,Voice Solution,Follow-up Trigger,Success,,3.01,Chennai,03-03-2026 15:50
+AUTO00793,Voice Solution,Lead Qualification,Success,,8.1,Hyderabad,26-02-2026 15:31
+AUTO00794,Voice Solution,Email Trigger,Success,,3.05,Chennai,08-04-2026 18:06
+AUTO00795,Voice Solution,Call Summary Generation,Success,,2.34,Bangalore,16-06-2026 19:50
+AUTO00796,Voice Solution,Call Summary Generation,Success,,2.73,Pune,04-06-2026 09:54
+AUTO00797,Voice Solution,Call Summary Generation,Success,,5.17,Hyderabad,03-05-2026 11:44
+AUTO00798,Voice Solution,Call Summary Generation,Success,,0.79,Chennai,15-11-2025 16:36
+AUTO00799,Voice Solution,Call Summary Generation,Success,,6.36,Chennai,06-04-2026 19:50
+AUTO00800,Voice Solution,Follow-up Trigger,Success,,1.68,Pune,16-03-2026 11:24
+AUTO00801,Voice Solution,WhatsApp Trigger,Success,,2.59,Bangalore,06-04-2026 20:29
+AUTO00802,Voice Solution,Follow-up Trigger,Failed,Timeout,1.45,Hyderabad,17-12-2025 20:06
+AUTO00803,Voice Solution,CRM Update,Success,,1.6,Bangalore,22-04-2026 14:26
+AUTO00804,Voice Solution,Follow-up Trigger,Failed,Messaging Delivery Error,5.62,Pune,10-03-2026 17:41
+AUTO00805,Voice Solution,Email Trigger,Success,,1.9,Chennai,03-02-2026 13:47
+AUTO00806,Voice Solution,Call Summary Generation,Success,,4.57,Delhi,23-02-2026 17:27
+AUTO00807,Voice Solution,Follow-up Trigger,Success,,4.54,Delhi,01-07-2026 20:15
+AUTO00808,Voice Solution,WhatsApp Trigger,Success,,3.68,Mumbai,08-01-2026 16:15
+AUTO00809,Voice Solution,Call Summary Generation,Success,,4.87,Delhi,28-03-2026 09:57
+AUTO00810,Voice Solution,Lead Qualification,Success,,1.33,Pune,11-11-2025 09:00
+AUTO00811,Voice Solution,CRM Update,Success,,0.17,Pune,12-07-2026 14:31
+AUTO00812,Voice Solution,Email Trigger,Success,,2.18,Pune,08-12-2025 13:12
+AUTO00813,Voice Solution,WhatsApp Trigger,Success,,4.41,Hyderabad,14-03-2026 14:48
+AUTO00814,Voice Solution,CRM Update,Success,,10.9,Mumbai,19-05-2026 10:23
+AUTO00815,Voice Solution,Follow-up Trigger,Success,,3.73,Hyderabad,23-11-2025 09:47
+AUTO00816,Voice Solution,CRM Update,Success,,4.05,Delhi,06-06-2026 14:50
+AUTO00817,Voice Solution,Call Summary Generation,Success,,2.66,Delhi,21-03-2026 19:47
+AUTO00818,Voice Solution,Call Summary Generation,Success,,4.18,Chennai,12-02-2026 11:22
+AUTO00819,Voice Solution,Lead Qualification,Success,,2.48,Hyderabad,29-05-2026 17:36
+AUTO00820,Voice Solution,CRM Update,Success,,1.03,Bangalore,19-02-2026 19:46
+AUTO00821,Voice Solution,CRM Update,Success,,5.53,Chennai,12-02-2026 14:01
+AUTO00822,Voice Solution,Call Summary Generation,Success,,4.81,Hyderabad,20-04-2026 09:31
+AUTO00823,Voice Solution,Follow-up Trigger,Success,,3.56,Pune,13-03-2026 19:51
+AUTO00824,Voice Solution,Follow-up Trigger,Success,,1.63,Mumbai,07-03-2026 11:47
+AUTO00825,Voice Solution,Email Trigger,Success,,2.93,Hyderabad,14-02-2026 11:05
+AUTO00826,Voice Solution,Follow-up Trigger,Success,,1.32,Mumbai,31-01-2026 14:17
+AUTO00827,Voice Solution,CRM Update,Success,,1.81,Mumbai,21-12-2025 12:13
+AUTO00828,Voice Solution,Lead Qualification,Failed,CRM Sync Error,3.52,Delhi,29-11-2025 14:34
+AUTO00829,Voice Solution,Follow-up Trigger,Success,,2.79,Bangalore,02-06-2026 17:27
+AUTO00830,Voice Solution,Call Summary Generation,Success,,0.96,Hyderabad,15-07-2026 14:27
+AUTO00831,Voice Solution,Call Summary Generation,Success,,4.62,Bangalore,09-02-2026 10:37
+AUTO00832,Voice Solution,Email Trigger,Success,,8.31,Mumbai,18-02-2026 15:55
+AUTO00833,Voice Solution,Email Trigger,Success,,1.79,Delhi,01-05-2026 18:23
+AUTO00834,Voice Solution,CRM Update,Success,,4.86,Bangalore,01-11-2025 12:33
+AUTO00835,Voice Solution,Follow-up Trigger,Success,,2.35,Chennai,25-12-2025 10:56
+AUTO00836,Voice Solution,Follow-up Trigger,Success,,6.38,Mumbai,29-03-2026 18:42
+AUTO00837,Voice Solution,Email Trigger,Success,,3.87,Chennai,17-03-2026 10:44
+AUTO00838,Voice Solution,Follow-up Trigger,Success,,1.66,Pune,21-05-2026 16:43
+AUTO00839,Voice Solution,CRM Update,Success,,8.2,Bangalore,25-02-2026 09:44
+AUTO00840,Voice Solution,Lead Qualification,Success,,4.27,Bangalore,03-04-2026 17:59
+AUTO00841,Voice Solution,Call Summary Generation,Success,,3.67,Bangalore,02-01-2026 17:28
+AUTO00842,Voice Solution,CRM Update,Success,,1.05,Pune,02-07-2026 20:31
+AUTO00843,Voice Solution,Follow-up Trigger,Success,,1.9,Hyderabad,25-11-2025 18:59
+AUTO00844,Voice Solution,CRM Update,Success,,6.92,Mumbai,29-01-2026 18:07
+AUTO00845,Voice Solution,Call Summary Generation,Success,,3.39,Mumbai,14-01-2026 10:00
+AUTO00846,Voice Solution,WhatsApp Trigger,Failed,Data Validation Error,3.92,Mumbai,29-05-2026 16:51
+AUTO00847,Voice Solution,Call Summary Generation,Success,,4.05,Hyderabad,17-11-2025 18:00
+AUTO00848,Voice Solution,Call Summary Generation,Failed,API Error,2.65,Bangalore,08-03-2026 14:29
+AUTO00849,Voice Solution,WhatsApp Trigger,Success,,1.43,Bangalore,09-07-2026 08:02
+AUTO00850,Voice Solution,Follow-up Trigger,Success,,1.68,Pune,28-04-2026 18:29
+AUTO00851,Voice Solution,Follow-up Trigger,Success,,8.05,Chennai,01-05-2026 12:27
+AUTO00852,Voice Solution,Lead Qualification,Success,,0.78,Hyderabad,01-04-2026 08:50
+AUTO00853,Voice Solution,Call Summary Generation,Success,,0.81,Delhi,25-11-2025 19:47
+AUTO00854,Voice Solution,CRM Update,Success,,1.67,Hyderabad,29-04-2026 15:16
+AUTO00855,Voice Solution,Lead Qualification,Success,,2.31,Pune,17-05-2026 12:53
+AUTO00856,Voice Solution,Follow-up Trigger,Success,,1.3,Chennai,10-04-2026 16:09
+AUTO00857,Voice Solution,Follow-up Trigger,Success,,4.14,Chennai,26-04-2026 12:43
+AUTO00858,Voice Solution,Email Trigger,Success,,2.73,Chennai,02-01-2026 12:09
+AUTO00859,Voice Solution,Lead Qualification,Success,,3.67,Bangalore,30-03-2026 19:33
+AUTO00860,Voice Solution,Follow-up Trigger,Success,,1.96,Delhi,03-04-2026 11:14
+AUTO00861,Voice Solution,WhatsApp Trigger,Success,,4.85,Chennai,05-04-2026 08:47
+AUTO00862,Voice Solution,Email Trigger,Success,,1.46,Mumbai,19-12-2025 12:26
+AUTO00863,Voice Solution,CRM Update,Success,,4.02,Bangalore,23-01-2026 15:30
+AUTO00864,Voice Solution,Email Trigger,Success,,2.83,Delhi,26-04-2026 17:22
+AUTO00865,Voice Solution,Call Summary Generation,Failed,Timeout,9.23,Mumbai,28-03-2026 19:13
+AUTO00866,Voice Solution,Call Summary Generation,Success,,6.42,Delhi,26-02-2026 14:35
+AUTO00867,Voice Solution,CRM Update,Success,,4.46,Pune,02-01-2026 15:15
+AUTO00868,Voice Solution,WhatsApp Trigger,Success,,1.6,Delhi,08-05-2026 10:32
+AUTO00869,Voice Solution,CRM Update,Success,,7.43,Mumbai,19-12-2025 15:33
+AUTO00870,Voice Solution,Lead Qualification,Success,,2.74,Hyderabad,15-07-2026 18:57
+AUTO00871,Voice Solution,CRM Update,Success,,1.85,Delhi,12-06-2026 10:03
+AUTO00872,Voice Solution,CRM Update,Success,,3.03,Hyderabad,21-03-2026 13:56
+AUTO00873,Voice Solution,Email Trigger,Success,,8.62,Delhi,03-06-2026 17:18
+AUTO00874,Voice Solution,WhatsApp Trigger,Success,,0.8,Pune,30-05-2026 12:55
+AUTO00875,Voice Solution,CRM Update,Success,,1.57,Mumbai,02-12-2025 09:12
+AUTO00876,Voice Solution,Lead Qualification,Success,,1.06,Delhi,07-04-2026 15:54
+AUTO00877,Voice Solution,Email Trigger,Success,,1.3,Chennai,24-03-2026 16:55
+AUTO00878,Voice Solution,WhatsApp Trigger,Success,,0.58,Pune,19-11-2025 14:26
+AUTO00879,Voice Solution,WhatsApp Trigger,Success,,0.25,Chennai,18-11-2025 16:51
+AUTO00880,Voice Solution,Follow-up Trigger,Success,,3.95,Pune,15-07-2026 17:01
+AUTO00881,Voice Solution,Call Summary Generation,Success,,1.87,Pune,17-01-2026 20:18
+AUTO00882,Voice Solution,Lead Qualification,Success,,0.34,Delhi,24-04-2026 16:09
+AUTO00883,Voice Solution,Call Summary Generation,Success,,4.57,Mumbai,13-05-2026 18:41
+AUTO00884,Voice Solution,Email Trigger,Success,,2.67,Mumbai,21-02-2026 12:53
+AUTO00885,Voice Solution,Email Trigger,Success,,2.74,Bangalore,22-02-2026 17:24
+AUTO00886,Voice Solution,Lead Qualification,Success,,0.95,Mumbai,10-06-2026 10:59
+AUTO00887,Voice Solution,WhatsApp Trigger,Success,,1.74,Hyderabad,15-04-2026 16:36
+AUTO00888,Voice Solution,CRM Update,Success,,2.96,Delhi,12-03-2026 15:09
+AUTO00889,Voice Solution,Lead Qualification,Success,,1.38,Chennai,25-12-2025 18:58
+AUTO00890,Voice Solution,Email Trigger,Success,,1.2,Mumbai,11-03-2026 11:25
+AUTO00891,Voice Solution,Call Summary Generation,Success,,7.13,Chennai,11-04-2026 20:43
+AUTO00892,Voice Solution,Lead Qualification,Success,,0.59,Bangalore,26-01-2026 20:36
+AUTO00893,Voice Solution,WhatsApp Trigger,Success,,6.04,Delhi,25-12-2025 10:10
+AUTO00894,Voice Solution,Follow-up Trigger,Failed,Timeout,2.43,Mumbai,27-04-2026 11:56
+AUTO00895,Voice Solution,Follow-up Trigger,Success,,1.99,Chennai,08-11-2025 12:34
+AUTO00896,Voice Solution,CRM Update,Success,,3.35,Pune,05-07-2026 16:42
+AUTO00897,Voice Solution,CRM Update,Success,,6.31,Mumbai,13-07-2026 10:48
+AUTO00898,Voice Solution,WhatsApp Trigger,Success,,2.94,Bangalore,24-12-2025 18:32
+AUTO00899,Voice Solution,Call Summary Generation,Success,,5.43,Pune,07-07-2026 08:41
+AUTO00900,Voice Solution,CRM Update,Success,,2.98,Chennai,27-06-2026 09:51
+AUTO00901,Voice Solution,Follow-up Trigger,Success,,1.38,Chennai,17-06-2026 09:01
+AUTO00902,Voice Solution,WhatsApp Trigger,Success,,2.34,Delhi,06-01-2026 09:24
+AUTO00903,Voice Solution,WhatsApp Trigger,Success,,0.19,Delhi,21-12-2025 10:59
+AUTO00904,Voice Solution,WhatsApp Trigger,Failed,Timeout,5.5,Chennai,05-02-2026 08:41
+AUTO00905,Voice Solution,Lead Qualification,Success,,4.59,Pune,31-01-2026 18:06
+AUTO00906,Voice Solution,Call Summary Generation,Success,,1.74,Delhi,04-02-2026 09:10
+AUTO00907,Voice Solution,Call Summary Generation,Success,,5.5,Chennai,27-01-2026 12:01
+AUTO00908,Voice Solution,CRM Update,Success,,5.46,Pune,17-01-2026 17:35
+AUTO00909,Voice Solution,Call Summary Generation,Success,,0.49,Hyderabad,28-02-2026 10:17
+AUTO00910,Voice Solution,Email Trigger,Success,,2.75,Mumbai,14-04-2026 19:19
+AUTO00911,Voice Solution,Follow-up Trigger,Success,,0.78,Hyderabad,01-05-2026 17:46
+AUTO00912,Voice Solution,CRM Update,Success,,4.35,Hyderabad,11-06-2026 20:31
+AUTO00913,Voice Solution,Call Summary Generation,Success,,2.84,Mumbai,07-11-2025 19:09
+AUTO00914,Voice Solution,Follow-up Trigger,Success,,1.31,Chennai,10-04-2026 10:22
+AUTO00915,Voice Solution,CRM Update,Success,,4.22,Chennai,31-03-2026 17:03
+AUTO00916,Voice Solution,Email Trigger,Success,,2.2,Delhi,24-01-2026 09:27
+AUTO00917,Voice Solution,Follow-up Trigger,Success,,1.89,Bangalore,27-03-2026 13:20
+AUTO00918,Voice Solution,Email Trigger,Success,,2.1,Chennai,20-02-2026 10:41
+AUTO00919,Voice Solution,Follow-up Trigger,Success,,1.05,Mumbai,06-12-2025 16:53
+AUTO00920,Voice Solution,Lead Qualification,Success,,3.82,Bangalore,07-05-2026 08:11
+AUTO00921,Voice Solution,Lead Qualification,Success,,3.71,Mumbai,21-01-2026 20:27
+AUTO00922,Voice Solution,Follow-up Trigger,Success,,2.28,Mumbai,02-11-2025 16:22
+AUTO00923,Voice Solution,Follow-up Trigger,Success,,0.87,Mumbai,16-05-2026 19:53
+AUTO00924,Voice Solution,Email Trigger,Success,,0.75,Bangalore,11-11-2025 10:55
+AUTO00925,Voice Solution,Call Summary Generation,Success,,1.64,Hyderabad,22-06-2026 08:56
+AUTO00926,Voice Solution,WhatsApp Trigger,Success,,3.09,Pune,14-05-2026 15:06
+AUTO00927,Voice Solution,Follow-up Trigger,Success,,6.23,Mumbai,27-02-2026 16:03
+AUTO00928,Voice Solution,CRM Update,Success,,2.68,Delhi,20-11-2025 08:03
+AUTO00929,Voice Solution,CRM Update,Success,,2.92,Chennai,14-07-2026 17:50
+AUTO00930,Voice Solution,CRM Update,Success,,2.63,Pune,10-06-2026 14:26
+AUTO00931,Voice Solution,Lead Qualification,Success,,2.66,Chennai,14-06-2026 17:16
+AUTO00932,Voice Solution,Call Summary Generation,Success,,0.9,Chennai,23-12-2025 08:51
+AUTO00933,Voice Solution,Email Trigger,Success,,7.41,Bangalore,20-01-2026 16:08
+AUTO00934,Voice Solution,Call Summary Generation,Success,,0.78,Delhi,21-05-2026 20:54
+AUTO00935,Voice Solution,Lead Qualification,Failed,CRM Sync Error,4.18,Delhi,07-04-2026 19:54
+AUTO00936,Voice Solution,Call Summary Generation,Success,,2.79,Pune,28-02-2026 13:35
+AUTO00937,Voice Solution,Call Summary Generation,Failed,CRM Sync Error,2.27,Delhi,29-12-2025 19:04
+AUTO00938,Voice Solution,CRM Update,Success,,1.32,Delhi,03-06-2026 10:59
+AUTO00939,Voice Solution,Follow-up Trigger,Success,,1.59,Delhi,08-03-2026 17:34
+AUTO00940,Voice Solution,CRM Update,Success,,15.33,Pune,12-06-2026 12:25
+AUTO00941,Voice Solution,Call Summary Generation,Success,,1.16,Hyderabad,28-05-2026 17:10
+AUTO00942,Voice Solution,Follow-up Trigger,Success,,3.66,Delhi,23-02-2026 10:04
+AUTO00943,Voice Solution,Email Trigger,Success,,3.36,Delhi,28-05-2026 18:20
+AUTO00944,Voice Solution,WhatsApp Trigger,Success,,2.02,Bangalore,14-11-2025 16:08
+AUTO00945,Voice Solution,Follow-up Trigger,Success,,2.75,Bangalore,09-11-2025 15:15
+AUTO00946,Voice Solution,Lead Qualification,Success,,3.76,Delhi,10-12-2025 19:28
+AUTO00947,Voice Solution,CRM Update,Success,,4.68,Hyderabad,25-06-2026 13:12
+AUTO00948,Voice Solution,CRM Update,Success,,1.92,Delhi,20-05-2026 16:59
+AUTO00949,Voice Solution,Call Summary Generation,Success,,3.84,Delhi,04-07-2026 12:37
+AUTO00950,Voice Solution,Call Summary Generation,Success,,2.12,Delhi,23-06-2026 17:08
+AUTO00951,Voice Solution,Call Summary Generation,Success,,0.82,Mumbai,04-11-2025 11:43
+AUTO00952,Voice Solution,Call Summary Generation,Success,,1.75,Hyderabad,03-04-2026 13:40
+AUTO00953,Voice Solution,CRM Update,Success,,2.47,Chennai,29-11-2025 15:19
+AUTO00954,Voice Solution,Follow-up Trigger,Success,,4.91,Delhi,17-02-2026 09:21
+AUTO00955,Voice Solution,Email Trigger,Success,,2.03,Chennai,06-02-2026 11:03
+AUTO00956,Voice Solution,Follow-up Trigger,Success,,2.69,Hyderabad,03-06-2026 10:58
+AUTO00957,Voice Solution,Lead Qualification,Success,,3.26,Delhi,14-01-2026 10:41
+AUTO00958,Voice Solution,CRM Update,Success,,2.61,Chennai,26-03-2026 13:19
+AUTO00959,Voice Solution,Follow-up Trigger,Success,,1.13,Pune,08-03-2026 12:29
+AUTO00960,Voice Solution,CRM Update,Success,,5.74,Chennai,12-12-2025 09:36
+AUTO00961,Voice Solution,Lead Qualification,Success,,5.55,Hyderabad,11-12-2025 14:17
+AUTO00962,Voice Solution,WhatsApp Trigger,Success,,2.52,Delhi,04-12-2025 13:13
+AUTO00963,Voice Solution,WhatsApp Trigger,Success,,1.12,Mumbai,17-11-2025 17:53
+AUTO00964,Voice Solution,WhatsApp Trigger,Success,,0.73,Hyderabad,14-04-2026 16:31
+AUTO00965,Voice Solution,CRM Update,Success,,1.9,Mumbai,02-04-2026 13:14
+AUTO00966,Voice Solution,Follow-up Trigger,Failed,Data Validation Error,2.33,Delhi,15-01-2026 18:34
+AUTO00967,Voice Solution,CRM Update,Success,,3.96,Chennai,26-01-2026 19:51
+AUTO00968,Voice Solution,Email Trigger,Success,,4.51,Pune,25-02-2026 13:01
+AUTO00969,Voice Solution,Follow-up Trigger,Success,,4.88,Pune,27-11-2025 18:00
+AUTO00970,Voice Solution,Lead Qualification,Success,,1.97,Hyderabad,14-03-2026 18:19
+AUTO00971,Voice Solution,Call Summary Generation,Success,,1.89,Hyderabad,07-06-2026 14:53
+AUTO00972,Voice Solution,WhatsApp Trigger,Success,,3.31,Hyderabad,17-04-2026 12:57
+AUTO00973,Voice Solution,Follow-up Trigger,Success,,1.15,Bangalore,06-02-2026 14:56
+AUTO00974,Voice Solution,Follow-up Trigger,Success,,4.51,Pune,25-06-2026 10:53
+AUTO00975,Voice Solution,WhatsApp Trigger,Success,,2.75,Pune,22-04-2026 09:13
+AUTO00976,Voice Solution,Lead Qualification,Success,,3.36,Delhi,09-05-2026 09:30
+AUTO00977,Voice Solution,CRM Update,Success,,0.24,Bangalore,02-03-2026 14:53
+AUTO00978,Voice Solution,CRM Update,Failed,API Error,0.59,Hyderabad,16-12-2025 18:14
+AUTO00979,Voice Solution,Call Summary Generation,Success,,0.9,Hyderabad,03-01-2026 16:53
+AUTO00980,Voice Solution,Follow-up Trigger,Success,,0.22,Mumbai,10-03-2026 17:15
+AUTO00981,Voice Solution,WhatsApp Trigger,Success,,1.79,Bangalore,12-05-2026 11:25
+AUTO00982,Voice Solution,Email Trigger,Success,,1.87,Chennai,30-04-2026 14:59
+AUTO00983,Voice Solution,Lead Qualification,Success,,1.35,Pune,29-11-2025 14:05
+AUTO00984,Voice Solution,CRM Update,Success,,6.14,Delhi,29-03-2026 17:36
+AUTO00985,Voice Solution,Lead Qualification,Success,,6.85,Chennai,11-11-2025 11:10
+AUTO00986,Voice Solution,Lead Qualification,Success,,1.86,Chennai,13-04-2026 20:30
+AUTO00987,Voice Solution,Call Summary Generation,Success,,2.37,Delhi,21-02-2026 10:07
+AUTO00988,Voice Solution,Lead Qualification,Success,,3.28,Hyderabad,06-05-2026 10:18
+AUTO00989,Voice Solution,WhatsApp Trigger,Success,,10.45,Pune,20-06-2026 15:54
+AUTO00990,Voice Solution,Call Summary Generation,Success,,6.11,Mumbai,15-06-2026 16:49
+AUTO00991,Voice Solution,WhatsApp Trigger,Success,,4.69,Hyderabad,06-02-2026 16:13
+AUTO00992,Voice Solution,Call Summary Generation,Success,,2.04,Hyderabad,25-12-2025 19:14
+AUTO00993,Voice Solution,WhatsApp Trigger,Success,,0.84,Bangalore,19-02-2026 10:17
+AUTO00994,Voice Solution,Call Summary Generation,Success,,1.99,Chennai,01-04-2026 11:31
+AUTO00995,Voice Solution,Call Summary Generation,Failed,CRM Sync Error,1.16,Chennai,04-07-2026 20:54
+AUTO00996,Voice Solution,Follow-up Trigger,Success,,1.82,Pune,08-01-2026 14:43
+AUTO00997,Voice Solution,WhatsApp Trigger,Success,,0.59,Chennai,08-07-2026 09:52
+AUTO00998,Voice Solution,Follow-up Trigger,Success,,4,Mumbai,06-12-2025 13:43
+AUTO00999,Voice Solution,Call Summary Generation,Success,,3.45,Mumbai,27-06-2026 10:02
+AUTO01000,Voice Solution,CRM Update,Success,,1.35,Mumbai,28-03-2026 18:44

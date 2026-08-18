@@ -1,0 +1,1001 @@
+interaction_id,product,sales_rep,region,customer_segment,use_case,session_duration_mins,suggestions_generated,suggestions_used,objections_detected,objections_assisted,ai_confidence_percent,customer_sentiment,conversion_status,interaction_date
+SHERPA00001,Sherpa AI,Rep 45,Hyderabad,SMB,Service Support,9.7,7,5,4,3,91.3,Negative,Converted,2025-12-04 13:11:37
+SHERPA00002,Sherpa AI,Rep 16,Hyderabad,SMB,Sales Consultation,9.8,8,4,5,4,94.1,Negative,Not Converted,2026-07-03 11:27:28
+SHERPA00003,Sherpa AI,Rep 37,Delhi,Enterprise,Sales Consultation,19.7,6,5,2,2,91.4,Neutral,Follow-up,2025-11-05 11:50:43
+SHERPA00004,Sherpa AI,Rep 25,Hyderabad,Mid-Market,Service Support,13.6,7,5,6,3,87.8,Neutral,Converted,2026-03-21 14:03:25
+SHERPA00005,Sherpa AI,Rep 9,Mumbai,Mid-Market,Sales Consultation,16.7,7,4,3,3,93.8,Positive,Not Converted,2026-05-05 13:02:18
+SHERPA00006,Sherpa AI,Rep 28,Mumbai,Enterprise,Product Discovery,18.6,7,4,3,2,90.8,Positive,Follow-up,2025-12-02 12:30:39
+SHERPA00007,Sherpa AI,Rep 9,Hyderabad,SMB,Guided Demo,15.5,10,8,3,2,86.3,Positive,Follow-up,2025-12-24 17:09:17
+SHERPA00008,Sherpa AI,Rep 12,Bangalore,Enterprise,Service Support,8.5,6,4,3,2,91.1,Neutral,Follow-up,2026-06-17 09:53:54
+SHERPA00009,Sherpa AI,Rep 18,Chennai,Mid-Market,Service Support,20.5,6,3,3,2,82.6,Positive,Follow-up,2026-02-12 12:40:12
+SHERPA00010,Sherpa AI,Rep 27,Pune,Enterprise,Product Discovery,8.3,7,4,5,4,95.5,Neutral,Converted,2026-04-25 12:18:22
+SHERPA00011,Sherpa AI,Rep 26,Mumbai,Mid-Market,Product Discovery,9.4,11,6,3,2,92.4,Positive,Follow-up,2026-03-15 16:02:03
+SHERPA00012,Sherpa AI,Rep 26,Hyderabad,Mid-Market,Product Discovery,11.8,11,5,6,4,94.4,Positive,Follow-up,2026-04-28 09:55:41
+SHERPA00013,Sherpa AI,Rep 10,Pune,SMB,Product Discovery,18.4,7,5,2,1,94.4,Neutral,Not Converted,2026-06-25 18:38:25
+SHERPA00014,Sherpa AI,Rep 17,Hyderabad,Mid-Market,Objection Handling,12.4,8,6,4,3,84.4,Neutral,Converted,2026-07-01 15:21:53
+SHERPA00015,Sherpa AI,Rep 32,Mumbai,Mid-Market,Service Support,10.7,7,3,4,3,82.4,Positive,Not Converted,2025-12-10 17:19:42
+SHERPA00016,Sherpa AI,Rep 24,Delhi,SMB,Sales Consultation,17.9,9,7,2,1,95.8,Positive,Converted,2025-12-02 09:37:30
+SHERPA00017,Sherpa AI,Rep 43,Chennai,SMB,Service Support,8.4,7,5,4,3,83.9,Positive,Converted,2026-05-07 13:20:18
+SHERPA00018,Sherpa AI,Rep 48,Mumbai,Mid-Market,Service Support,12.9,6,4,2,2,90.8,Positive,Not Converted,2026-02-27 18:37:01
+SHERPA00019,Sherpa AI,Rep 8,Pune,Enterprise,Service Support,13.4,5,4,4,3,86.3,Neutral,Not Converted,2026-01-19 18:03:39
+SHERPA00020,Sherpa AI,Rep 30,Hyderabad,Enterprise,Product Discovery,17.5,5,3,5,4,91.7,Positive,Not Converted,2026-02-23 13:32:45
+SHERPA00021,Sherpa AI,Rep 26,Delhi,SMB,Product Discovery,8.1,6,4,1,1,93.5,Positive,Converted,2026-04-24 16:57:24
+SHERPA00022,Sherpa AI,Rep 24,Mumbai,Mid-Market,Objection Handling,19.3,11,7,4,2,85.8,Negative,Follow-up,2026-05-15 14:26:09
+SHERPA00023,Sherpa AI,Rep 27,Chennai,Enterprise,Service Support,12.9,5,4,3,2,87.6,Neutral,Converted,2025-11-25 17:49:08
+SHERPA00024,Sherpa AI,Rep 15,Delhi,Enterprise,Guided Demo,9.4,7,4,5,4,88.0,Positive,Converted,2026-03-23 10:19:35
+SHERPA00025,Sherpa AI,Rep 28,Pune,SMB,Objection Handling,16.5,7,5,4,3,91.7,Positive,Not Converted,2026-02-15 10:33:58
+SHERPA00026,Sherpa AI,Rep 11,Hyderabad,Mid-Market,Product Discovery,20.1,6,3,1,1,91.6,Positive,Not Converted,2026-06-19 18:46:26
+SHERPA00027,Sherpa AI,Rep 39,Bangalore,Mid-Market,Service Support,18.7,6,4,5,3,84.2,Positive,Converted,2026-01-18 10:10:00
+SHERPA00028,Sherpa AI,Rep 2,Chennai,SMB,Product Discovery,17.5,8,6,4,3,91.9,Neutral,Converted,2025-11-13 18:29:33
+SHERPA00029,Sherpa AI,Rep 9,Delhi,Enterprise,Sales Consultation,13.4,9,6,5,3,88.3,Neutral,Follow-up,2026-01-06 13:06:37
+SHERPA00030,Sherpa AI,Rep 50,Mumbai,Mid-Market,Product Discovery,11.1,5,3,4,2,92.9,Positive,Not Converted,2026-01-24 17:27:53
+SHERPA00031,Sherpa AI,Rep 45,Mumbai,Mid-Market,Product Discovery,19.8,7,5,4,3,89.6,Neutral,Converted,2026-07-11 16:21:27
+SHERPA00032,Sherpa AI,Rep 23,Delhi,Mid-Market,Objection Handling,11.6,9,7,2,1,83.9,Positive,Converted,2026-07-26 15:04:28
+SHERPA00033,Sherpa AI,Rep 33,Mumbai,SMB,Sales Consultation,9.3,10,7,2,2,87.0,Positive,Not Converted,2026-04-13 14:16:47
+SHERPA00034,Sherpa AI,Rep 19,Delhi,Mid-Market,Guided Demo,11.6,7,5,3,2,87.0,Neutral,Follow-up,2026-04-15 09:08:04
+SHERPA00035,Sherpa AI,Rep 13,Chennai,SMB,Guided Demo,21.2,6,4,3,3,90.8,Positive,Not Converted,2026-06-22 14:16:48
+SHERPA00036,Sherpa AI,Rep 14,Mumbai,Enterprise,Guided Demo,12.2,6,4,4,3,87.7,Positive,Follow-up,2026-03-21 10:11:49
+SHERPA00037,Sherpa AI,Rep 32,Chennai,Mid-Market,Service Support,16.0,5,4,2,1,88.1,Neutral,Not Converted,2026-01-07 15:24:57
+SHERPA00038,Sherpa AI,Rep 49,Hyderabad,Enterprise,Guided Demo,14.8,10,6,2,2,93.7,Positive,Follow-up,2026-06-24 14:10:08
+SHERPA00039,Sherpa AI,Rep 22,Hyderabad,SMB,Service Support,18.7,9,5,4,2,86.1,Positive,Follow-up,2026-04-10 16:14:34
+SHERPA00040,Sherpa AI,Rep 20,Hyderabad,Mid-Market,Product Discovery,16.6,5,4,3,2,83.3,Neutral,Follow-up,2026-06-28 14:19:58
+SHERPA00041,Sherpa AI,Rep 33,Hyderabad,Mid-Market,Guided Demo,10.8,9,5,6,4,82.6,Neutral,Follow-up,2026-05-10 12:44:45
+SHERPA00042,Sherpa AI,Rep 5,Mumbai,SMB,Objection Handling,17.5,6,3,2,2,84.9,Neutral,Not Converted,2026-07-25 10:36:06
+SHERPA00043,Sherpa AI,Rep 20,Delhi,SMB,Sales Consultation,13.4,9,5,5,3,83.9,Positive,Follow-up,2026-05-06 09:53:25
+SHERPA00044,Sherpa AI,Rep 14,Mumbai,Enterprise,Sales Consultation,18.2,9,5,5,3,86.4,Positive,Not Converted,2026-05-22 13:39:30
+SHERPA00045,Sherpa AI,Rep 27,Pune,Enterprise,Product Discovery,20.6,8,4,5,4,87.1,Positive,Follow-up,2026-02-27 18:37:42
+SHERPA00046,Sherpa AI,Rep 26,Mumbai,Enterprise,Sales Consultation,11.2,8,4,6,5,88.1,Neutral,Converted,2026-03-13 18:03:00
+SHERPA00047,Sherpa AI,Rep 32,Chennai,SMB,Sales Consultation,13.1,10,5,5,4,84.5,Positive,Not Converted,2026-03-27 14:06:43
+SHERPA00048,Sherpa AI,Rep 30,Delhi,Enterprise,Product Discovery,8.7,9,4,5,3,90.0,Neutral,Follow-up,2026-01-19 13:20:54
+SHERPA00049,Sherpa AI,Rep 27,Bangalore,Mid-Market,Product Discovery,13.8,11,7,4,2,92.3,Positive,Converted,2026-04-21 15:23:32
+SHERPA00050,Sherpa AI,Rep 26,Bangalore,Mid-Market,Product Discovery,16.8,6,4,3,2,92.4,Positive,Not Converted,2026-02-16 11:28:34
+SHERPA00051,Sherpa AI,Rep 18,Delhi,Mid-Market,Objection Handling,9.9,5,3,3,2,91.1,Positive,Follow-up,2025-11-06 15:21:17
+SHERPA00052,Sherpa AI,Rep 45,Bangalore,Enterprise,Product Discovery,9.5,11,5,5,3,83.7,Negative,Converted,2026-05-11 12:29:07
+SHERPA00053,Sherpa AI,Rep 23,Delhi,Mid-Market,Product Discovery,17.8,6,3,2,1,85.0,Negative,Not Converted,2026-05-04 15:23:50
+SHERPA00054,Sherpa AI,Rep 44,Chennai,Enterprise,Product Discovery,12.6,6,3,3,2,96.0,Negative,Not Converted,2026-01-20 10:50:36
+SHERPA00055,Sherpa AI,Rep 47,Chennai,Enterprise,Guided Demo,10.1,4,3,5,4,92.0,Positive,Not Converted,2026-01-01 14:19:48
+SHERPA00056,Sherpa AI,Rep 24,Mumbai,Mid-Market,Guided Demo,11.2,5,3,4,2,85.8,Positive,Converted,2026-04-23 16:33:26
+SHERPA00057,Sherpa AI,Rep 4,Bangalore,SMB,Objection Handling,8.6,11,6,3,2,84.6,Positive,Converted,2026-04-07 12:08:09
+SHERPA00058,Sherpa AI,Rep 41,Delhi,Enterprise,Objection Handling,18.6,6,4,2,2,83.4,Neutral,Converted,2026-02-02 18:04:15
+SHERPA00059,Sherpa AI,Rep 3,Chennai,Mid-Market,Sales Consultation,14.1,5,4,4,2,87.4,Positive,Converted,2026-05-11 11:25:39
+SHERPA00060,Sherpa AI,Rep 43,Mumbai,Enterprise,Guided Demo,13.6,9,7,2,2,84.7,Positive,Converted,2026-01-09 15:20:13
+SHERPA00061,Sherpa AI,Rep 30,Bangalore,SMB,Objection Handling,17.1,11,6,3,3,94.0,Positive,Follow-up,2026-04-10 10:48:10
+SHERPA00062,Sherpa AI,Rep 47,Bangalore,SMB,Objection Handling,10.2,10,5,4,2,96.1,Positive,Not Converted,2026-01-21 14:00:54
+SHERPA00063,Sherpa AI,Rep 16,Bangalore,SMB,Sales Consultation,13.3,6,4,4,3,84.7,Positive,Follow-up,2026-07-10 10:52:54
+SHERPA00064,Sherpa AI,Rep 7,Chennai,Mid-Market,Product Discovery,9.8,8,4,5,4,96.6,Positive,Converted,2026-03-12 13:24:26
+SHERPA00065,Sherpa AI,Rep 39,Chennai,Mid-Market,Service Support,12.4,12,6,3,2,85.9,Positive,Not Converted,2026-03-13 09:16:34
+SHERPA00066,Sherpa AI,Rep 22,Bangalore,SMB,Sales Consultation,21.7,9,6,4,3,90.5,Positive,Converted,2026-01-29 18:12:45
+SHERPA00067,Sherpa AI,Rep 41,Chennai,Enterprise,Service Support,17.3,8,4,3,2,83.4,Neutral,Follow-up,2025-12-19 12:16:02
+SHERPA00068,Sherpa AI,Rep 31,Bangalore,SMB,Sales Consultation,15.8,5,3,4,3,94.6,Neutral,Follow-up,2026-02-25 16:40:28
+SHERPA00069,Sherpa AI,Rep 49,Hyderabad,SMB,Sales Consultation,19.9,9,4,3,2,94.7,Positive,Follow-up,2025-11-17 18:12:09
+SHERPA00070,Sherpa AI,Rep 13,Chennai,Mid-Market,Product Discovery,8.7,10,5,3,2,96.6,Neutral,Converted,2026-01-09 17:31:40
+SHERPA00071,Sherpa AI,Rep 41,Delhi,Mid-Market,Objection Handling,19.2,7,5,3,2,88.9,Positive,Follow-up,2026-03-21 16:58:44
+SHERPA00072,Sherpa AI,Rep 41,Chennai,SMB,Guided Demo,17.1,8,6,3,2,89.5,Positive,Not Converted,2026-03-31 18:02:46
+SHERPA00073,Sherpa AI,Rep 29,Bangalore,Enterprise,Sales Consultation,16.5,6,4,4,2,83.4,Neutral,Follow-up,2026-05-13 12:15:29
+SHERPA00074,Sherpa AI,Rep 28,Delhi,Mid-Market,Product Discovery,21.3,10,6,4,2,92.1,Negative,Not Converted,2026-03-29 17:20:58
+SHERPA00075,Sherpa AI,Rep 44,Mumbai,Mid-Market,Service Support,16.7,6,3,2,1,90.4,Neutral,Not Converted,2025-12-26 09:57:22
+SHERPA00076,Sherpa AI,Rep 19,Delhi,Enterprise,Objection Handling,11.1,8,5,4,2,93.4,Positive,Converted,2026-04-13 11:10:11
+SHERPA00077,Sherpa AI,Rep 23,Delhi,Enterprise,Sales Consultation,17.8,6,4,5,3,89.8,Neutral,Not Converted,2025-12-05 15:08:02
+SHERPA00078,Sherpa AI,Rep 47,Chennai,Mid-Market,Service Support,9.5,4,2,2,2,92.8,Positive,Converted,2026-02-25 15:02:20
+SHERPA00079,Sherpa AI,Rep 50,Pune,Enterprise,Sales Consultation,18.9,7,4,4,3,88.9,Positive,Converted,2025-11-23 10:38:40
+SHERPA00080,Sherpa AI,Rep 8,Delhi,SMB,Guided Demo,16.2,10,5,3,3,94.6,Positive,Converted,2026-03-04 09:31:47
+SHERPA00081,Sherpa AI,Rep 25,Delhi,Mid-Market,Guided Demo,15.0,9,5,4,4,84.0,Neutral,Follow-up,2025-12-07 12:42:06
+SHERPA00082,Sherpa AI,Rep 38,Bangalore,Enterprise,Objection Handling,15.1,8,4,5,4,89.2,Positive,Converted,2026-01-29 16:39:52
+SHERPA00083,Sherpa AI,Rep 38,Chennai,Mid-Market,Service Support,13.4,10,5,3,2,83.9,Neutral,Follow-up,2026-02-25 17:24:29
+SHERPA00084,Sherpa AI,Rep 35,Bangalore,Enterprise,Guided Demo,20.8,8,6,3,2,96.7,Neutral,Follow-up,2025-12-31 18:15:37
+SHERPA00085,Sherpa AI,Rep 26,Chennai,Mid-Market,Product Discovery,9.9,9,5,5,4,88.8,Positive,Follow-up,2025-12-28 10:29:26
+SHERPA00086,Sherpa AI,Rep 3,Mumbai,Mid-Market,Objection Handling,20.0,6,4,4,2,92.5,Negative,Follow-up,2026-02-26 15:21:59
+SHERPA00087,Sherpa AI,Rep 2,Pune,SMB,Sales Consultation,12.1,9,7,4,2,91.4,Neutral,Follow-up,2026-01-13 11:45:13
+SHERPA00088,Sherpa AI,Rep 5,Delhi,Mid-Market,Service Support,15.1,7,5,6,5,96.4,Positive,Converted,2026-05-06 17:40:46
+SHERPA00089,Sherpa AI,Rep 20,Chennai,Mid-Market,Service Support,16.0,10,6,2,1,89.2,Positive,Converted,2026-03-18 12:32:35
+SHERPA00090,Sherpa AI,Rep 12,Delhi,SMB,Product Discovery,19.9,10,6,5,4,86.3,Neutral,Not Converted,2026-05-03 10:38:02
+SHERPA00091,Sherpa AI,Rep 38,Delhi,Mid-Market,Guided Demo,10.8,9,6,1,1,92.1,Positive,Not Converted,2026-06-17 11:24:15
+SHERPA00092,Sherpa AI,Rep 16,Hyderabad,Mid-Market,Service Support,17.7,10,5,2,1,94.6,Negative,Converted,2026-04-21 11:51:08
+SHERPA00093,Sherpa AI,Rep 37,Bangalore,SMB,Product Discovery,20.2,7,5,1,1,83.5,Positive,Not Converted,2026-05-27 16:18:34
+SHERPA00094,Sherpa AI,Rep 38,Pune,Enterprise,Product Discovery,19.0,9,7,4,3,85.6,Positive,Not Converted,2026-06-24 10:47:48
+SHERPA00095,Sherpa AI,Rep 36,Chennai,SMB,Sales Consultation,21.4,10,5,4,3,87.8,Negative,Follow-up,2026-01-30 17:28:57
+SHERPA00096,Sherpa AI,Rep 46,Mumbai,SMB,Product Discovery,16.7,12,7,4,2,85.8,Negative,Not Converted,2026-03-21 17:46:55
+SHERPA00097,Sherpa AI,Rep 29,Pune,Mid-Market,Objection Handling,17.1,10,7,5,4,92.6,Positive,Not Converted,2026-01-10 13:44:55
+SHERPA00098,Sherpa AI,Rep 35,Hyderabad,SMB,Service Support,12.1,9,6,3,2,96.5,Neutral,Not Converted,2026-02-24 14:51:07
+SHERPA00099,Sherpa AI,Rep 49,Bangalore,SMB,Objection Handling,13.3,5,3,2,1,89.7,Positive,Not Converted,2026-06-25 14:01:40
+SHERPA00100,Sherpa AI,Rep 37,Mumbai,SMB,Product Discovery,12.6,7,4,2,1,85.8,Neutral,Follow-up,2026-01-20 12:49:33
+SHERPA00101,Sherpa AI,Rep 21,Mumbai,SMB,Product Discovery,21.1,10,5,2,1,82.8,Neutral,Converted,2026-03-20 14:55:40
+SHERPA00102,Sherpa AI,Rep 21,Delhi,SMB,Objection Handling,19.0,8,5,3,2,87.4,Positive,Not Converted,2026-02-05 10:17:49
+SHERPA00103,Sherpa AI,Rep 28,Bangalore,Enterprise,Sales Consultation,13.8,6,3,2,1,89.6,Positive,Not Converted,2026-06-08 15:36:53
+SHERPA00104,Sherpa AI,Rep 6,Hyderabad,Mid-Market,Product Discovery,13.1,7,3,2,1,87.0,Positive,Not Converted,2026-02-23 15:41:05
+SHERPA00105,Sherpa AI,Rep 20,Chennai,Enterprise,Objection Handling,21.7,5,3,3,3,94.4,Positive,Converted,2026-02-24 16:53:57
+SHERPA00106,Sherpa AI,Rep 36,Chennai,Mid-Market,Objection Handling,16.7,4,3,3,3,91.2,Positive,Converted,2026-02-18 16:26:03
+SHERPA00107,Sherpa AI,Rep 13,Hyderabad,SMB,Service Support,13.4,9,6,2,2,96.2,Neutral,Converted,2026-07-08 14:24:17
+SHERPA00108,Sherpa AI,Rep 40,Delhi,Enterprise,Sales Consultation,19.2,8,4,5,4,87.6,Positive,Converted,2026-01-12 13:21:17
+SHERPA00109,Sherpa AI,Rep 11,Delhi,SMB,Guided Demo,21.3,7,3,5,3,89.7,Positive,Follow-up,2026-01-31 15:16:53
+SHERPA00110,Sherpa AI,Rep 24,Mumbai,Enterprise,Objection Handling,17.4,6,5,4,2,83.0,Neutral,Not Converted,2026-03-04 14:27:20
+SHERPA00111,Sherpa AI,Rep 19,Bangalore,Enterprise,Service Support,17.8,9,7,3,2,90.1,Positive,Converted,2025-12-18 12:32:16
+SHERPA00112,Sherpa AI,Rep 23,Mumbai,Mid-Market,Guided Demo,10.2,12,8,4,4,93.2,Positive,Not Converted,2026-03-24 11:56:26
+SHERPA00113,Sherpa AI,Rep 31,Chennai,Enterprise,Service Support,15.8,7,4,1,1,93.9,Positive,Converted,2026-02-24 14:38:16
+SHERPA00114,Sherpa AI,Rep 37,Hyderabad,SMB,Service Support,14.1,8,4,2,1,91.5,Neutral,Follow-up,2026-06-12 15:50:33
+SHERPA00115,Sherpa AI,Rep 37,Bangalore,Enterprise,Sales Consultation,18.6,4,3,3,2,91.3,Positive,Not Converted,2026-02-03 18:55:24
+SHERPA00116,Sherpa AI,Rep 3,Hyderabad,Enterprise,Product Discovery,19.0,9,6,2,2,83.6,Neutral,Follow-up,2026-05-25 11:49:41
+SHERPA00117,Sherpa AI,Rep 34,Bangalore,Enterprise,Sales Consultation,17.3,6,3,4,3,87.9,Positive,Converted,2026-01-15 14:21:48
+SHERPA00118,Sherpa AI,Rep 29,Pune,Mid-Market,Guided Demo,15.6,8,5,2,1,94.0,Neutral,Follow-up,2026-05-11 17:23:48
+SHERPA00119,Sherpa AI,Rep 3,Chennai,Enterprise,Sales Consultation,18.2,10,5,4,3,93.9,Neutral,Converted,2025-12-28 17:06:03
+SHERPA00120,Sherpa AI,Rep 15,Chennai,Mid-Market,Product Discovery,8.1,6,5,3,2,83.8,Neutral,Converted,2025-11-08 16:51:26
+SHERPA00121,Sherpa AI,Rep 7,Pune,Mid-Market,Sales Consultation,20.6,9,6,6,4,93.2,Positive,Converted,2026-04-29 16:05:51
+SHERPA00122,Sherpa AI,Rep 3,Bangalore,Enterprise,Sales Consultation,11.1,6,4,4,3,84.4,Positive,Not Converted,2025-12-14 18:38:41
+SHERPA00123,Sherpa AI,Rep 47,Delhi,Enterprise,Sales Consultation,19.9,11,6,2,2,94.8,Neutral,Converted,2026-05-19 18:00:16
+SHERPA00124,Sherpa AI,Rep 43,Bangalore,SMB,Objection Handling,8.9,10,8,3,2,86.4,Positive,Not Converted,2026-02-22 15:17:00
+SHERPA00125,Sherpa AI,Rep 16,Chennai,Mid-Market,Objection Handling,17.2,5,3,3,2,83.9,Positive,Follow-up,2026-02-10 12:24:54
+SHERPA00126,Sherpa AI,Rep 45,Hyderabad,Mid-Market,Sales Consultation,16.6,5,3,5,3,88.8,Neutral,Converted,2026-04-27 18:51:57
+SHERPA00127,Sherpa AI,Rep 34,Mumbai,SMB,Product Discovery,14.0,7,4,4,3,86.7,Neutral,Converted,2026-03-09 13:58:21
+SHERPA00128,Sherpa AI,Rep 20,Hyderabad,SMB,Product Discovery,19.8,5,3,2,2,88.5,Positive,Follow-up,2026-03-02 10:17:28
+SHERPA00129,Sherpa AI,Rep 44,Chennai,SMB,Product Discovery,12.3,6,4,5,3,87.4,Neutral,Not Converted,2026-05-12 11:17:12
+SHERPA00130,Sherpa AI,Rep 39,Hyderabad,SMB,Product Discovery,10.0,8,4,4,3,94.9,Neutral,Follow-up,2026-01-11 09:31:54
+SHERPA00131,Sherpa AI,Rep 33,Delhi,Enterprise,Service Support,8.3,9,5,6,3,83.1,Positive,Converted,2026-03-15 10:57:05
+SHERPA00132,Sherpa AI,Rep 14,Delhi,Enterprise,Sales Consultation,20.7,7,3,3,2,90.9,Neutral,Not Converted,2025-12-31 13:02:06
+SHERPA00133,Sherpa AI,Rep 42,Bangalore,Mid-Market,Sales Consultation,13.1,7,4,5,3,93.6,Neutral,Converted,2025-12-20 18:06:04
+SHERPA00134,Sherpa AI,Rep 35,Hyderabad,SMB,Service Support,15.1,6,4,4,2,89.0,Negative,Follow-up,2026-01-17 14:27:47
+SHERPA00135,Sherpa AI,Rep 11,Hyderabad,Enterprise,Product Discovery,16.6,6,4,4,3,94.1,Positive,Follow-up,2025-12-22 12:25:07
+SHERPA00136,Sherpa AI,Rep 20,Chennai,Mid-Market,Guided Demo,17.2,6,4,3,2,96.2,Neutral,Follow-up,2026-04-05 15:05:58
+SHERPA00137,Sherpa AI,Rep 30,Bangalore,SMB,Guided Demo,14.8,11,8,3,2,85.3,Positive,Not Converted,2026-04-07 18:26:39
+SHERPA00138,Sherpa AI,Rep 28,Bangalore,Mid-Market,Service Support,13.1,5,3,1,1,95.6,Positive,Follow-up,2026-05-12 15:44:35
+SHERPA00139,Sherpa AI,Rep 15,Hyderabad,Mid-Market,Guided Demo,17.9,8,5,1,1,86.9,Neutral,Not Converted,2026-04-20 14:53:59
+SHERPA00140,Sherpa AI,Rep 38,Mumbai,Mid-Market,Objection Handling,10.4,9,7,5,3,90.2,Positive,Not Converted,2026-03-19 17:45:20
+SHERPA00141,Sherpa AI,Rep 50,Hyderabad,Enterprise,Sales Consultation,13.3,10,6,5,4,89.7,Positive,Follow-up,2026-03-21 10:53:31
+SHERPA00142,Sherpa AI,Rep 13,Hyderabad,Mid-Market,Guided Demo,14.7,8,5,2,2,89.3,Positive,Converted,2025-11-13 14:28:57
+SHERPA00143,Sherpa AI,Rep 47,Hyderabad,Enterprise,Objection Handling,17.0,10,6,2,1,83.2,Positive,Converted,2026-03-11 18:09:04
+SHERPA00144,Sherpa AI,Rep 35,Delhi,SMB,Sales Consultation,11.2,6,3,3,2,83.8,Positive,Converted,2026-04-16 14:59:51
+SHERPA00145,Sherpa AI,Rep 47,Pune,SMB,Objection Handling,10.3,11,8,4,3,85.2,Positive,Follow-up,2026-03-05 09:28:06
+SHERPA00146,Sherpa AI,Rep 24,Bangalore,SMB,Sales Consultation,16.8,11,5,1,1,84.4,Neutral,Converted,2026-03-08 14:49:10
+SHERPA00147,Sherpa AI,Rep 1,Pune,SMB,Sales Consultation,21.4,5,3,1,1,84.7,Positive,Converted,2026-05-19 12:15:03
+SHERPA00148,Sherpa AI,Rep 42,Delhi,Mid-Market,Guided Demo,12.0,7,4,1,1,91.9,Neutral,Follow-up,2026-07-31 15:06:00
+SHERPA00149,Sherpa AI,Rep 24,Mumbai,Enterprise,Service Support,19.6,5,3,5,4,84.6,Neutral,Not Converted,2026-06-10 11:12:21
+SHERPA00150,Sherpa AI,Rep 27,Chennai,Enterprise,Guided Demo,11.7,9,6,5,3,91.9,Positive,Converted,2026-04-17 11:19:10
+SHERPA00151,Sherpa AI,Rep 18,Mumbai,Mid-Market,Product Discovery,13.4,10,6,3,2,85.4,Neutral,Not Converted,2026-05-09 18:36:14
+SHERPA00152,Sherpa AI,Rep 26,Bangalore,SMB,Objection Handling,10.1,5,3,4,3,88.3,Neutral,Follow-up,2026-02-11 15:44:31
+SHERPA00153,Sherpa AI,Rep 29,Chennai,SMB,Product Discovery,15.0,4,2,3,2,93.8,Neutral,Converted,2025-11-03 09:42:14
+SHERPA00154,Sherpa AI,Rep 8,Pune,Mid-Market,Sales Consultation,20.6,6,4,2,1,94.4,Positive,Not Converted,2026-05-24 13:56:02
+SHERPA00155,Sherpa AI,Rep 44,Mumbai,Mid-Market,Guided Demo,15.4,10,7,3,2,82.7,Neutral,Converted,2026-01-29 12:31:14
+SHERPA00156,Sherpa AI,Rep 26,Bangalore,Mid-Market,Product Discovery,18.4,7,5,5,3,90.8,Positive,Not Converted,2026-03-22 15:31:38
+SHERPA00157,Sherpa AI,Rep 5,Mumbai,Mid-Market,Product Discovery,11.3,8,5,1,1,89.2,Positive,Converted,2025-11-06 16:24:17
+SHERPA00158,Sherpa AI,Rep 33,Chennai,SMB,Product Discovery,17.9,11,6,5,3,84.8,Neutral,Converted,2026-05-16 14:30:22
+SHERPA00159,Sherpa AI,Rep 40,Chennai,SMB,Sales Consultation,17.6,9,6,2,1,91.8,Positive,Not Converted,2026-06-18 17:26:00
+SHERPA00160,Sherpa AI,Rep 5,Mumbai,SMB,Sales Consultation,20.0,7,4,2,2,85.8,Neutral,Follow-up,2026-04-19 15:11:42
+SHERPA00161,Sherpa AI,Rep 49,Delhi,SMB,Sales Consultation,13.8,7,4,2,2,93.3,Neutral,Follow-up,2026-02-03 15:06:48
+SHERPA00162,Sherpa AI,Rep 47,Mumbai,Mid-Market,Product Discovery,12.3,10,6,3,2,85.8,Neutral,Follow-up,2026-01-06 18:38:47
+SHERPA00163,Sherpa AI,Rep 36,Pune,SMB,Objection Handling,18.5,7,5,5,4,91.9,Positive,Not Converted,2026-05-26 16:11:59
+SHERPA00164,Sherpa AI,Rep 13,Mumbai,SMB,Guided Demo,12.7,8,5,2,1,88.0,Negative,Converted,2026-04-01 10:02:41
+SHERPA00165,Sherpa AI,Rep 17,Mumbai,Mid-Market,Guided Demo,8.1,9,6,5,3,96.5,Neutral,Converted,2026-05-13 09:36:35
+SHERPA00166,Sherpa AI,Rep 13,Delhi,Mid-Market,Sales Consultation,11.1,6,3,6,4,83.0,Positive,Follow-up,2026-03-30 13:01:11
+SHERPA00167,Sherpa AI,Rep 25,Hyderabad,SMB,Product Discovery,15.3,5,2,3,3,91.2,Positive,Not Converted,2026-04-21 17:18:41
+SHERPA00168,Sherpa AI,Rep 2,Chennai,Mid-Market,Objection Handling,14.1,9,6,5,4,91.6,Neutral,Follow-up,2026-01-02 09:15:12
+SHERPA00169,Sherpa AI,Rep 24,Pune,Mid-Market,Service Support,16.4,7,5,5,3,82.5,Negative,Converted,2026-03-28 11:08:34
+SHERPA00170,Sherpa AI,Rep 36,Bangalore,Mid-Market,Sales Consultation,8.0,6,3,2,1,85.6,Neutral,Converted,2025-11-16 15:56:58
+SHERPA00171,Sherpa AI,Rep 25,Chennai,SMB,Service Support,16.2,5,4,4,3,87.9,Neutral,Converted,2026-06-03 18:18:51
+SHERPA00172,Sherpa AI,Rep 34,Chennai,Mid-Market,Guided Demo,19.6,9,6,2,1,86.3,Positive,Converted,2026-05-06 15:56:53
+SHERPA00173,Sherpa AI,Rep 12,Hyderabad,Mid-Market,Guided Demo,10.7,9,5,5,3,91.1,Positive,Converted,2025-12-31 17:05:54
+SHERPA00174,Sherpa AI,Rep 19,Chennai,SMB,Objection Handling,9.0,12,8,3,2,83.6,Positive,Not Converted,2026-03-26 15:54:35
+SHERPA00175,Sherpa AI,Rep 50,Chennai,SMB,Objection Handling,19.4,7,5,5,4,95.1,Neutral,Not Converted,2026-04-17 14:25:20
+SHERPA00176,Sherpa AI,Rep 42,Delhi,SMB,Service Support,18.6,9,6,6,4,93.5,Positive,Converted,2026-04-19 09:52:55
+SHERPA00177,Sherpa AI,Rep 30,Delhi,Enterprise,Guided Demo,9.6,9,5,3,2,82.4,Positive,Converted,2025-11-24 16:52:04
+SHERPA00178,Sherpa AI,Rep 37,Delhi,Mid-Market,Objection Handling,12.4,5,3,6,5,85.4,Positive,Follow-up,2026-04-07 11:35:46
+SHERPA00179,Sherpa AI,Rep 43,Delhi,Mid-Market,Objection Handling,9.3,11,7,1,1,85.7,Neutral,Not Converted,2026-01-18 09:22:14
+SHERPA00180,Sherpa AI,Rep 1,Delhi,Enterprise,Guided Demo,12.9,10,7,2,2,89.1,Neutral,Not Converted,2026-03-25 18:39:43
+SHERPA00181,Sherpa AI,Rep 3,Pune,SMB,Guided Demo,15.0,10,5,5,4,95.6,Positive,Not Converted,2026-01-02 09:35:18
+SHERPA00182,Sherpa AI,Rep 49,Bangalore,SMB,Product Discovery,11.5,5,3,4,2,85.0,Negative,Follow-up,2026-02-21 09:19:50
+SHERPA00183,Sherpa AI,Rep 26,Hyderabad,Mid-Market,Objection Handling,17.3,10,5,2,2,92.1,Positive,Not Converted,2026-03-05 18:42:25
+SHERPA00184,Sherpa AI,Rep 15,Mumbai,Enterprise,Service Support,16.7,8,6,3,2,89.2,Positive,Follow-up,2025-12-11 16:28:28
+SHERPA00185,Sherpa AI,Rep 46,Pune,Enterprise,Sales Consultation,21.8,9,7,6,5,89.4,Positive,Not Converted,2026-03-11 11:23:19
+SHERPA00186,Sherpa AI,Rep 47,Delhi,Mid-Market,Sales Consultation,19.2,11,6,2,1,82.8,Positive,Converted,2026-05-28 14:07:11
+SHERPA00187,Sherpa AI,Rep 48,Hyderabad,Enterprise,Guided Demo,10.4,7,4,3,2,92.3,Positive,Converted,2025-12-06 16:53:34
+SHERPA00188,Sherpa AI,Rep 28,Mumbai,SMB,Service Support,11.0,11,7,3,2,82.2,Neutral,Not Converted,2026-04-22 16:44:30
+SHERPA00189,Sherpa AI,Rep 4,Chennai,SMB,Product Discovery,11.3,7,4,3,2,90.2,Neutral,Not Converted,2025-11-05 12:47:35
+SHERPA00190,Sherpa AI,Rep 19,Pune,SMB,Objection Handling,17.8,8,5,3,2,85.2,Neutral,Not Converted,2026-05-17 14:05:25
+SHERPA00191,Sherpa AI,Rep 24,Chennai,Enterprise,Product Discovery,16.1,7,5,2,1,84.0,Neutral,Converted,2026-06-01 13:35:59
+SHERPA00192,Sherpa AI,Rep 40,Hyderabad,Mid-Market,Service Support,13.3,5,2,2,1,88.5,Neutral,Not Converted,2026-02-25 15:55:32
+SHERPA00193,Sherpa AI,Rep 6,Bangalore,SMB,Product Discovery,15.0,6,5,2,2,84.6,Positive,Follow-up,2026-05-12 15:08:48
+SHERPA00194,Sherpa AI,Rep 16,Bangalore,Mid-Market,Guided Demo,12.2,12,9,4,3,93.8,Neutral,Not Converted,2026-03-12 09:11:55
+SHERPA00195,Sherpa AI,Rep 32,Hyderabad,Enterprise,Sales Consultation,19.4,7,4,3,2,82.9,Neutral,Not Converted,2026-02-23 11:19:35
+SHERPA00196,Sherpa AI,Rep 30,Bangalore,Enterprise,Guided Demo,15.8,8,5,3,2,87.4,Negative,Follow-up,2026-04-01 11:31:33
+SHERPA00197,Sherpa AI,Rep 35,Bangalore,SMB,Objection Handling,21.5,11,6,1,1,95.0,Positive,Not Converted,2026-01-09 15:31:01
+SHERPA00198,Sherpa AI,Rep 8,Chennai,SMB,Guided Demo,13.0,5,3,4,2,93.7,Positive,Converted,2026-02-20 12:31:58
+SHERPA00199,Sherpa AI,Rep 5,Bangalore,SMB,Service Support,12.0,7,4,4,3,87.7,Neutral,Follow-up,2025-11-12 18:12:45
+SHERPA00200,Sherpa AI,Rep 37,Bangalore,Enterprise,Service Support,16.8,7,3,2,2,87.1,Neutral,Converted,2026-07-06 15:10:08
+SHERPA00201,Sherpa AI,Rep 12,Hyderabad,SMB,Objection Handling,12.4,9,7,1,1,85.4,Positive,Follow-up,2026-04-27 16:44:53
+SHERPA00202,Sherpa AI,Rep 25,Bangalore,SMB,Objection Handling,20.1,6,3,4,2,88.7,Neutral,Converted,2026-01-18 14:22:44
+SHERPA00203,Sherpa AI,Rep 33,Pune,Enterprise,Sales Consultation,8.3,8,5,6,4,84.8,Positive,Converted,2026-03-09 12:07:54
+SHERPA00204,Sherpa AI,Rep 39,Delhi,SMB,Product Discovery,10.3,10,7,6,5,83.2,Negative,Converted,2026-05-26 16:33:29
+SHERPA00205,Sherpa AI,Rep 24,Delhi,Mid-Market,Sales Consultation,13.6,6,3,5,4,82.4,Positive,Converted,2026-05-09 17:44:17
+SHERPA00206,Sherpa AI,Rep 11,Hyderabad,SMB,Guided Demo,20.4,9,4,2,1,91.8,Positive,Converted,2025-12-26 14:27:38
+SHERPA00207,Sherpa AI,Rep 42,Delhi,SMB,Product Discovery,19.7,5,3,2,2,84.0,Positive,Converted,2025-11-08 11:32:31
+SHERPA00208,Sherpa AI,Rep 35,Chennai,Mid-Market,Objection Handling,21.6,5,3,6,4,89.1,Positive,Follow-up,2026-03-18 11:24:29
+SHERPA00209,Sherpa AI,Rep 40,Pune,Mid-Market,Service Support,10.5,8,4,3,3,92.5,Positive,Follow-up,2026-06-12 09:06:27
+SHERPA00210,Sherpa AI,Rep 1,Pune,Mid-Market,Guided Demo,17.0,8,5,4,3,89.9,Neutral,Follow-up,2025-12-28 10:28:51
+SHERPA00211,Sherpa AI,Rep 8,Hyderabad,SMB,Sales Consultation,13.1,7,4,4,3,88.6,Negative,Follow-up,2026-03-04 10:15:56
+SHERPA00212,Sherpa AI,Rep 23,Bangalore,Mid-Market,Objection Handling,12.8,6,3,1,1,94.7,Positive,Not Converted,2026-06-10 11:36:15
+SHERPA00213,Sherpa AI,Rep 20,Delhi,SMB,Product Discovery,8.1,7,3,5,4,89.2,Neutral,Follow-up,2026-01-04 12:18:14
+SHERPA00214,Sherpa AI,Rep 32,Chennai,Enterprise,Product Discovery,13.8,7,4,2,1,87.6,Positive,Not Converted,2025-12-13 09:10:24
+SHERPA00215,Sherpa AI,Rep 11,Hyderabad,SMB,Service Support,13.3,9,5,2,2,87.8,Positive,Not Converted,2026-03-30 18:41:40
+SHERPA00216,Sherpa AI,Rep 7,Hyderabad,Mid-Market,Objection Handling,19.3,7,4,2,2,95.6,Positive,Follow-up,2026-03-26 17:19:29
+SHERPA00217,Sherpa AI,Rep 30,Bangalore,Enterprise,Objection Handling,19.9,9,5,4,3,88.2,Positive,Converted,2026-06-12 09:39:40
+SHERPA00218,Sherpa AI,Rep 48,Mumbai,SMB,Guided Demo,16.7,6,3,4,3,86.1,Neutral,Follow-up,2026-04-12 12:46:42
+SHERPA00219,Sherpa AI,Rep 39,Delhi,Enterprise,Guided Demo,9.4,6,3,1,1,84.8,Positive,Not Converted,2026-04-03 09:10:28
+SHERPA00220,Sherpa AI,Rep 13,Chennai,Enterprise,Product Discovery,14.9,6,4,4,2,84.3,Neutral,Converted,2026-06-02 10:43:59
+SHERPA00221,Sherpa AI,Rep 42,Hyderabad,Enterprise,Sales Consultation,19.1,8,4,5,4,89.0,Neutral,Converted,2026-03-25 14:22:46
+SHERPA00222,Sherpa AI,Rep 49,Delhi,Mid-Market,Product Discovery,9.0,6,4,5,3,93.6,Neutral,Converted,2025-12-30 12:55:10
+SHERPA00223,Sherpa AI,Rep 3,Chennai,Mid-Market,Guided Demo,9.7,6,3,4,3,94.4,Negative,Follow-up,2025-11-07 12:32:38
+SHERPA00224,Sherpa AI,Rep 7,Pune,SMB,Guided Demo,8.5,11,6,5,3,93.1,Negative,Follow-up,2026-03-22 18:55:09
+SHERPA00225,Sherpa AI,Rep 43,Pune,SMB,Guided Demo,17.5,7,5,3,3,89.1,Neutral,Converted,2025-12-30 17:43:46
+SHERPA00226,Sherpa AI,Rep 13,Chennai,Mid-Market,Product Discovery,15.3,6,3,4,2,96.1,Positive,Converted,2026-06-21 14:36:54
+SHERPA00227,Sherpa AI,Rep 37,Pune,Mid-Market,Objection Handling,11.0,6,4,2,2,95.0,Positive,Converted,2026-04-24 14:39:27
+SHERPA00228,Sherpa AI,Rep 25,Hyderabad,Enterprise,Sales Consultation,9.7,6,4,3,2,86.1,Neutral,Follow-up,2026-03-23 14:05:27
+SHERPA00229,Sherpa AI,Rep 23,Delhi,SMB,Sales Consultation,16.3,10,5,1,1,89.1,Neutral,Converted,2026-01-31 10:48:13
+SHERPA00230,Sherpa AI,Rep 47,Chennai,Mid-Market,Guided Demo,21.0,8,4,2,1,91.3,Negative,Follow-up,2026-03-03 11:47:40
+SHERPA00231,Sherpa AI,Rep 33,Hyderabad,Enterprise,Service Support,19.1,10,7,1,1,92.5,Positive,Not Converted,2026-06-17 11:15:12
+SHERPA00232,Sherpa AI,Rep 5,Delhi,Enterprise,Product Discovery,19.3,5,3,6,5,93.4,Positive,Follow-up,2026-04-10 16:15:51
+SHERPA00233,Sherpa AI,Rep 32,Delhi,Mid-Market,Objection Handling,20.6,7,4,4,3,84.0,Positive,Not Converted,2026-01-16 10:52:04
+SHERPA00234,Sherpa AI,Rep 30,Hyderabad,SMB,Guided Demo,10.6,8,5,2,2,84.8,Neutral,Not Converted,2026-01-11 10:47:34
+SHERPA00235,Sherpa AI,Rep 31,Delhi,Enterprise,Service Support,15.8,6,4,2,2,95.7,Positive,Not Converted,2026-06-21 09:05:25
+SHERPA00236,Sherpa AI,Rep 13,Mumbai,Mid-Market,Guided Demo,8.0,4,2,2,1,87.5,Positive,Follow-up,2026-02-15 09:46:09
+SHERPA00237,Sherpa AI,Rep 42,Chennai,Enterprise,Service Support,18.9,9,5,2,1,94.9,Positive,Follow-up,2026-04-21 17:17:08
+SHERPA00238,Sherpa AI,Rep 5,Chennai,SMB,Sales Consultation,15.3,5,3,4,3,87.8,Positive,Not Converted,2026-02-26 15:24:42
+SHERPA00239,Sherpa AI,Rep 23,Delhi,SMB,Service Support,9.5,8,5,4,3,91.6,Positive,Not Converted,2026-01-31 13:39:51
+SHERPA00240,Sherpa AI,Rep 1,Hyderabad,Enterprise,Sales Consultation,10.8,9,4,5,3,95.1,Neutral,Follow-up,2026-03-16 16:40:19
+SHERPA00241,Sherpa AI,Rep 10,Bangalore,Enterprise,Sales Consultation,15.4,7,3,3,3,91.9,Positive,Follow-up,2026-07-09 15:19:30
+SHERPA00242,Sherpa AI,Rep 50,Pune,SMB,Product Discovery,21.0,9,5,3,2,83.1,Neutral,Not Converted,2026-06-24 17:31:11
+SHERPA00243,Sherpa AI,Rep 27,Delhi,Enterprise,Service Support,8.8,5,3,4,2,94.0,Negative,Converted,2026-07-13 11:11:40
+SHERPA00244,Sherpa AI,Rep 8,Bangalore,SMB,Objection Handling,19.5,8,6,3,2,92.6,Negative,Converted,2026-04-04 17:54:07
+SHERPA00245,Sherpa AI,Rep 3,Delhi,Mid-Market,Objection Handling,21.4,6,3,1,1,96.2,Neutral,Follow-up,2026-01-17 16:03:35
+SHERPA00246,Sherpa AI,Rep 19,Bangalore,Enterprise,Service Support,11.5,4,3,3,2,89.9,Neutral,Converted,2025-11-21 17:26:14
+SHERPA00247,Sherpa AI,Rep 2,Delhi,SMB,Product Discovery,16.9,9,5,5,3,83.6,Positive,Converted,2026-04-16 09:23:35
+SHERPA00248,Sherpa AI,Rep 49,Hyderabad,SMB,Objection Handling,10.5,8,5,5,4,84.5,Negative,Converted,2026-03-22 13:02:14
+SHERPA00249,Sherpa AI,Rep 31,Pune,SMB,Guided Demo,12.9,8,4,2,2,88.6,Positive,Not Converted,2026-03-03 17:40:07
+SHERPA00250,Sherpa AI,Rep 48,Bangalore,SMB,Objection Handling,14.0,6,5,3,2,93.5,Positive,Not Converted,2026-01-01 10:49:27
+SHERPA00251,Sherpa AI,Rep 10,Mumbai,Mid-Market,Product Discovery,21.0,10,7,4,2,93.5,Positive,Converted,2026-03-01 10:47:33
+SHERPA00252,Sherpa AI,Rep 16,Hyderabad,SMB,Sales Consultation,21.8,6,5,3,2,92.9,Positive,Converted,2026-01-26 15:46:10
+SHERPA00253,Sherpa AI,Rep 37,Pune,SMB,Sales Consultation,11.1,9,6,6,4,86.5,Positive,Follow-up,2026-05-22 17:14:40
+SHERPA00254,Sherpa AI,Rep 20,Delhi,Mid-Market,Sales Consultation,15.8,9,4,4,3,86.1,Neutral,Follow-up,2026-02-15 10:29:44
+SHERPA00255,Sherpa AI,Rep 3,Bangalore,Mid-Market,Product Discovery,9.9,9,7,2,1,87.3,Neutral,Converted,2026-05-03 17:03:59
+SHERPA00256,Sherpa AI,Rep 35,Pune,Enterprise,Sales Consultation,13.6,6,4,2,2,83.4,Neutral,Converted,2025-12-23 17:42:45
+SHERPA00257,Sherpa AI,Rep 34,Chennai,Mid-Market,Sales Consultation,19.6,10,7,4,3,84.6,Positive,Not Converted,2026-02-06 18:27:40
+SHERPA00258,Sherpa AI,Rep 21,Hyderabad,SMB,Product Discovery,18.2,8,5,5,4,86.5,Neutral,Follow-up,2026-02-21 16:58:17
+SHERPA00259,Sherpa AI,Rep 36,Bangalore,Mid-Market,Guided Demo,19.4,9,4,1,1,87.2,Positive,Follow-up,2026-05-21 13:23:39
+SHERPA00260,Sherpa AI,Rep 32,Hyderabad,Mid-Market,Objection Handling,16.4,7,5,5,3,91.8,Positive,Follow-up,2026-01-25 16:06:55
+SHERPA00261,Sherpa AI,Rep 18,Bangalore,SMB,Product Discovery,15.6,4,3,2,1,82.6,Neutral,Follow-up,2025-11-11 09:14:52
+SHERPA00262,Sherpa AI,Rep 34,Chennai,Enterprise,Product Discovery,13.5,6,4,2,1,93.0,Negative,Converted,2026-05-22 17:27:34
+SHERPA00263,Sherpa AI,Rep 38,Mumbai,Mid-Market,Service Support,13.5,7,5,3,2,86.3,Positive,Converted,2026-06-02 09:44:10
+SHERPA00264,Sherpa AI,Rep 3,Chennai,SMB,Sales Consultation,9.2,6,3,4,2,88.0,Neutral,Not Converted,2026-04-03 16:29:43
+SHERPA00265,Sherpa AI,Rep 3,Delhi,Mid-Market,Guided Demo,14.8,6,4,1,1,90.4,Neutral,Follow-up,2025-11-12 11:34:49
+SHERPA00266,Sherpa AI,Rep 27,Hyderabad,Mid-Market,Service Support,9.0,8,4,3,2,85.7,Neutral,Not Converted,2025-12-06 13:29:15
+SHERPA00267,Sherpa AI,Rep 2,Mumbai,Mid-Market,Guided Demo,13.9,10,6,6,3,92.1,Positive,Follow-up,2026-05-28 09:15:47
+SHERPA00268,Sherpa AI,Rep 3,Hyderabad,SMB,Sales Consultation,21.8,6,3,3,2,86.6,Positive,Follow-up,2026-02-28 10:55:54
+SHERPA00269,Sherpa AI,Rep 17,Pune,Mid-Market,Sales Consultation,19.5,8,6,3,2,82.7,Positive,Follow-up,2026-01-30 17:49:30
+SHERPA00270,Sherpa AI,Rep 46,Bangalore,Enterprise,Sales Consultation,8.8,5,3,4,3,83.7,Positive,Converted,2025-11-02 14:25:17
+SHERPA00271,Sherpa AI,Rep 39,Delhi,Enterprise,Objection Handling,17.7,11,8,5,4,82.2,Positive,Converted,2026-01-30 13:50:50
+SHERPA00272,Sherpa AI,Rep 38,Delhi,SMB,Guided Demo,10.9,5,3,1,1,90.1,Negative,Follow-up,2026-02-22 10:54:10
+SHERPA00273,Sherpa AI,Rep 40,Hyderabad,Mid-Market,Guided Demo,17.8,7,4,3,2,84.1,Positive,Converted,2025-12-23 13:39:51
+SHERPA00274,Sherpa AI,Rep 19,Delhi,SMB,Service Support,12.0,4,3,4,2,84.6,Negative,Converted,2025-12-10 15:35:53
+SHERPA00275,Sherpa AI,Rep 19,Hyderabad,SMB,Product Discovery,13.4,8,5,1,1,82.1,Positive,Follow-up,2025-11-12 14:38:16
+SHERPA00276,Sherpa AI,Rep 44,Bangalore,Mid-Market,Sales Consultation,20.1,6,4,4,3,82.3,Negative,Follow-up,2025-12-07 09:37:47
+SHERPA00277,Sherpa AI,Rep 5,Bangalore,SMB,Sales Consultation,12.4,9,5,3,3,83.5,Neutral,Converted,2026-05-24 15:23:57
+SHERPA00278,Sherpa AI,Rep 5,Hyderabad,Enterprise,Service Support,21.0,10,6,2,1,88.9,Positive,Follow-up,2026-01-25 18:44:01
+SHERPA00279,Sherpa AI,Rep 14,Chennai,Enterprise,Guided Demo,10.2,4,2,3,2,87.9,Neutral,Converted,2025-12-01 13:18:13
+SHERPA00280,Sherpa AI,Rep 27,Chennai,SMB,Objection Handling,15.0,7,4,4,2,96.7,Positive,Converted,2026-01-13 12:19:42
+SHERPA00281,Sherpa AI,Rep 49,Bangalore,Enterprise,Guided Demo,8.4,10,7,5,4,94.2,Positive,Not Converted,2026-04-22 14:42:22
+SHERPA00282,Sherpa AI,Rep 48,Mumbai,SMB,Objection Handling,9.2,8,4,2,2,91.9,Positive,Follow-up,2026-01-11 11:31:13
+SHERPA00283,Sherpa AI,Rep 36,Chennai,SMB,Objection Handling,11.4,8,6,4,3,85.4,Positive,Converted,2026-05-30 09:15:13
+SHERPA00284,Sherpa AI,Rep 40,Hyderabad,SMB,Guided Demo,10.9,6,5,5,3,90.1,Neutral,Converted,2026-04-01 14:50:04
+SHERPA00285,Sherpa AI,Rep 35,Bangalore,Mid-Market,Sales Consultation,17.9,6,4,5,4,86.6,Neutral,Converted,2026-05-08 12:08:30
+SHERPA00286,Sherpa AI,Rep 21,Delhi,SMB,Objection Handling,21.1,7,3,5,4,84.2,Positive,Follow-up,2026-02-12 15:21:20
+SHERPA00287,Sherpa AI,Rep 5,Delhi,Enterprise,Service Support,12.4,11,6,4,4,83.8,Negative,Not Converted,2026-05-31 10:22:59
+SHERPA00288,Sherpa AI,Rep 24,Chennai,Mid-Market,Service Support,13.8,11,8,5,4,88.2,Negative,Not Converted,2026-05-30 10:02:51
+SHERPA00289,Sherpa AI,Rep 39,Mumbai,Mid-Market,Objection Handling,18.9,7,5,5,4,86.1,Positive,Converted,2026-02-26 11:31:02
+SHERPA00290,Sherpa AI,Rep 50,Pune,Mid-Market,Sales Consultation,15.9,6,3,5,4,86.0,Positive,Not Converted,2026-03-22 17:05:41
+SHERPA00291,Sherpa AI,Rep 24,Chennai,Enterprise,Objection Handling,14.7,7,4,5,3,92.3,Positive,Not Converted,2026-03-26 18:29:53
+SHERPA00292,Sherpa AI,Rep 40,Mumbai,SMB,Service Support,14.9,9,6,5,3,94.8,Neutral,Follow-up,2026-03-21 09:03:30
+SHERPA00293,Sherpa AI,Rep 43,Chennai,SMB,Service Support,11.8,6,3,1,1,82.2,Positive,Converted,2026-04-21 09:31:56
+SHERPA00294,Sherpa AI,Rep 46,Delhi,SMB,Guided Demo,21.0,7,5,5,4,83.0,Positive,Follow-up,2026-01-18 16:26:03
+SHERPA00295,Sherpa AI,Rep 50,Mumbai,Enterprise,Sales Consultation,11.5,11,8,3,2,88.9,Neutral,Not Converted,2026-04-11 18:09:20
+SHERPA00296,Sherpa AI,Rep 13,Delhi,Mid-Market,Guided Demo,16.6,8,4,5,3,86.7,Neutral,Converted,2026-03-07 13:13:49
+SHERPA00297,Sherpa AI,Rep 38,Hyderabad,SMB,Product Discovery,15.3,10,6,4,3,93.8,Positive,Converted,2026-04-03 13:54:50
+SHERPA00298,Sherpa AI,Rep 45,Hyderabad,SMB,Objection Handling,13.5,6,4,1,1,89.8,Negative,Not Converted,2026-07-20 09:36:41
+SHERPA00299,Sherpa AI,Rep 1,Bangalore,SMB,Guided Demo,12.1,11,7,4,3,82.7,Neutral,Follow-up,2026-03-21 17:01:38
+SHERPA00300,Sherpa AI,Rep 43,Delhi,SMB,Sales Consultation,16.6,8,4,5,3,88.3,Positive,Follow-up,2026-05-05 14:59:39
+SHERPA00301,Sherpa AI,Rep 39,Delhi,Mid-Market,Objection Handling,18.1,5,3,2,2,88.8,Neutral,Not Converted,2026-05-17 15:29:36
+SHERPA00302,Sherpa AI,Rep 10,Bangalore,Mid-Market,Objection Handling,13.8,5,4,5,4,84.0,Positive,Converted,2025-12-17 10:24:57
+SHERPA00303,Sherpa AI,Rep 2,Hyderabad,Mid-Market,Objection Handling,14.4,7,4,4,3,85.0,Positive,Converted,2026-06-18 13:01:32
+SHERPA00304,Sherpa AI,Rep 16,Hyderabad,Mid-Market,Objection Handling,9.7,6,4,5,4,92.8,Positive,Not Converted,2026-06-05 16:58:03
+SHERPA00305,Sherpa AI,Rep 37,Mumbai,SMB,Objection Handling,19.1,4,2,2,1,87.8,Positive,Follow-up,2025-11-15 09:43:41
+SHERPA00306,Sherpa AI,Rep 16,Mumbai,Mid-Market,Sales Consultation,20.8,8,6,3,2,93.5,Positive,Follow-up,2026-01-30 15:25:45
+SHERPA00307,Sherpa AI,Rep 23,Pune,Mid-Market,Product Discovery,18.0,9,6,2,2,84.7,Positive,Converted,2026-03-24 10:30:28
+SHERPA00308,Sherpa AI,Rep 26,Hyderabad,Mid-Market,Service Support,9.6,7,4,5,3,91.4,Neutral,Converted,2026-04-26 18:08:55
+SHERPA00309,Sherpa AI,Rep 16,Pune,Enterprise,Product Discovery,20.0,6,3,4,2,88.9,Neutral,Not Converted,2026-05-20 15:09:52
+SHERPA00310,Sherpa AI,Rep 27,Chennai,Mid-Market,Service Support,14.7,7,3,5,3,90.8,Positive,Follow-up,2025-12-05 14:56:04
+SHERPA00311,Sherpa AI,Rep 47,Delhi,Enterprise,Guided Demo,16.7,7,3,4,2,90.2,Positive,Not Converted,2026-01-08 10:29:08
+SHERPA00312,Sherpa AI,Rep 41,Mumbai,SMB,Objection Handling,8.5,8,6,1,1,91.8,Neutral,Converted,2026-04-25 18:16:41
+SHERPA00313,Sherpa AI,Rep 30,Chennai,Mid-Market,Guided Demo,8.7,10,7,5,3,95.8,Positive,Converted,2026-06-24 11:50:44
+SHERPA00314,Sherpa AI,Rep 33,Mumbai,Mid-Market,Guided Demo,16.3,7,4,4,3,92.4,Positive,Converted,2026-01-03 15:26:21
+SHERPA00315,Sherpa AI,Rep 32,Bangalore,Mid-Market,Service Support,9.3,11,6,4,3,96.0,Positive,Not Converted,2026-03-22 16:04:05
+SHERPA00316,Sherpa AI,Rep 9,Delhi,Mid-Market,Sales Consultation,15.7,6,3,3,2,88.4,Neutral,Follow-up,2026-06-24 16:29:10
+SHERPA00317,Sherpa AI,Rep 11,Pune,Mid-Market,Objection Handling,15.3,6,3,4,2,89.9,Neutral,Follow-up,2026-02-21 13:14:47
+SHERPA00318,Sherpa AI,Rep 37,Pune,SMB,Guided Demo,21.8,9,6,2,2,91.4,Neutral,Not Converted,2026-01-08 11:30:42
+SHERPA00319,Sherpa AI,Rep 6,Mumbai,Mid-Market,Product Discovery,16.5,7,5,4,4,86.3,Positive,Converted,2026-07-20 15:51:55
+SHERPA00320,Sherpa AI,Rep 30,Hyderabad,SMB,Objection Handling,15.9,7,4,6,4,83.9,Neutral,Not Converted,2026-04-17 12:07:12
+SHERPA00321,Sherpa AI,Rep 40,Pune,Enterprise,Sales Consultation,17.9,7,5,3,2,91.1,Positive,Follow-up,2026-02-21 13:29:16
+SHERPA00322,Sherpa AI,Rep 15,Bangalore,Enterprise,Objection Handling,19.9,10,5,1,1,83.8,Positive,Converted,2026-02-24 16:45:58
+SHERPA00323,Sherpa AI,Rep 48,Bangalore,SMB,Guided Demo,16.9,8,6,2,1,90.4,Neutral,Follow-up,2025-11-08 10:24:17
+SHERPA00324,Sherpa AI,Rep 30,Hyderabad,Mid-Market,Product Discovery,15.1,4,2,2,2,86.6,Neutral,Follow-up,2026-06-21 14:19:16
+SHERPA00325,Sherpa AI,Rep 18,Bangalore,Mid-Market,Guided Demo,16.6,7,3,4,3,92.9,Positive,Not Converted,2026-05-02 13:26:11
+SHERPA00326,Sherpa AI,Rep 12,Delhi,Mid-Market,Sales Consultation,20.8,5,3,3,2,92.1,Positive,Not Converted,2026-03-05 15:33:07
+SHERPA00327,Sherpa AI,Rep 4,Mumbai,Enterprise,Service Support,15.5,10,7,3,2,95.4,Neutral,Follow-up,2026-04-20 17:27:07
+SHERPA00328,Sherpa AI,Rep 16,Bangalore,Mid-Market,Product Discovery,12.2,7,5,3,2,94.5,Neutral,Not Converted,2026-01-01 13:36:43
+SHERPA00329,Sherpa AI,Rep 23,Delhi,SMB,Sales Consultation,19.2,8,4,3,2,92.3,Neutral,Converted,2026-02-01 13:46:19
+SHERPA00330,Sherpa AI,Rep 11,Hyderabad,Enterprise,Sales Consultation,21.8,10,6,5,3,82.5,Positive,Converted,2026-06-01 12:59:12
+SHERPA00331,Sherpa AI,Rep 24,Mumbai,SMB,Guided Demo,20.1,8,6,3,2,90.9,Neutral,Converted,2026-06-22 16:01:00
+SHERPA00332,Sherpa AI,Rep 22,Hyderabad,Mid-Market,Guided Demo,15.0,9,6,2,1,88.2,Neutral,Follow-up,2026-02-15 10:09:48
+SHERPA00333,Sherpa AI,Rep 39,Mumbai,Mid-Market,Guided Demo,9.6,5,3,5,3,86.5,Neutral,Not Converted,2025-12-12 17:56:55
+SHERPA00334,Sherpa AI,Rep 15,Bangalore,Enterprise,Service Support,14.8,9,6,5,3,82.4,Positive,Not Converted,2026-02-27 18:58:18
+SHERPA00335,Sherpa AI,Rep 49,Bangalore,Mid-Market,Objection Handling,18.9,7,4,5,4,89.9,Positive,Follow-up,2026-02-27 11:04:03
+SHERPA00336,Sherpa AI,Rep 15,Mumbai,Enterprise,Objection Handling,9.9,5,4,5,4,92.2,Positive,Converted,2026-06-24 10:32:47
+SHERPA00337,Sherpa AI,Rep 10,Delhi,Enterprise,Guided Demo,21.1,9,5,4,3,82.1,Positive,Follow-up,2026-06-08 13:54:45
+SHERPA00338,Sherpa AI,Rep 28,Delhi,SMB,Guided Demo,15.3,9,6,2,1,82.7,Positive,Not Converted,2026-04-18 11:39:56
+SHERPA00339,Sherpa AI,Rep 36,Delhi,SMB,Service Support,12.5,10,6,4,2,95.4,Neutral,Converted,2026-03-27 10:05:27
+SHERPA00340,Sherpa AI,Rep 17,Chennai,SMB,Objection Handling,10.1,5,3,2,1,83.8,Positive,Converted,2026-06-05 15:59:04
+SHERPA00341,Sherpa AI,Rep 36,Pune,Enterprise,Service Support,12.9,7,3,4,3,85.1,Neutral,Follow-up,2026-05-19 17:24:57
+SHERPA00342,Sherpa AI,Rep 22,Pune,SMB,Sales Consultation,9.0,7,3,5,3,85.7,Positive,Follow-up,2026-05-21 14:44:15
+SHERPA00343,Sherpa AI,Rep 23,Pune,Mid-Market,Objection Handling,17.5,8,4,3,2,89.1,Positive,Converted,2025-12-21 17:00:42
+SHERPA00344,Sherpa AI,Rep 29,Delhi,SMB,Guided Demo,16.3,6,3,3,2,90.9,Neutral,Follow-up,2026-03-12 17:26:37
+SHERPA00345,Sherpa AI,Rep 22,Bangalore,Enterprise,Product Discovery,18.0,8,5,3,2,94.3,Positive,Follow-up,2025-11-01 17:12:45
+SHERPA00346,Sherpa AI,Rep 11,Chennai,Mid-Market,Sales Consultation,9.8,7,4,4,3,89.0,Positive,Converted,2025-11-25 12:45:19
+SHERPA00347,Sherpa AI,Rep 36,Delhi,SMB,Product Discovery,17.9,8,6,3,2,92.3,Positive,Converted,2025-11-22 16:13:34
+SHERPA00348,Sherpa AI,Rep 44,Bangalore,Mid-Market,Service Support,20.8,6,3,2,2,91.3,Neutral,Converted,2025-11-30 17:58:00
+SHERPA00349,Sherpa AI,Rep 29,Chennai,SMB,Service Support,14.3,7,5,4,3,95.2,Negative,Not Converted,2026-01-14 16:06:27
+SHERPA00350,Sherpa AI,Rep 42,Bangalore,Mid-Market,Service Support,18.8,5,3,3,2,84.6,Neutral,Not Converted,2026-05-05 16:47:38
+SHERPA00351,Sherpa AI,Rep 32,Mumbai,Mid-Market,Guided Demo,12.6,8,4,1,1,94.0,Neutral,Converted,2026-02-23 13:57:01
+SHERPA00352,Sherpa AI,Rep 14,Bangalore,SMB,Service Support,16.7,8,6,3,2,88.2,Positive,Not Converted,2026-06-03 14:25:29
+SHERPA00353,Sherpa AI,Rep 18,Chennai,SMB,Product Discovery,16.3,8,6,3,2,94.2,Negative,Converted,2026-04-01 18:22:15
+SHERPA00354,Sherpa AI,Rep 38,Delhi,SMB,Sales Consultation,17.3,11,7,5,4,85.5,Negative,Converted,2026-03-26 18:13:04
+SHERPA00355,Sherpa AI,Rep 37,Pune,Enterprise,Guided Demo,14.5,5,4,4,3,90.9,Neutral,Not Converted,2026-05-17 12:35:20
+SHERPA00356,Sherpa AI,Rep 34,Chennai,Enterprise,Sales Consultation,9.5,7,5,2,2,83.0,Neutral,Converted,2025-11-18 10:59:24
+SHERPA00357,Sherpa AI,Rep 45,Delhi,Enterprise,Service Support,9.3,9,6,3,2,91.9,Neutral,Not Converted,2026-06-22 18:38:02
+SHERPA00358,Sherpa AI,Rep 23,Delhi,Mid-Market,Objection Handling,10.1,11,8,6,5,82.0,Positive,Follow-up,2026-03-20 12:41:04
+SHERPA00359,Sherpa AI,Rep 32,Hyderabad,SMB,Guided Demo,17.5,6,4,3,2,84.9,Neutral,Converted,2026-03-12 17:04:19
+SHERPA00360,Sherpa AI,Rep 46,Mumbai,Mid-Market,Service Support,14.1,6,4,5,3,96.1,Neutral,Converted,2026-02-19 15:14:54
+SHERPA00361,Sherpa AI,Rep 3,Hyderabad,Mid-Market,Guided Demo,13.7,9,5,1,1,96.8,Neutral,Converted,2025-11-06 17:46:15
+SHERPA00362,Sherpa AI,Rep 43,Pune,SMB,Objection Handling,17.8,5,3,3,2,82.8,Neutral,Not Converted,2026-01-08 10:46:12
+SHERPA00363,Sherpa AI,Rep 22,Chennai,Enterprise,Product Discovery,17.8,10,6,5,4,85.5,Neutral,Follow-up,2026-01-24 17:51:38
+SHERPA00364,Sherpa AI,Rep 23,Hyderabad,SMB,Product Discovery,17.3,7,4,3,2,90.2,Neutral,Not Converted,2026-01-26 16:42:33
+SHERPA00365,Sherpa AI,Rep 4,Pune,SMB,Product Discovery,10.2,8,4,3,3,94.6,Positive,Not Converted,2026-05-10 12:19:49
+SHERPA00366,Sherpa AI,Rep 13,Delhi,Enterprise,Objection Handling,18.1,12,8,2,1,82.2,Positive,Converted,2026-05-22 16:33:24
+SHERPA00367,Sherpa AI,Rep 32,Chennai,Enterprise,Sales Consultation,13.8,9,5,6,3,91.6,Negative,Converted,2026-03-22 13:23:09
+SHERPA00368,Sherpa AI,Rep 29,Hyderabad,Enterprise,Objection Handling,15.1,6,4,3,2,84.7,Neutral,Converted,2025-11-14 14:27:26
+SHERPA00369,Sherpa AI,Rep 40,Bangalore,SMB,Objection Handling,16.1,9,5,3,2,91.1,Negative,Not Converted,2026-03-04 16:23:43
+SHERPA00370,Sherpa AI,Rep 40,Pune,Enterprise,Service Support,13.1,9,5,3,2,90.2,Neutral,Converted,2025-12-29 12:23:18
+SHERPA00371,Sherpa AI,Rep 45,Pune,SMB,Product Discovery,17.7,9,6,3,2,89.2,Neutral,Follow-up,2025-11-25 13:05:54
+SHERPA00372,Sherpa AI,Rep 10,Mumbai,Mid-Market,Guided Demo,14.5,6,4,6,5,93.7,Positive,Not Converted,2026-05-18 13:18:07
+SHERPA00373,Sherpa AI,Rep 13,Bangalore,SMB,Sales Consultation,21.4,5,4,1,1,93.1,Positive,Converted,2026-06-25 18:46:42
+SHERPA00374,Sherpa AI,Rep 45,Chennai,SMB,Guided Demo,12.8,4,3,4,2,82.8,Neutral,Not Converted,2026-07-04 13:14:32
+SHERPA00375,Sherpa AI,Rep 17,Hyderabad,SMB,Service Support,13.9,11,7,4,3,93.0,Positive,Follow-up,2026-03-05 11:48:39
+SHERPA00376,Sherpa AI,Rep 38,Delhi,Mid-Market,Service Support,18.5,12,9,3,2,95.8,Neutral,Converted,2026-05-01 10:27:08
+SHERPA00377,Sherpa AI,Rep 2,Hyderabad,Enterprise,Sales Consultation,8.7,10,6,1,1,84.5,Neutral,Converted,2026-04-04 16:38:34
+SHERPA00378,Sherpa AI,Rep 17,Chennai,Enterprise,Guided Demo,15.1,9,6,3,2,83.2,Positive,Not Converted,2025-11-06 16:00:46
+SHERPA00379,Sherpa AI,Rep 44,Chennai,Mid-Market,Sales Consultation,8.2,9,5,2,1,94.9,Neutral,Not Converted,2026-02-10 12:38:51
+SHERPA00380,Sherpa AI,Rep 26,Chennai,Mid-Market,Sales Consultation,19.3,5,3,4,2,88.7,Positive,Converted,2026-04-24 15:05:27
+SHERPA00381,Sherpa AI,Rep 38,Chennai,SMB,Product Discovery,12.8,7,5,4,3,94.9,Positive,Follow-up,2026-03-07 15:26:29
+SHERPA00382,Sherpa AI,Rep 37,Pune,SMB,Guided Demo,21.9,5,2,5,3,89.4,Positive,Not Converted,2026-04-05 09:18:58
+SHERPA00383,Sherpa AI,Rep 5,Hyderabad,Enterprise,Product Discovery,18.3,10,5,3,2,85.2,Negative,Follow-up,2026-05-19 10:03:53
+SHERPA00384,Sherpa AI,Rep 25,Bangalore,SMB,Product Discovery,13.6,6,4,4,2,84.5,Positive,Converted,2025-12-25 10:00:29
+SHERPA00385,Sherpa AI,Rep 9,Delhi,Enterprise,Product Discovery,17.9,7,5,5,4,87.7,Positive,Follow-up,2026-03-05 14:19:41
+SHERPA00386,Sherpa AI,Rep 28,Delhi,Enterprise,Objection Handling,14.3,8,4,5,3,95.9,Positive,Converted,2026-05-30 11:26:41
+SHERPA00387,Sherpa AI,Rep 22,Mumbai,SMB,Service Support,16.9,8,6,4,2,95.8,Positive,Converted,2026-07-22 11:45:27
+SHERPA00388,Sherpa AI,Rep 29,Pune,SMB,Service Support,11.7,11,7,5,4,87.0,Neutral,Follow-up,2026-04-04 09:15:26
+SHERPA00389,Sherpa AI,Rep 35,Chennai,Enterprise,Objection Handling,18.3,5,3,3,2,93.2,Positive,Converted,2025-12-10 17:08:12
+SHERPA00390,Sherpa AI,Rep 20,Chennai,SMB,Sales Consultation,15.7,8,4,2,2,84.7,Neutral,Follow-up,2026-06-23 18:30:17
+SHERPA00391,Sherpa AI,Rep 5,Chennai,SMB,Guided Demo,14.2,8,6,1,1,83.6,Positive,Not Converted,2026-06-12 13:50:25
+SHERPA00392,Sherpa AI,Rep 39,Pune,Enterprise,Guided Demo,21.1,6,3,2,1,83.4,Neutral,Follow-up,2026-04-26 17:35:01
+SHERPA00393,Sherpa AI,Rep 44,Bangalore,Mid-Market,Guided Demo,9.7,8,6,5,4,92.6,Positive,Not Converted,2026-07-05 15:45:50
+SHERPA00394,Sherpa AI,Rep 32,Chennai,SMB,Product Discovery,21.5,11,5,5,4,90.5,Negative,Follow-up,2026-03-05 13:12:11
+SHERPA00395,Sherpa AI,Rep 39,Mumbai,SMB,Guided Demo,16.9,11,7,2,1,96.0,Positive,Converted,2026-04-19 09:38:09
+SHERPA00396,Sherpa AI,Rep 10,Mumbai,Mid-Market,Guided Demo,12.5,9,5,3,3,93.5,Neutral,Not Converted,2026-07-28 15:34:02
+SHERPA00397,Sherpa AI,Rep 40,Bangalore,Enterprise,Guided Demo,8.8,5,2,4,3,87.0,Neutral,Follow-up,2026-02-06 12:08:50
+SHERPA00398,Sherpa AI,Rep 17,Pune,SMB,Service Support,16.5,11,6,3,2,95.9,Neutral,Follow-up,2026-04-29 09:20:59
+SHERPA00399,Sherpa AI,Rep 37,Chennai,SMB,Objection Handling,17.0,5,3,2,2,85.3,Neutral,Converted,2025-12-23 14:15:16
+SHERPA00400,Sherpa AI,Rep 15,Hyderabad,Mid-Market,Sales Consultation,11.5,10,7,1,1,90.6,Positive,Not Converted,2026-06-19 15:43:57
+SHERPA00401,Sherpa AI,Rep 9,Hyderabad,Enterprise,Objection Handling,17.3,8,6,2,2,96.0,Neutral,Not Converted,2026-03-14 14:55:42
+SHERPA00402,Sherpa AI,Rep 32,Delhi,SMB,Guided Demo,21.2,6,4,5,4,89.7,Positive,Converted,2026-06-09 16:31:14
+SHERPA00403,Sherpa AI,Rep 23,Bangalore,SMB,Sales Consultation,15.6,8,5,5,4,93.8,Neutral,Not Converted,2026-05-25 15:23:02
+SHERPA00404,Sherpa AI,Rep 11,Hyderabad,SMB,Sales Consultation,21.1,5,4,5,3,90.5,Negative,Follow-up,2026-05-16 10:57:32
+SHERPA00405,Sherpa AI,Rep 13,Delhi,SMB,Objection Handling,9.3,8,5,3,2,96.4,Negative,Converted,2026-03-05 13:18:20
+SHERPA00406,Sherpa AI,Rep 18,Mumbai,SMB,Objection Handling,17.1,9,7,2,1,93.5,Positive,Not Converted,2026-03-02 14:04:21
+SHERPA00407,Sherpa AI,Rep 49,Delhi,SMB,Objection Handling,20.6,6,3,3,2,92.4,Positive,Follow-up,2026-04-11 11:31:44
+SHERPA00408,Sherpa AI,Rep 9,Chennai,SMB,Objection Handling,10.0,10,6,2,2,93.0,Positive,Converted,2026-03-15 12:54:23
+SHERPA00409,Sherpa AI,Rep 42,Chennai,SMB,Product Discovery,15.6,6,4,4,3,82.9,Positive,Not Converted,2026-03-25 14:43:38
+SHERPA00410,Sherpa AI,Rep 5,Mumbai,SMB,Service Support,8.5,7,4,5,3,96.9,Positive,Follow-up,2026-05-04 14:10:46
+SHERPA00411,Sherpa AI,Rep 43,Bangalore,SMB,Service Support,17.3,5,4,1,1,94.1,Positive,Follow-up,2026-03-15 15:17:13
+SHERPA00412,Sherpa AI,Rep 22,Pune,SMB,Guided Demo,20.9,8,5,5,3,90.7,Negative,Follow-up,2026-05-28 15:52:27
+SHERPA00413,Sherpa AI,Rep 32,Chennai,Enterprise,Product Discovery,8.6,4,2,3,2,95.8,Neutral,Follow-up,2025-11-19 17:14:37
+SHERPA00414,Sherpa AI,Rep 47,Chennai,Mid-Market,Sales Consultation,19.1,8,4,2,1,86.6,Neutral,Converted,2026-02-26 17:17:52
+SHERPA00415,Sherpa AI,Rep 2,Delhi,Enterprise,Objection Handling,15.0,8,4,4,3,83.6,Positive,Not Converted,2026-04-30 09:53:07
+SHERPA00416,Sherpa AI,Rep 21,Delhi,Mid-Market,Guided Demo,21.8,9,5,4,3,94.2,Neutral,Follow-up,2026-06-03 16:54:27
+SHERPA00417,Sherpa AI,Rep 28,Delhi,Enterprise,Sales Consultation,19.7,10,6,6,4,84.1,Negative,Converted,2026-05-11 16:06:43
+SHERPA00418,Sherpa AI,Rep 24,Hyderabad,SMB,Service Support,10.0,9,6,3,2,83.8,Neutral,Converted,2026-02-18 16:28:05
+SHERPA00419,Sherpa AI,Rep 24,Mumbai,Mid-Market,Sales Consultation,8.6,6,4,3,2,95.9,Positive,Follow-up,2025-11-03 09:55:07
+SHERPA00420,Sherpa AI,Rep 14,Bangalore,Enterprise,Objection Handling,14.8,4,3,3,2,82.2,Positive,Follow-up,2026-07-14 16:14:51
+SHERPA00421,Sherpa AI,Rep 37,Delhi,Mid-Market,Objection Handling,13.8,5,3,2,2,95.3,Negative,Not Converted,2026-03-23 14:13:28
+SHERPA00422,Sherpa AI,Rep 27,Bangalore,Enterprise,Service Support,15.3,9,6,4,2,91.6,Positive,Follow-up,2026-02-15 16:07:01
+SHERPA00423,Sherpa AI,Rep 24,Delhi,SMB,Objection Handling,15.0,6,5,3,2,84.7,Neutral,Follow-up,2025-11-21 09:14:04
+SHERPA00424,Sherpa AI,Rep 6,Chennai,Mid-Market,Product Discovery,11.3,11,7,5,3,82.1,Positive,Follow-up,2026-01-19 14:30:35
+SHERPA00425,Sherpa AI,Rep 26,Bangalore,Mid-Market,Guided Demo,15.6,4,2,1,1,93.4,Positive,Follow-up,2025-11-06 17:58:06
+SHERPA00426,Sherpa AI,Rep 15,Hyderabad,SMB,Service Support,19.2,5,4,4,2,84.9,Neutral,Not Converted,2026-02-08 11:58:17
+SHERPA00427,Sherpa AI,Rep 29,Delhi,Mid-Market,Service Support,8.6,7,5,3,2,92.1,Positive,Follow-up,2025-11-22 10:43:56
+SHERPA00428,Sherpa AI,Rep 36,Pune,SMB,Sales Consultation,18.6,7,4,3,2,94.1,Positive,Not Converted,2026-07-23 16:36:50
+SHERPA00429,Sherpa AI,Rep 10,Mumbai,Mid-Market,Service Support,14.8,5,3,6,3,93.8,Positive,Follow-up,2026-05-28 18:26:15
+SHERPA00430,Sherpa AI,Rep 28,Chennai,Mid-Market,Guided Demo,10.8,4,3,4,3,86.9,Negative,Follow-up,2026-07-26 10:23:16
+SHERPA00431,Sherpa AI,Rep 9,Delhi,Mid-Market,Product Discovery,18.3,8,4,4,3,83.5,Positive,Converted,2026-02-28 14:54:43
+SHERPA00432,Sherpa AI,Rep 21,Bangalore,Enterprise,Sales Consultation,20.5,10,6,2,1,89.3,Neutral,Converted,2026-06-09 12:21:41
+SHERPA00433,Sherpa AI,Rep 10,Delhi,Enterprise,Guided Demo,18.1,5,4,3,2,84.0,Positive,Converted,2026-01-19 17:38:18
+SHERPA00434,Sherpa AI,Rep 4,Chennai,Enterprise,Service Support,8.8,8,6,2,1,92.4,Neutral,Follow-up,2026-06-09 17:36:42
+SHERPA00435,Sherpa AI,Rep 4,Mumbai,SMB,Objection Handling,20.4,5,4,3,2,87.2,Negative,Follow-up,2026-06-01 12:32:29
+SHERPA00436,Sherpa AI,Rep 6,Mumbai,SMB,Objection Handling,21.6,7,5,3,2,84.5,Positive,Not Converted,2025-11-15 14:10:23
+SHERPA00437,Sherpa AI,Rep 26,Mumbai,Enterprise,Guided Demo,16.3,11,5,6,4,96.9,Positive,Not Converted,2026-03-17 15:29:37
+SHERPA00438,Sherpa AI,Rep 40,Pune,Mid-Market,Product Discovery,12.6,10,5,5,4,85.7,Positive,Follow-up,2026-04-19 14:29:51
+SHERPA00439,Sherpa AI,Rep 16,Chennai,SMB,Objection Handling,8.1,7,5,3,2,90.6,Neutral,Converted,2026-02-21 10:28:10
+SHERPA00440,Sherpa AI,Rep 8,Pune,Enterprise,Guided Demo,15.4,9,4,3,2,82.5,Positive,Converted,2026-07-05 14:01:30
+SHERPA00441,Sherpa AI,Rep 28,Pune,Mid-Market,Sales Consultation,15.8,8,6,5,3,85.6,Positive,Not Converted,2026-04-04 17:49:34
+SHERPA00442,Sherpa AI,Rep 16,Delhi,Mid-Market,Service Support,17.1,4,3,5,3,86.4,Positive,Follow-up,2026-01-09 17:00:33
+SHERPA00443,Sherpa AI,Rep 38,Chennai,SMB,Product Discovery,18.5,5,3,2,2,94.9,Positive,Follow-up,2026-06-18 15:26:35
+SHERPA00444,Sherpa AI,Rep 49,Chennai,Mid-Market,Product Discovery,19.1,4,2,4,3,88.1,Positive,Converted,2025-12-09 09:05:40
+SHERPA00445,Sherpa AI,Rep 1,Delhi,SMB,Sales Consultation,20.5,7,4,4,3,83.1,Neutral,Converted,2026-01-23 11:40:55
+SHERPA00446,Sherpa AI,Rep 19,Hyderabad,Mid-Market,Product Discovery,15.6,7,3,3,2,96.2,Neutral,Not Converted,2026-04-22 10:33:23
+SHERPA00447,Sherpa AI,Rep 50,Pune,Mid-Market,Guided Demo,8.8,11,8,2,2,93.0,Positive,Follow-up,2026-03-10 13:46:54
+SHERPA00448,Sherpa AI,Rep 17,Mumbai,Mid-Market,Product Discovery,16.7,10,7,5,3,87.5,Neutral,Not Converted,2025-12-22 10:46:57
+SHERPA00449,Sherpa AI,Rep 49,Bangalore,Mid-Market,Product Discovery,10.9,7,4,4,2,92.6,Neutral,Not Converted,2026-05-22 17:08:41
+SHERPA00450,Sherpa AI,Rep 28,Pune,Enterprise,Product Discovery,16.1,12,6,2,1,96.1,Neutral,Converted,2026-05-22 10:11:08
+SHERPA00451,Sherpa AI,Rep 44,Bangalore,SMB,Guided Demo,11.7,12,6,5,3,87.3,Neutral,Follow-up,2026-03-12 12:37:20
+SHERPA00452,Sherpa AI,Rep 12,Delhi,Enterprise,Service Support,15.4,9,5,1,1,89.3,Neutral,Converted,2026-01-11 14:57:34
+SHERPA00453,Sherpa AI,Rep 6,Bangalore,SMB,Objection Handling,16.7,5,3,4,3,86.4,Neutral,Converted,2026-02-20 17:47:56
+SHERPA00454,Sherpa AI,Rep 7,Hyderabad,Mid-Market,Product Discovery,20.5,9,7,4,4,83.0,Neutral,Follow-up,2026-02-20 13:43:48
+SHERPA00455,Sherpa AI,Rep 8,Chennai,Mid-Market,Sales Consultation,9.5,8,4,6,4,96.3,Positive,Follow-up,2026-05-11 11:29:58
+SHERPA00456,Sherpa AI,Rep 3,Mumbai,Enterprise,Sales Consultation,16.8,6,4,3,3,89.8,Positive,Not Converted,2026-06-08 12:57:55
+SHERPA00457,Sherpa AI,Rep 49,Bangalore,Mid-Market,Guided Demo,14.2,7,5,4,2,87.2,Positive,Not Converted,2026-03-22 18:31:33
+SHERPA00458,Sherpa AI,Rep 21,Bangalore,SMB,Service Support,21.3,7,4,1,1,85.5,Neutral,Converted,2026-07-01 13:28:23
+SHERPA00459,Sherpa AI,Rep 8,Delhi,SMB,Product Discovery,16.3,9,5,3,2,86.9,Positive,Converted,2026-04-16 12:23:43
+SHERPA00460,Sherpa AI,Rep 28,Delhi,SMB,Guided Demo,19.1,10,7,3,2,84.0,Neutral,Converted,2026-03-26 14:45:05
+SHERPA00461,Sherpa AI,Rep 30,Chennai,Mid-Market,Objection Handling,8.7,5,3,3,3,93.5,Positive,Not Converted,2026-02-18 11:59:18
+SHERPA00462,Sherpa AI,Rep 32,Mumbai,Enterprise,Service Support,12.0,6,4,2,2,92.7,Neutral,Converted,2026-07-25 10:46:57
+SHERPA00463,Sherpa AI,Rep 11,Bangalore,SMB,Service Support,11.3,12,9,5,4,84.3,Positive,Follow-up,2026-03-20 11:48:48
+SHERPA00464,Sherpa AI,Rep 20,Chennai,SMB,Guided Demo,15.9,4,2,1,1,84.8,Neutral,Converted,2026-07-27 15:23:07
+SHERPA00465,Sherpa AI,Rep 50,Mumbai,Mid-Market,Sales Consultation,10.3,5,3,3,2,90.1,Neutral,Not Converted,2026-04-13 17:07:16
+SHERPA00466,Sherpa AI,Rep 16,Chennai,Enterprise,Service Support,14.4,6,5,3,2,84.2,Positive,Not Converted,2026-01-13 18:36:42
+SHERPA00467,Sherpa AI,Rep 25,Bangalore,SMB,Sales Consultation,17.9,5,2,4,4,87.0,Positive,Not Converted,2025-11-29 17:05:37
+SHERPA00468,Sherpa AI,Rep 45,Delhi,SMB,Service Support,10.1,8,4,6,5,90.6,Neutral,Converted,2026-05-30 13:44:07
+SHERPA00469,Sherpa AI,Rep 9,Delhi,Mid-Market,Service Support,20.6,7,5,3,2,93.0,Positive,Follow-up,2025-12-14 17:00:07
+SHERPA00470,Sherpa AI,Rep 39,Delhi,Mid-Market,Service Support,14.2,6,4,3,2,94.6,Neutral,Not Converted,2026-04-03 11:20:41
+SHERPA00471,Sherpa AI,Rep 49,Hyderabad,SMB,Objection Handling,21.1,5,2,4,3,85.3,Negative,Follow-up,2026-02-24 11:40:06
+SHERPA00472,Sherpa AI,Rep 40,Chennai,Enterprise,Sales Consultation,9.2,6,3,3,2,92.1,Neutral,Not Converted,2026-01-26 18:19:05
+SHERPA00473,Sherpa AI,Rep 40,Bangalore,Mid-Market,Objection Handling,20.7,7,4,2,1,96.2,Neutral,Converted,2026-07-11 14:06:05
+SHERPA00474,Sherpa AI,Rep 3,Chennai,Enterprise,Sales Consultation,12.0,6,3,5,3,87.6,Neutral,Not Converted,2026-06-27 16:46:41
+SHERPA00475,Sherpa AI,Rep 16,Delhi,Enterprise,Objection Handling,14.2,6,5,4,2,92.9,Neutral,Not Converted,2025-12-20 09:39:05
+SHERPA00476,Sherpa AI,Rep 12,Pune,SMB,Objection Handling,13.9,9,6,2,2,96.6,Negative,Follow-up,2026-07-27 18:08:19
+SHERPA00477,Sherpa AI,Rep 15,Pune,Mid-Market,Objection Handling,14.6,11,5,4,2,85.1,Positive,Follow-up,2026-05-23 18:19:30
+SHERPA00478,Sherpa AI,Rep 4,Chennai,SMB,Guided Demo,9.2,10,8,1,1,93.3,Positive,Converted,2026-01-31 12:05:15
+SHERPA00479,Sherpa AI,Rep 23,Mumbai,Mid-Market,Objection Handling,18.6,6,5,3,2,92.7,Positive,Converted,2026-07-21 11:47:24
+SHERPA00480,Sherpa AI,Rep 27,Pune,SMB,Service Support,19.6,6,3,3,2,82.6,Neutral,Converted,2026-05-18 17:12:36
+SHERPA00481,Sherpa AI,Rep 39,Pune,Mid-Market,Product Discovery,8.0,10,6,4,3,82.4,Positive,Follow-up,2026-01-31 14:40:57
+SHERPA00482,Sherpa AI,Rep 43,Chennai,Enterprise,Objection Handling,20.5,6,5,4,3,91.8,Negative,Converted,2025-12-06 16:35:45
+SHERPA00483,Sherpa AI,Rep 37,Hyderabad,SMB,Product Discovery,11.9,7,4,4,2,83.8,Positive,Not Converted,2026-02-11 13:20:07
+SHERPA00484,Sherpa AI,Rep 13,Hyderabad,Enterprise,Product Discovery,20.2,10,5,4,3,90.5,Neutral,Not Converted,2026-02-23 13:29:54
+SHERPA00485,Sherpa AI,Rep 43,Delhi,Mid-Market,Service Support,16.1,9,5,4,2,89.7,Positive,Not Converted,2026-04-10 10:16:12
+SHERPA00486,Sherpa AI,Rep 37,Bangalore,Mid-Market,Product Discovery,9.9,10,5,1,1,95.2,Positive,Converted,2026-04-15 10:36:08
+SHERPA00487,Sherpa AI,Rep 40,Mumbai,Enterprise,Product Discovery,12.1,5,3,3,3,87.3,Positive,Converted,2026-01-03 11:15:11
+SHERPA00488,Sherpa AI,Rep 21,Bangalore,Enterprise,Product Discovery,9.3,9,7,4,3,84.7,Positive,Not Converted,2026-05-15 09:29:08
+SHERPA00489,Sherpa AI,Rep 29,Bangalore,SMB,Sales Consultation,12.2,8,5,4,3,92.3,Positive,Converted,2026-07-18 12:36:33
+SHERPA00490,Sherpa AI,Rep 29,Mumbai,Mid-Market,Objection Handling,8.2,9,6,2,1,94.3,Negative,Converted,2026-01-25 12:53:40
+SHERPA00491,Sherpa AI,Rep 49,Hyderabad,Mid-Market,Objection Handling,9.4,6,3,3,2,95.7,Positive,Converted,2025-11-14 09:01:05
+SHERPA00492,Sherpa AI,Rep 11,Pune,Mid-Market,Product Discovery,19.6,6,3,2,2,91.2,Neutral,Not Converted,2026-03-17 11:02:15
+SHERPA00493,Sherpa AI,Rep 50,Delhi,Mid-Market,Service Support,14.4,9,6,4,3,83.7,Positive,Not Converted,2026-05-15 13:21:19
+SHERPA00494,Sherpa AI,Rep 28,Chennai,SMB,Sales Consultation,13.1,4,3,4,3,86.7,Positive,Converted,2025-11-18 13:49:41
+SHERPA00495,Sherpa AI,Rep 10,Hyderabad,SMB,Service Support,17.9,10,7,4,3,87.1,Neutral,Converted,2026-04-10 15:32:33
+SHERPA00496,Sherpa AI,Rep 5,Delhi,Enterprise,Service Support,11.2,5,4,2,2,84.1,Positive,Converted,2026-05-18 15:33:08
+SHERPA00497,Sherpa AI,Rep 25,Pune,SMB,Product Discovery,9.1,6,3,2,2,93.8,Negative,Not Converted,2026-05-15 16:56:19
+SHERPA00498,Sherpa AI,Rep 33,Hyderabad,Mid-Market,Guided Demo,15.2,10,7,1,1,93.9,Neutral,Converted,2026-04-17 13:51:05
+SHERPA00499,Sherpa AI,Rep 17,Mumbai,Mid-Market,Product Discovery,18.6,4,2,2,1,92.0,Positive,Not Converted,2026-07-16 14:11:25
+SHERPA00500,Sherpa AI,Rep 49,Bangalore,Mid-Market,Guided Demo,12.9,11,8,2,2,84.8,Neutral,Converted,2026-03-28 15:27:43
+SHERPA00501,Sherpa AI,Rep 33,Mumbai,Mid-Market,Sales Consultation,10.2,5,4,5,4,87.2,Positive,Follow-up,2026-01-27 16:45:09
+SHERPA00502,Sherpa AI,Rep 25,Pune,Enterprise,Guided Demo,16.1,7,5,2,1,83.5,Neutral,Converted,2026-06-07 09:17:24
+SHERPA00503,Sherpa AI,Rep 33,Chennai,Mid-Market,Product Discovery,15.5,4,2,2,1,95.5,Neutral,Follow-up,2025-11-18 13:47:37
+SHERPA00504,Sherpa AI,Rep 9,Mumbai,Enterprise,Product Discovery,13.1,11,5,2,1,92.6,Neutral,Follow-up,2026-01-13 14:42:43
+SHERPA00505,Sherpa AI,Rep 27,Pune,Enterprise,Service Support,13.3,9,5,6,3,87.3,Positive,Not Converted,2026-05-25 17:17:52
+SHERPA00506,Sherpa AI,Rep 25,Bangalore,SMB,Product Discovery,9.5,5,3,1,1,83.9,Positive,Follow-up,2025-11-12 12:42:17
+SHERPA00507,Sherpa AI,Rep 4,Hyderabad,Mid-Market,Product Discovery,12.6,6,4,5,4,82.6,Neutral,Converted,2026-03-23 15:18:07
+SHERPA00508,Sherpa AI,Rep 9,Delhi,Mid-Market,Objection Handling,14.2,5,3,4,2,96.6,Negative,Converted,2026-01-31 11:12:13
+SHERPA00509,Sherpa AI,Rep 46,Pune,Mid-Market,Objection Handling,19.8,8,4,5,3,83.0,Negative,Converted,2026-04-13 16:02:40
+SHERPA00510,Sherpa AI,Rep 15,Pune,SMB,Service Support,9.5,7,5,2,2,89.4,Positive,Converted,2025-12-27 17:19:59
+SHERPA00511,Sherpa AI,Rep 16,Chennai,Mid-Market,Guided Demo,16.3,6,4,1,1,88.0,Neutral,Converted,2026-07-26 15:43:31
+SHERPA00512,Sherpa AI,Rep 16,Hyderabad,Mid-Market,Guided Demo,12.7,6,5,6,3,96.6,Negative,Not Converted,2026-05-24 13:37:21
+SHERPA00513,Sherpa AI,Rep 13,Pune,SMB,Objection Handling,11.9,9,7,2,2,92.9,Positive,Converted,2026-04-28 14:35:59
+SHERPA00514,Sherpa AI,Rep 14,Pune,SMB,Sales Consultation,13.6,8,5,2,2,91.7,Neutral,Not Converted,2026-02-19 14:36:18
+SHERPA00515,Sherpa AI,Rep 22,Delhi,SMB,Objection Handling,18.8,8,5,3,2,86.2,Positive,Converted,2026-05-28 09:45:08
+SHERPA00516,Sherpa AI,Rep 21,Bangalore,Mid-Market,Sales Consultation,9.4,5,3,3,2,84.0,Positive,Not Converted,2026-01-13 16:04:36
+SHERPA00517,Sherpa AI,Rep 9,Mumbai,SMB,Guided Demo,17.5,4,2,4,4,87.7,Positive,Follow-up,2026-02-21 18:51:15
+SHERPA00518,Sherpa AI,Rep 41,Hyderabad,SMB,Objection Handling,18.7,6,4,2,1,93.3,Neutral,Not Converted,2026-03-26 14:15:08
+SHERPA00519,Sherpa AI,Rep 4,Delhi,SMB,Product Discovery,12.8,8,4,3,2,85.9,Neutral,Not Converted,2026-07-08 10:05:17
+SHERPA00520,Sherpa AI,Rep 10,Delhi,SMB,Sales Consultation,20.8,10,6,5,3,88.5,Neutral,Converted,2026-06-27 15:51:58
+SHERPA00521,Sherpa AI,Rep 35,Mumbai,Mid-Market,Sales Consultation,15.8,7,4,3,2,82.5,Positive,Follow-up,2026-01-07 10:37:44
+SHERPA00522,Sherpa AI,Rep 9,Hyderabad,SMB,Sales Consultation,18.0,11,6,5,3,84.0,Positive,Converted,2026-03-07 12:21:49
+SHERPA00523,Sherpa AI,Rep 48,Hyderabad,Mid-Market,Guided Demo,16.0,6,3,3,2,92.3,Neutral,Follow-up,2025-11-14 18:25:23
+SHERPA00524,Sherpa AI,Rep 16,Bangalore,Mid-Market,Service Support,21.6,8,6,3,2,89.4,Neutral,Not Converted,2026-01-18 18:20:48
+SHERPA00525,Sherpa AI,Rep 49,Hyderabad,Enterprise,Product Discovery,8.6,8,5,5,3,82.4,Neutral,Converted,2025-12-23 15:00:33
+SHERPA00526,Sherpa AI,Rep 18,Pune,Enterprise,Objection Handling,12.8,9,5,4,2,95.4,Positive,Follow-up,2026-07-26 17:38:40
+SHERPA00527,Sherpa AI,Rep 10,Mumbai,Enterprise,Sales Consultation,11.5,5,3,2,1,91.9,Neutral,Follow-up,2026-02-19 11:14:29
+SHERPA00528,Sherpa AI,Rep 21,Hyderabad,SMB,Guided Demo,12.7,10,6,6,3,86.6,Negative,Not Converted,2026-03-20 10:56:03
+SHERPA00529,Sherpa AI,Rep 15,Bangalore,Enterprise,Sales Consultation,20.6,5,3,3,3,90.5,Neutral,Converted,2026-05-13 14:49:51
+SHERPA00530,Sherpa AI,Rep 15,Delhi,Enterprise,Objection Handling,13.5,6,4,4,4,87.7,Neutral,Follow-up,2026-04-13 10:23:14
+SHERPA00531,Sherpa AI,Rep 11,Pune,Mid-Market,Product Discovery,15.0,7,5,1,1,87.0,Negative,Converted,2026-07-01 13:26:24
+SHERPA00532,Sherpa AI,Rep 40,Hyderabad,Mid-Market,Sales Consultation,15.0,8,4,3,2,88.5,Neutral,Not Converted,2025-11-11 10:18:27
+SHERPA00533,Sherpa AI,Rep 48,Mumbai,SMB,Guided Demo,8.7,11,8,5,4,86.3,Neutral,Converted,2026-05-15 13:45:11
+SHERPA00534,Sherpa AI,Rep 42,Hyderabad,SMB,Guided Demo,19.8,11,6,2,2,83.4,Neutral,Not Converted,2026-04-21 13:15:07
+SHERPA00535,Sherpa AI,Rep 41,Chennai,Mid-Market,Service Support,10.9,5,3,1,1,89.1,Positive,Follow-up,2026-01-26 09:22:34
+SHERPA00536,Sherpa AI,Rep 47,Bangalore,SMB,Guided Demo,15.6,10,7,3,2,88.5,Neutral,Converted,2026-04-08 16:56:22
+SHERPA00537,Sherpa AI,Rep 37,Delhi,Enterprise,Service Support,10.5,5,3,3,2,93.5,Neutral,Follow-up,2026-07-02 10:01:54
+SHERPA00538,Sherpa AI,Rep 20,Chennai,SMB,Product Discovery,21.5,5,3,5,4,85.2,Positive,Converted,2026-01-15 13:19:16
+SHERPA00539,Sherpa AI,Rep 34,Mumbai,Enterprise,Objection Handling,18.8,10,6,6,4,91.2,Negative,Converted,2026-05-07 12:17:35
+SHERPA00540,Sherpa AI,Rep 22,Hyderabad,SMB,Service Support,10.1,8,5,4,3,87.5,Neutral,Not Converted,2026-04-28 14:46:55
+SHERPA00541,Sherpa AI,Rep 48,Bangalore,Enterprise,Sales Consultation,19.6,6,4,3,2,86.8,Positive,Follow-up,2026-04-23 10:35:34
+SHERPA00542,Sherpa AI,Rep 18,Pune,SMB,Sales Consultation,11.6,5,3,3,2,91.7,Neutral,Follow-up,2026-04-09 09:04:42
+SHERPA00543,Sherpa AI,Rep 16,Hyderabad,Enterprise,Objection Handling,19.6,9,5,2,1,85.7,Positive,Follow-up,2026-04-09 16:57:32
+SHERPA00544,Sherpa AI,Rep 5,Hyderabad,Enterprise,Guided Demo,10.2,7,4,3,2,82.6,Neutral,Converted,2026-02-05 12:33:26
+SHERPA00545,Sherpa AI,Rep 1,Hyderabad,SMB,Sales Consultation,19.9,5,3,4,3,84.6,Positive,Follow-up,2026-07-15 10:08:19
+SHERPA00546,Sherpa AI,Rep 19,Pune,Enterprise,Service Support,16.4,12,7,1,1,83.3,Negative,Follow-up,2026-03-10 14:06:36
+SHERPA00547,Sherpa AI,Rep 10,Hyderabad,SMB,Objection Handling,9.3,11,8,3,2,91.9,Neutral,Converted,2026-04-19 16:29:49
+SHERPA00548,Sherpa AI,Rep 21,Bangalore,SMB,Sales Consultation,21.1,9,6,1,1,93.0,Neutral,Not Converted,2025-11-24 14:51:55
+SHERPA00549,Sherpa AI,Rep 13,Pune,Mid-Market,Guided Demo,20.4,7,5,5,4,85.8,Negative,Not Converted,2026-06-18 12:30:13
+SHERPA00550,Sherpa AI,Rep 24,Pune,Mid-Market,Guided Demo,13.5,5,2,4,3,90.8,Positive,Not Converted,2025-11-08 10:21:01
+SHERPA00551,Sherpa AI,Rep 23,Chennai,SMB,Sales Consultation,21.6,11,6,3,2,84.6,Neutral,Follow-up,2026-03-17 18:10:23
+SHERPA00552,Sherpa AI,Rep 23,Mumbai,SMB,Objection Handling,21.3,7,4,4,3,87.6,Positive,Converted,2026-01-21 09:09:09
+SHERPA00553,Sherpa AI,Rep 11,Pune,Mid-Market,Product Discovery,21.1,6,4,4,4,95.2,Neutral,Not Converted,2026-07-11 16:50:13
+SHERPA00554,Sherpa AI,Rep 47,Chennai,Enterprise,Sales Consultation,16.5,6,4,4,2,96.5,Neutral,Converted,2026-02-16 14:21:35
+SHERPA00555,Sherpa AI,Rep 2,Bangalore,Mid-Market,Guided Demo,11.4,8,5,4,3,93.8,Negative,Not Converted,2025-11-03 12:58:36
+SHERPA00556,Sherpa AI,Rep 6,Mumbai,Enterprise,Product Discovery,9.7,8,4,5,3,94.2,Neutral,Follow-up,2026-06-03 17:46:53
+SHERPA00557,Sherpa AI,Rep 11,Pune,Mid-Market,Objection Handling,21.7,11,8,3,3,87.9,Positive,Converted,2026-05-30 16:48:34
+SHERPA00558,Sherpa AI,Rep 15,Delhi,SMB,Guided Demo,20.5,7,3,5,3,85.2,Positive,Not Converted,2026-05-13 13:52:00
+SHERPA00559,Sherpa AI,Rep 9,Chennai,SMB,Objection Handling,8.5,11,7,5,4,88.1,Neutral,Follow-up,2026-05-22 10:26:37
+SHERPA00560,Sherpa AI,Rep 12,Bangalore,SMB,Sales Consultation,19.8,9,6,5,3,88.2,Neutral,Follow-up,2026-07-26 14:55:24
+SHERPA00561,Sherpa AI,Rep 36,Bangalore,Mid-Market,Objection Handling,15.1,9,7,5,4,92.5,Positive,Not Converted,2026-01-24 16:17:46
+SHERPA00562,Sherpa AI,Rep 28,Bangalore,Mid-Market,Guided Demo,8.4,8,5,5,4,88.8,Positive,Converted,2026-03-18 09:28:58
+SHERPA00563,Sherpa AI,Rep 23,Mumbai,SMB,Sales Consultation,13.6,5,3,4,3,84.0,Neutral,Not Converted,2026-03-23 16:28:33
+SHERPA00564,Sherpa AI,Rep 27,Hyderabad,SMB,Guided Demo,21.6,8,4,1,1,89.7,Positive,Follow-up,2026-02-14 11:04:30
+SHERPA00565,Sherpa AI,Rep 24,Delhi,SMB,Guided Demo,12.5,11,8,5,4,93.9,Neutral,Follow-up,2026-03-13 13:47:21
+SHERPA00566,Sherpa AI,Rep 14,Mumbai,Enterprise,Product Discovery,19.2,7,5,2,2,94.4,Neutral,Converted,2025-12-22 12:32:30
+SHERPA00567,Sherpa AI,Rep 35,Mumbai,Mid-Market,Service Support,20.4,5,3,2,2,96.2,Neutral,Not Converted,2025-11-05 12:48:21
+SHERPA00568,Sherpa AI,Rep 27,Pune,Mid-Market,Objection Handling,20.7,6,5,5,4,91.4,Positive,Converted,2026-04-14 16:29:13
+SHERPA00569,Sherpa AI,Rep 21,Chennai,Enterprise,Objection Handling,14.0,11,6,4,2,88.0,Positive,Converted,2026-04-22 13:19:28
+SHERPA00570,Sherpa AI,Rep 49,Delhi,SMB,Product Discovery,18.1,6,3,2,2,83.8,Neutral,Not Converted,2025-12-14 13:02:00
+SHERPA00571,Sherpa AI,Rep 13,Bangalore,Mid-Market,Objection Handling,18.0,7,5,3,2,83.8,Negative,Converted,2026-01-08 11:51:44
+SHERPA00572,Sherpa AI,Rep 8,Mumbai,SMB,Product Discovery,9.8,5,4,4,2,89.4,Positive,Converted,2026-02-10 15:52:48
+SHERPA00573,Sherpa AI,Rep 44,Delhi,Mid-Market,Objection Handling,13.9,8,5,4,2,92.2,Positive,Follow-up,2025-11-08 18:05:05
+SHERPA00574,Sherpa AI,Rep 44,Chennai,Mid-Market,Objection Handling,20.7,8,4,3,2,91.3,Positive,Not Converted,2026-03-31 15:55:58
+SHERPA00575,Sherpa AI,Rep 44,Hyderabad,SMB,Guided Demo,12.5,6,4,3,2,84.0,Neutral,Follow-up,2025-12-10 18:13:45
+SHERPA00576,Sherpa AI,Rep 34,Delhi,Mid-Market,Product Discovery,11.6,10,7,5,4,93.0,Neutral,Not Converted,2026-03-04 16:45:58
+SHERPA00577,Sherpa AI,Rep 42,Bangalore,SMB,Objection Handling,22.0,5,2,3,2,95.6,Positive,Follow-up,2026-04-06 11:27:32
+SHERPA00578,Sherpa AI,Rep 23,Mumbai,SMB,Service Support,11.6,11,8,4,3,82.7,Positive,Converted,2026-01-29 18:44:56
+SHERPA00579,Sherpa AI,Rep 9,Hyderabad,SMB,Product Discovery,15.8,7,4,2,1,96.5,Neutral,Converted,2025-11-05 16:35:10
+SHERPA00580,Sherpa AI,Rep 1,Chennai,Mid-Market,Product Discovery,9.8,7,4,3,3,95.2,Positive,Not Converted,2026-07-18 11:43:49
+SHERPA00581,Sherpa AI,Rep 36,Bangalore,Enterprise,Product Discovery,9.8,7,4,2,1,82.7,Neutral,Converted,2026-03-05 13:39:40
+SHERPA00582,Sherpa AI,Rep 46,Hyderabad,Mid-Market,Guided Demo,20.3,11,8,5,4,86.2,Neutral,Follow-up,2026-04-01 17:36:15
+SHERPA00583,Sherpa AI,Rep 16,Pune,SMB,Product Discovery,12.4,7,5,2,1,95.4,Neutral,Not Converted,2025-11-08 09:04:45
+SHERPA00584,Sherpa AI,Rep 25,Pune,Mid-Market,Guided Demo,19.2,12,8,2,2,91.9,Neutral,Converted,2026-03-31 12:55:43
+SHERPA00585,Sherpa AI,Rep 18,Chennai,Mid-Market,Service Support,17.9,4,2,2,1,85.9,Neutral,Not Converted,2026-02-16 12:29:35
+SHERPA00586,Sherpa AI,Rep 34,Bangalore,Enterprise,Sales Consultation,17.9,8,6,6,3,87.3,Negative,Follow-up,2026-05-01 14:50:18
+SHERPA00587,Sherpa AI,Rep 38,Mumbai,Mid-Market,Guided Demo,9.3,7,4,4,3,83.9,Positive,Converted,2025-12-14 14:25:44
+SHERPA00588,Sherpa AI,Rep 3,Chennai,SMB,Objection Handling,20.5,10,5,2,1,86.1,Positive,Converted,2026-01-20 17:01:58
+SHERPA00589,Sherpa AI,Rep 20,Hyderabad,Enterprise,Product Discovery,13.8,7,4,5,4,90.6,Neutral,Follow-up,2026-07-15 14:04:19
+SHERPA00590,Sherpa AI,Rep 19,Bangalore,Mid-Market,Sales Consultation,17.5,4,3,4,3,82.4,Positive,Converted,2025-12-18 16:08:27
+SHERPA00591,Sherpa AI,Rep 13,Pune,Enterprise,Guided Demo,10.2,8,5,3,3,94.6,Negative,Converted,2026-02-18 09:29:05
+SHERPA00592,Sherpa AI,Rep 17,Pune,SMB,Objection Handling,16.3,4,3,4,3,96.3,Positive,Converted,2025-12-03 12:10:26
+SHERPA00593,Sherpa AI,Rep 14,Delhi,SMB,Sales Consultation,18.2,5,4,4,4,86.9,Negative,Not Converted,2026-05-18 11:10:20
+SHERPA00594,Sherpa AI,Rep 30,Bangalore,Mid-Market,Service Support,17.0,8,6,3,2,82.7,Neutral,Not Converted,2025-12-03 14:39:20
+SHERPA00595,Sherpa AI,Rep 22,Hyderabad,Enterprise,Guided Demo,13.6,6,3,1,1,87.7,Neutral,Not Converted,2026-06-20 17:16:52
+SHERPA00596,Sherpa AI,Rep 43,Hyderabad,Enterprise,Guided Demo,10.3,5,4,4,2,94.8,Positive,Follow-up,2026-07-15 18:27:24
+SHERPA00597,Sherpa AI,Rep 48,Delhi,Mid-Market,Service Support,14.9,8,4,4,3,83.8,Negative,Follow-up,2026-07-26 14:44:57
+SHERPA00598,Sherpa AI,Rep 43,Hyderabad,Mid-Market,Guided Demo,17.3,8,6,3,2,84.0,Positive,Follow-up,2026-03-10 15:07:08
+SHERPA00599,Sherpa AI,Rep 29,Bangalore,Mid-Market,Product Discovery,15.9,9,6,3,3,89.1,Positive,Not Converted,2026-07-31 12:46:40
+SHERPA00600,Sherpa AI,Rep 50,Pune,SMB,Guided Demo,14.0,7,5,4,3,88.5,Positive,Converted,2026-06-11 09:13:37
+SHERPA00601,Sherpa AI,Rep 2,Chennai,SMB,Product Discovery,10.2,5,3,4,2,92.3,Negative,Follow-up,2026-03-31 11:15:06
+SHERPA00602,Sherpa AI,Rep 8,Pune,Enterprise,Guided Demo,20.7,8,5,3,2,88.6,Positive,Converted,2026-01-15 10:43:14
+SHERPA00603,Sherpa AI,Rep 14,Pune,Enterprise,Objection Handling,15.3,9,4,2,2,94.6,Neutral,Follow-up,2026-03-19 18:28:43
+SHERPA00604,Sherpa AI,Rep 34,Bangalore,Mid-Market,Objection Handling,13.9,7,3,2,1,83.6,Neutral,Converted,2026-05-24 09:58:58
+SHERPA00605,Sherpa AI,Rep 13,Hyderabad,Mid-Market,Sales Consultation,9.1,4,3,3,2,85.8,Neutral,Follow-up,2025-11-14 12:59:34
+SHERPA00606,Sherpa AI,Rep 10,Delhi,Mid-Market,Objection Handling,13.5,6,3,3,2,84.7,Neutral,Follow-up,2025-11-14 18:04:24
+SHERPA00607,Sherpa AI,Rep 8,Delhi,SMB,Service Support,17.4,5,4,2,1,88.8,Neutral,Not Converted,2026-01-27 09:39:09
+SHERPA00608,Sherpa AI,Rep 7,Mumbai,Enterprise,Sales Consultation,10.6,7,4,5,4,84.8,Neutral,Converted,2026-07-11 10:43:51
+SHERPA00609,Sherpa AI,Rep 13,Delhi,SMB,Objection Handling,8.1,8,5,4,2,90.0,Neutral,Converted,2025-11-26 09:46:29
+SHERPA00610,Sherpa AI,Rep 26,Delhi,SMB,Product Discovery,21.5,4,2,3,2,95.0,Positive,Not Converted,2025-11-29 09:55:21
+SHERPA00611,Sherpa AI,Rep 32,Hyderabad,SMB,Guided Demo,17.4,7,4,3,3,87.4,Positive,Converted,2026-07-12 15:29:49
+SHERPA00612,Sherpa AI,Rep 19,Chennai,SMB,Objection Handling,9.6,7,4,2,1,82.2,Positive,Not Converted,2025-11-21 18:56:55
+SHERPA00613,Sherpa AI,Rep 15,Chennai,SMB,Product Discovery,17.1,4,3,4,2,91.7,Positive,Converted,2025-11-07 10:06:42
+SHERPA00614,Sherpa AI,Rep 2,Hyderabad,Enterprise,Sales Consultation,14.5,8,5,5,3,86.5,Positive,Converted,2026-03-24 14:49:36
+SHERPA00615,Sherpa AI,Rep 37,Delhi,SMB,Guided Demo,21.5,7,3,2,1,92.5,Neutral,Not Converted,2026-07-08 14:10:41
+SHERPA00616,Sherpa AI,Rep 19,Bangalore,Enterprise,Objection Handling,19.7,7,5,4,2,90.5,Negative,Not Converted,2026-06-12 14:26:02
+SHERPA00617,Sherpa AI,Rep 33,Pune,SMB,Sales Consultation,19.9,4,2,3,2,96.7,Positive,Converted,2026-07-22 15:25:01
+SHERPA00618,Sherpa AI,Rep 39,Pune,Enterprise,Objection Handling,14.8,11,7,4,2,89.3,Neutral,Follow-up,2026-03-05 18:00:17
+SHERPA00619,Sherpa AI,Rep 50,Chennai,Enterprise,Sales Consultation,18.0,9,6,4,3,89.3,Neutral,Follow-up,2026-04-05 16:28:39
+SHERPA00620,Sherpa AI,Rep 33,Hyderabad,Enterprise,Objection Handling,13.8,7,4,2,1,95.4,Positive,Converted,2026-02-09 11:16:58
+SHERPA00621,Sherpa AI,Rep 1,Bangalore,Enterprise,Product Discovery,8.3,8,5,6,4,92.5,Neutral,Converted,2026-05-07 11:31:32
+SHERPA00622,Sherpa AI,Rep 39,Delhi,Mid-Market,Service Support,20.7,6,3,2,1,85.3,Negative,Follow-up,2026-02-25 09:13:17
+SHERPA00623,Sherpa AI,Rep 28,Hyderabad,SMB,Product Discovery,12.1,7,5,5,4,84.0,Positive,Converted,2026-05-24 09:37:30
+SHERPA00624,Sherpa AI,Rep 17,Chennai,Mid-Market,Guided Demo,19.1,7,5,4,3,93.0,Neutral,Converted,2025-11-04 10:24:06
+SHERPA00625,Sherpa AI,Rep 6,Bangalore,SMB,Objection Handling,17.3,8,6,3,2,93.2,Positive,Not Converted,2026-07-17 16:22:30
+SHERPA00626,Sherpa AI,Rep 44,Bangalore,Enterprise,Service Support,21.9,6,3,4,2,88.2,Positive,Converted,2026-05-31 11:52:20
+SHERPA00627,Sherpa AI,Rep 20,Chennai,Mid-Market,Service Support,13.0,7,4,1,1,95.2,Neutral,Converted,2026-04-07 09:50:12
+SHERPA00628,Sherpa AI,Rep 47,Bangalore,Enterprise,Guided Demo,14.0,6,4,6,3,83.0,Neutral,Follow-up,2026-03-17 17:12:57
+SHERPA00629,Sherpa AI,Rep 13,Pune,Enterprise,Guided Demo,13.0,8,4,2,1,87.1,Neutral,Converted,2026-01-19 18:42:24
+SHERPA00630,Sherpa AI,Rep 12,Chennai,Enterprise,Service Support,15.2,4,3,2,1,92.4,Positive,Follow-up,2026-06-14 11:53:40
+SHERPA00631,Sherpa AI,Rep 30,Pune,Mid-Market,Guided Demo,19.8,8,5,5,3,88.9,Negative,Converted,2026-02-18 14:33:32
+SHERPA00632,Sherpa AI,Rep 21,Hyderabad,Enterprise,Guided Demo,19.5,6,3,4,3,96.2,Positive,Follow-up,2026-05-30 16:30:41
+SHERPA00633,Sherpa AI,Rep 2,Mumbai,SMB,Objection Handling,10.2,5,2,4,3,95.7,Neutral,Not Converted,2026-01-15 12:48:29
+SHERPA00634,Sherpa AI,Rep 18,Delhi,Mid-Market,Product Discovery,17.1,5,3,3,2,83.5,Positive,Converted,2025-11-26 13:15:03
+SHERPA00635,Sherpa AI,Rep 28,Hyderabad,SMB,Sales Consultation,18.8,6,3,4,3,88.2,Negative,Follow-up,2026-02-10 15:17:32
+SHERPA00636,Sherpa AI,Rep 4,Pune,SMB,Service Support,13.2,5,4,2,1,83.3,Neutral,Follow-up,2026-07-22 18:44:32
+SHERPA00637,Sherpa AI,Rep 42,Delhi,SMB,Sales Consultation,13.9,9,5,4,2,93.3,Negative,Converted,2026-01-03 11:09:14
+SHERPA00638,Sherpa AI,Rep 43,Delhi,SMB,Service Support,19.9,7,5,3,2,88.9,Positive,Follow-up,2026-03-11 11:28:04
+SHERPA00639,Sherpa AI,Rep 6,Pune,Enterprise,Service Support,19.3,10,6,1,1,82.1,Neutral,Not Converted,2026-04-20 11:34:18
+SHERPA00640,Sherpa AI,Rep 38,Pune,SMB,Product Discovery,8.9,12,6,3,3,84.5,Neutral,Follow-up,2026-03-26 18:41:12
+SHERPA00641,Sherpa AI,Rep 9,Chennai,Mid-Market,Service Support,16.8,9,6,4,3,82.9,Neutral,Follow-up,2026-01-01 10:41:27
+SHERPA00642,Sherpa AI,Rep 20,Mumbai,Mid-Market,Service Support,17.5,8,5,3,2,88.0,Neutral,Converted,2026-02-25 13:36:02
+SHERPA00643,Sherpa AI,Rep 45,Pune,SMB,Product Discovery,11.9,7,4,4,3,82.1,Positive,Converted,2025-11-30 17:14:43
+SHERPA00644,Sherpa AI,Rep 30,Delhi,SMB,Guided Demo,15.6,8,6,4,3,85.1,Positive,Not Converted,2026-01-16 13:02:14
+SHERPA00645,Sherpa AI,Rep 37,Delhi,SMB,Sales Consultation,13.7,10,7,4,3,93.7,Positive,Follow-up,2026-04-11 10:05:20
+SHERPA00646,Sherpa AI,Rep 38,Hyderabad,Enterprise,Service Support,18.4,6,3,1,1,92.9,Neutral,Converted,2026-04-11 13:07:51
+SHERPA00647,Sherpa AI,Rep 4,Mumbai,Mid-Market,Product Discovery,15.3,5,4,2,1,90.3,Neutral,Not Converted,2026-04-12 15:56:25
+SHERPA00648,Sherpa AI,Rep 38,Mumbai,SMB,Service Support,11.4,10,5,1,1,90.9,Positive,Converted,2026-04-14 11:52:12
+SHERPA00649,Sherpa AI,Rep 50,Delhi,SMB,Product Discovery,13.2,10,7,5,3,82.9,Negative,Follow-up,2026-01-25 12:44:30
+SHERPA00650,Sherpa AI,Rep 13,Mumbai,Enterprise,Sales Consultation,12.2,7,4,1,1,83.9,Positive,Not Converted,2026-07-05 13:15:16
+SHERPA00651,Sherpa AI,Rep 35,Hyderabad,Mid-Market,Objection Handling,15.9,10,6,6,5,96.8,Positive,Follow-up,2026-05-02 15:22:44
+SHERPA00652,Sherpa AI,Rep 30,Chennai,SMB,Guided Demo,12.0,11,7,4,3,87.3,Positive,Follow-up,2026-05-28 17:28:07
+SHERPA00653,Sherpa AI,Rep 42,Delhi,SMB,Objection Handling,11.5,10,7,4,3,89.8,Neutral,Converted,2026-04-17 14:08:56
+SHERPA00654,Sherpa AI,Rep 4,Bangalore,Mid-Market,Product Discovery,18.0,6,4,4,3,83.5,Neutral,Converted,2026-07-25 13:06:08
+SHERPA00655,Sherpa AI,Rep 25,Delhi,SMB,Service Support,14.2,11,5,1,1,89.1,Positive,Follow-up,2026-05-02 11:45:21
+SHERPA00656,Sherpa AI,Rep 31,Delhi,Mid-Market,Guided Demo,11.7,7,4,4,3,87.9,Neutral,Converted,2026-06-08 17:20:49
+SHERPA00657,Sherpa AI,Rep 47,Chennai,SMB,Sales Consultation,21.6,7,4,3,3,89.3,Positive,Follow-up,2026-06-08 10:21:38
+SHERPA00658,Sherpa AI,Rep 12,Pune,Mid-Market,Guided Demo,17.9,10,5,2,2,83.9,Positive,Follow-up,2026-04-12 17:21:52
+SHERPA00659,Sherpa AI,Rep 15,Pune,Mid-Market,Service Support,21.2,9,4,2,1,93.2,Positive,Not Converted,2025-12-03 11:34:02
+SHERPA00660,Sherpa AI,Rep 26,Bangalore,SMB,Objection Handling,16.0,6,5,3,2,83.8,Positive,Converted,2026-07-18 17:32:26
+SHERPA00661,Sherpa AI,Rep 10,Bangalore,Enterprise,Product Discovery,14.8,4,2,2,2,86.5,Neutral,Converted,2025-12-11 13:13:42
+SHERPA00662,Sherpa AI,Rep 12,Bangalore,SMB,Objection Handling,20.4,9,4,3,2,95.4,Neutral,Not Converted,2025-12-01 15:16:59
+SHERPA00663,Sherpa AI,Rep 22,Pune,SMB,Guided Demo,20.2,6,4,3,2,87.2,Positive,Converted,2026-01-04 18:13:29
+SHERPA00664,Sherpa AI,Rep 40,Chennai,SMB,Service Support,14.7,8,5,4,3,93.7,Positive,Not Converted,2026-03-07 15:28:56
+SHERPA00665,Sherpa AI,Rep 21,Mumbai,Mid-Market,Product Discovery,14.3,9,6,4,3,88.9,Positive,Not Converted,2026-06-29 11:42:33
+SHERPA00666,Sherpa AI,Rep 35,Bangalore,SMB,Service Support,13.7,8,6,3,2,92.0,Positive,Not Converted,2026-05-29 10:59:30
+SHERPA00667,Sherpa AI,Rep 7,Mumbai,SMB,Service Support,18.3,5,3,3,3,95.4,Neutral,Converted,2025-12-31 12:23:27
+SHERPA00668,Sherpa AI,Rep 18,Hyderabad,SMB,Guided Demo,17.9,9,7,4,3,93.9,Positive,Follow-up,2026-04-05 10:28:11
+SHERPA00669,Sherpa AI,Rep 27,Chennai,Enterprise,Objection Handling,16.1,9,4,4,2,91.3,Neutral,Not Converted,2026-05-20 18:07:08
+SHERPA00670,Sherpa AI,Rep 35,Mumbai,Mid-Market,Service Support,9.7,5,3,2,1,95.5,Positive,Not Converted,2026-05-15 18:43:45
+SHERPA00671,Sherpa AI,Rep 47,Pune,Mid-Market,Service Support,17.9,12,6,1,1,85.7,Positive,Follow-up,2026-03-15 17:38:27
+SHERPA00672,Sherpa AI,Rep 2,Pune,Mid-Market,Service Support,8.6,9,5,4,3,88.0,Negative,Not Converted,2025-12-26 11:42:05
+SHERPA00673,Sherpa AI,Rep 32,Bangalore,SMB,Product Discovery,12.4,11,5,3,2,94.9,Positive,Follow-up,2026-05-14 12:26:32
+SHERPA00674,Sherpa AI,Rep 15,Bangalore,Mid-Market,Service Support,11.6,6,3,1,1,84.2,Positive,Converted,2026-06-14 17:31:03
+SHERPA00675,Sherpa AI,Rep 45,Mumbai,SMB,Service Support,12.6,5,3,3,2,91.2,Positive,Follow-up,2026-05-19 14:03:03
+SHERPA00676,Sherpa AI,Rep 24,Pune,Mid-Market,Guided Demo,12.5,5,2,3,2,88.2,Positive,Converted,2026-04-13 17:23:15
+SHERPA00677,Sherpa AI,Rep 20,Mumbai,Enterprise,Service Support,16.2,8,6,2,1,93.3,Positive,Follow-up,2026-03-11 10:37:42
+SHERPA00678,Sherpa AI,Rep 10,Hyderabad,Enterprise,Service Support,14.5,6,4,2,1,82.9,Positive,Follow-up,2025-11-03 17:15:17
+SHERPA00679,Sherpa AI,Rep 24,Chennai,SMB,Guided Demo,11.8,6,4,3,2,95.3,Neutral,Converted,2025-12-27 17:21:01
+SHERPA00680,Sherpa AI,Rep 24,Pune,Mid-Market,Product Discovery,12.3,11,7,2,1,93.8,Neutral,Not Converted,2026-04-25 15:52:36
+SHERPA00681,Sherpa AI,Rep 24,Delhi,Mid-Market,Objection Handling,13.2,6,3,4,2,96.5,Neutral,Follow-up,2025-12-01 11:47:59
+SHERPA00682,Sherpa AI,Rep 40,Pune,SMB,Guided Demo,14.3,10,7,3,2,95.7,Positive,Converted,2026-02-15 09:37:23
+SHERPA00683,Sherpa AI,Rep 48,Hyderabad,Mid-Market,Product Discovery,8.0,4,2,4,2,96.6,Neutral,Follow-up,2025-12-02 16:14:12
+SHERPA00684,Sherpa AI,Rep 48,Pune,SMB,Objection Handling,12.9,10,6,3,3,87.7,Positive,Converted,2026-02-01 10:14:43
+SHERPA00685,Sherpa AI,Rep 34,Hyderabad,SMB,Service Support,15.9,8,5,3,2,93.1,Positive,Follow-up,2026-02-06 10:28:22
+SHERPA00686,Sherpa AI,Rep 41,Pune,Enterprise,Guided Demo,11.9,6,3,1,1,90.3,Positive,Converted,2026-07-31 12:28:51
+SHERPA00687,Sherpa AI,Rep 40,Hyderabad,SMB,Service Support,12.8,7,5,5,3,92.2,Positive,Not Converted,2025-12-10 16:20:59
+SHERPA00688,Sherpa AI,Rep 11,Bangalore,SMB,Guided Demo,12.8,6,4,3,2,96.7,Positive,Converted,2026-06-12 17:56:31
+SHERPA00689,Sherpa AI,Rep 26,Mumbai,Mid-Market,Objection Handling,8.0,7,5,1,1,91.7,Positive,Converted,2025-12-16 11:12:18
+SHERPA00690,Sherpa AI,Rep 1,Pune,Mid-Market,Product Discovery,17.8,7,5,4,3,95.4,Positive,Not Converted,2026-07-16 18:39:12
+SHERPA00691,Sherpa AI,Rep 30,Chennai,SMB,Guided Demo,8.4,9,6,5,4,83.2,Positive,Not Converted,2026-01-14 14:04:32
+SHERPA00692,Sherpa AI,Rep 43,Bangalore,SMB,Product Discovery,19.6,8,5,3,2,94.2,Positive,Converted,2025-11-05 18:36:30
+SHERPA00693,Sherpa AI,Rep 18,Hyderabad,Mid-Market,Service Support,14.5,8,4,5,4,82.1,Positive,Follow-up,2026-03-14 10:18:43
+SHERPA00694,Sherpa AI,Rep 26,Chennai,Enterprise,Service Support,20.9,12,7,2,1,86.2,Positive,Converted,2026-05-07 14:35:18
+SHERPA00695,Sherpa AI,Rep 47,Bangalore,SMB,Objection Handling,11.3,8,4,4,2,92.8,Positive,Follow-up,2026-03-09 11:07:42
+SHERPA00696,Sherpa AI,Rep 9,Delhi,Enterprise,Objection Handling,10.9,7,4,2,2,92.6,Positive,Not Converted,2025-12-11 11:40:16
+SHERPA00697,Sherpa AI,Rep 9,Pune,SMB,Sales Consultation,14.9,6,4,3,3,90.5,Positive,Not Converted,2026-05-15 13:47:30
+SHERPA00698,Sherpa AI,Rep 1,Pune,SMB,Sales Consultation,8.9,7,5,3,2,90.5,Positive,Converted,2025-11-15 18:17:51
+SHERPA00699,Sherpa AI,Rep 7,Hyderabad,Mid-Market,Objection Handling,15.3,5,2,2,1,85.4,Neutral,Not Converted,2026-06-06 18:42:24
+SHERPA00700,Sherpa AI,Rep 44,Bangalore,Enterprise,Service Support,15.5,11,6,5,4,92.4,Positive,Not Converted,2026-03-15 15:26:46
+SHERPA00701,Sherpa AI,Rep 42,Bangalore,SMB,Product Discovery,21.2,7,4,3,3,91.6,Positive,Converted,2026-05-17 16:15:13
+SHERPA00702,Sherpa AI,Rep 16,Hyderabad,Mid-Market,Objection Handling,17.5,5,4,3,3,86.1,Positive,Converted,2026-03-11 18:30:32
+SHERPA00703,Sherpa AI,Rep 38,Delhi,Enterprise,Product Discovery,11.9,7,4,4,3,85.4,Positive,Converted,2026-01-25 13:54:43
+SHERPA00704,Sherpa AI,Rep 11,Pune,SMB,Sales Consultation,16.0,7,4,1,1,83.2,Positive,Converted,2026-04-03 16:02:18
+SHERPA00705,Sherpa AI,Rep 25,Mumbai,SMB,Product Discovery,11.5,5,3,6,4,83.1,Negative,Converted,2026-05-25 18:58:30
+SHERPA00706,Sherpa AI,Rep 29,Delhi,SMB,Objection Handling,19.3,4,2,3,2,89.2,Neutral,Converted,2025-11-04 12:12:12
+SHERPA00707,Sherpa AI,Rep 19,Hyderabad,Mid-Market,Service Support,11.3,9,6,3,2,83.6,Positive,Not Converted,2026-03-25 17:07:22
+SHERPA00708,Sherpa AI,Rep 18,Mumbai,SMB,Objection Handling,18.9,7,3,3,2,96.2,Neutral,Converted,2026-01-21 10:49:41
+SHERPA00709,Sherpa AI,Rep 47,Bangalore,Enterprise,Guided Demo,8.8,7,5,3,2,83.3,Positive,Converted,2025-11-09 12:14:08
+SHERPA00710,Sherpa AI,Rep 29,Delhi,SMB,Guided Demo,20.9,5,3,5,3,83.9,Positive,Converted,2026-05-13 16:55:58
+SHERPA00711,Sherpa AI,Rep 16,Delhi,SMB,Guided Demo,15.8,7,4,4,2,92.2,Neutral,Not Converted,2025-12-18 09:47:20
+SHERPA00712,Sherpa AI,Rep 46,Pune,SMB,Service Support,16.4,7,4,2,2,85.5,Positive,Converted,2026-05-24 12:37:04
+SHERPA00713,Sherpa AI,Rep 40,Pune,SMB,Objection Handling,16.7,10,5,3,2,95.2,Positive,Not Converted,2026-05-21 09:58:49
+SHERPA00714,Sherpa AI,Rep 8,Mumbai,Mid-Market,Guided Demo,10.7,7,5,5,3,86.9,Neutral,Follow-up,2026-01-14 11:46:33
+SHERPA00715,Sherpa AI,Rep 34,Bangalore,SMB,Objection Handling,16.0,4,3,1,1,84.9,Neutral,Not Converted,2026-07-30 18:12:37
+SHERPA00716,Sherpa AI,Rep 6,Delhi,SMB,Sales Consultation,11.4,9,5,3,2,88.7,Negative,Converted,2026-04-25 13:45:28
+SHERPA00717,Sherpa AI,Rep 45,Mumbai,SMB,Guided Demo,18.6,11,5,3,2,96.4,Neutral,Not Converted,2026-03-24 13:37:24
+SHERPA00718,Sherpa AI,Rep 45,Delhi,Mid-Market,Guided Demo,12.8,5,4,4,2,86.6,Neutral,Converted,2025-11-20 14:31:01
+SHERPA00719,Sherpa AI,Rep 30,Pune,SMB,Service Support,15.1,7,3,4,3,82.9,Positive,Follow-up,2026-06-28 10:12:51
+SHERPA00720,Sherpa AI,Rep 44,Bangalore,Mid-Market,Objection Handling,20.7,10,7,3,2,85.0,Positive,Follow-up,2026-04-06 14:59:45
+SHERPA00721,Sherpa AI,Rep 34,Bangalore,SMB,Service Support,16.4,10,6,4,3,96.7,Neutral,Not Converted,2026-05-01 13:36:38
+SHERPA00722,Sherpa AI,Rep 21,Chennai,Enterprise,Service Support,10.3,6,4,5,4,88.3,Negative,Follow-up,2026-02-16 10:15:24
+SHERPA00723,Sherpa AI,Rep 12,Mumbai,SMB,Objection Handling,11.1,7,5,1,1,82.1,Positive,Not Converted,2026-06-04 17:58:02
+SHERPA00724,Sherpa AI,Rep 49,Pune,SMB,Sales Consultation,12.6,6,4,2,2,96.3,Negative,Converted,2026-01-01 10:18:14
+SHERPA00725,Sherpa AI,Rep 6,Pune,Enterprise,Objection Handling,9.0,8,4,2,2,87.4,Positive,Converted,2026-02-19 11:10:11
+SHERPA00726,Sherpa AI,Rep 39,Pune,SMB,Sales Consultation,18.7,5,2,2,1,90.8,Positive,Not Converted,2026-04-19 18:09:10
+SHERPA00727,Sherpa AI,Rep 6,Hyderabad,Mid-Market,Service Support,18.1,5,2,2,1,95.3,Positive,Follow-up,2026-05-15 13:12:51
+SHERPA00728,Sherpa AI,Rep 4,Delhi,SMB,Sales Consultation,20.7,7,4,2,1,94.6,Positive,Follow-up,2026-01-08 10:35:48
+SHERPA00729,Sherpa AI,Rep 9,Bangalore,SMB,Sales Consultation,21.1,4,3,3,2,83.7,Neutral,Not Converted,2025-12-29 11:39:36
+SHERPA00730,Sherpa AI,Rep 5,Delhi,Enterprise,Sales Consultation,21.7,6,3,4,3,96.1,Positive,Not Converted,2026-02-25 11:30:33
+SHERPA00731,Sherpa AI,Rep 10,Delhi,Mid-Market,Guided Demo,20.9,11,8,5,3,84.2,Negative,Not Converted,2026-04-08 14:33:57
+SHERPA00732,Sherpa AI,Rep 47,Hyderabad,SMB,Guided Demo,21.7,8,4,2,1,91.0,Neutral,Follow-up,2026-07-30 10:06:49
+SHERPA00733,Sherpa AI,Rep 8,Bangalore,Mid-Market,Service Support,19.1,6,3,4,2,90.0,Positive,Not Converted,2026-06-08 16:35:41
+SHERPA00734,Sherpa AI,Rep 23,Chennai,SMB,Objection Handling,21.6,7,3,5,4,94.8,Neutral,Not Converted,2026-01-27 16:58:08
+SHERPA00735,Sherpa AI,Rep 4,Pune,SMB,Sales Consultation,8.9,10,5,1,1,92.0,Positive,Not Converted,2026-06-02 17:37:56
+SHERPA00736,Sherpa AI,Rep 37,Mumbai,Mid-Market,Guided Demo,14.5,6,4,3,2,89.5,Neutral,Follow-up,2025-11-21 10:01:47
+SHERPA00737,Sherpa AI,Rep 7,Delhi,SMB,Objection Handling,11.8,7,4,5,4,89.4,Positive,Follow-up,2026-03-17 12:09:42
+SHERPA00738,Sherpa AI,Rep 6,Hyderabad,Mid-Market,Sales Consultation,10.8,7,5,4,2,85.3,Positive,Converted,2026-06-19 12:47:09
+SHERPA00739,Sherpa AI,Rep 45,Hyderabad,Mid-Market,Objection Handling,21.1,9,5,2,2,90.6,Neutral,Converted,2025-12-14 15:43:47
+SHERPA00740,Sherpa AI,Rep 42,Mumbai,Enterprise,Product Discovery,12.9,6,4,2,1,88.7,Negative,Follow-up,2025-12-27 14:37:35
+SHERPA00741,Sherpa AI,Rep 15,Mumbai,Mid-Market,Sales Consultation,13.7,7,4,3,2,89.0,Neutral,Follow-up,2025-11-03 17:18:53
+SHERPA00742,Sherpa AI,Rep 35,Bangalore,SMB,Objection Handling,17.0,11,6,3,2,85.5,Neutral,Not Converted,2026-03-25 13:36:14
+SHERPA00743,Sherpa AI,Rep 50,Delhi,SMB,Sales Consultation,19.0,7,3,5,4,91.7,Neutral,Not Converted,2026-04-07 18:18:44
+SHERPA00744,Sherpa AI,Rep 32,Delhi,SMB,Sales Consultation,10.8,10,5,1,1,85.0,Positive,Follow-up,2025-12-14 18:36:33
+SHERPA00745,Sherpa AI,Rep 14,Mumbai,SMB,Product Discovery,17.9,5,3,4,3,86.1,Neutral,Follow-up,2025-11-29 13:32:48
+SHERPA00746,Sherpa AI,Rep 35,Pune,Mid-Market,Objection Handling,8.1,9,7,4,3,95.7,Positive,Follow-up,2025-11-28 13:53:40
+SHERPA00747,Sherpa AI,Rep 11,Chennai,Mid-Market,Service Support,16.1,7,5,5,3,88.1,Positive,Converted,2026-05-10 16:38:56
+SHERPA00748,Sherpa AI,Rep 10,Delhi,SMB,Guided Demo,13.6,8,5,3,2,84.2,Positive,Follow-up,2026-02-05 17:37:21
+SHERPA00749,Sherpa AI,Rep 17,Hyderabad,SMB,Sales Consultation,18.6,6,4,3,2,93.8,Positive,Converted,2026-06-12 17:24:27
+SHERPA00750,Sherpa AI,Rep 13,Pune,Mid-Market,Sales Consultation,18.8,9,5,4,3,84.8,Positive,Follow-up,2026-06-01 17:46:17
+SHERPA00751,Sherpa AI,Rep 34,Mumbai,SMB,Sales Consultation,16.1,8,4,3,2,87.6,Positive,Converted,2025-12-14 18:47:09
+SHERPA00752,Sherpa AI,Rep 45,Delhi,Mid-Market,Sales Consultation,12.8,6,5,1,1,94.5,Positive,Not Converted,2026-05-22 18:55:50
+SHERPA00753,Sherpa AI,Rep 5,Bangalore,Enterprise,Guided Demo,12.6,7,5,3,2,90.1,Neutral,Not Converted,2026-04-12 12:28:39
+SHERPA00754,Sherpa AI,Rep 48,Mumbai,SMB,Service Support,12.6,4,3,5,3,96.3,Neutral,Follow-up,2026-02-11 12:44:15
+SHERPA00755,Sherpa AI,Rep 10,Hyderabad,Mid-Market,Product Discovery,10.9,9,6,4,3,96.7,Neutral,Not Converted,2026-01-14 16:44:38
+SHERPA00756,Sherpa AI,Rep 32,Bangalore,Enterprise,Service Support,14.3,6,4,2,1,90.5,Positive,Converted,2026-02-08 10:29:07
+SHERPA00757,Sherpa AI,Rep 12,Mumbai,SMB,Guided Demo,17.6,10,5,1,1,82.5,Neutral,Follow-up,2026-06-30 17:41:03
+SHERPA00758,Sherpa AI,Rep 13,Mumbai,SMB,Objection Handling,11.3,7,4,1,1,86.3,Positive,Not Converted,2026-06-18 14:24:48
+SHERPA00759,Sherpa AI,Rep 21,Delhi,SMB,Product Discovery,20.0,9,4,1,1,84.6,Neutral,Converted,2026-01-03 16:01:47
+SHERPA00760,Sherpa AI,Rep 48,Bangalore,Mid-Market,Product Discovery,9.0,8,4,2,1,89.2,Positive,Follow-up,2026-03-04 16:32:14
+SHERPA00761,Sherpa AI,Rep 33,Mumbai,Mid-Market,Objection Handling,17.9,10,7,2,1,88.5,Neutral,Not Converted,2026-06-16 14:58:13
+SHERPA00762,Sherpa AI,Rep 41,Pune,Enterprise,Sales Consultation,17.6,9,6,6,4,89.5,Positive,Follow-up,2026-03-08 16:01:39
+SHERPA00763,Sherpa AI,Rep 48,Hyderabad,SMB,Guided Demo,19.3,7,3,2,1,88.0,Neutral,Not Converted,2026-03-13 14:52:08
+SHERPA00764,Sherpa AI,Rep 47,Bangalore,SMB,Objection Handling,18.3,6,5,4,3,90.6,Negative,Follow-up,2025-11-17 16:07:15
+SHERPA00765,Sherpa AI,Rep 50,Pune,SMB,Service Support,12.2,6,4,3,2,92.7,Neutral,Follow-up,2026-02-02 14:50:03
+SHERPA00766,Sherpa AI,Rep 32,Delhi,SMB,Service Support,18.3,9,6,2,1,95.5,Positive,Not Converted,2026-05-05 18:57:32
+SHERPA00767,Sherpa AI,Rep 12,Chennai,Enterprise,Objection Handling,21.2,8,6,2,1,87.9,Positive,Follow-up,2026-04-26 15:19:29
+SHERPA00768,Sherpa AI,Rep 46,Mumbai,Mid-Market,Guided Demo,20.8,5,4,2,2,86.4,Negative,Not Converted,2026-07-05 10:10:27
+SHERPA00769,Sherpa AI,Rep 35,Chennai,Mid-Market,Product Discovery,15.7,10,7,2,1,96.9,Positive,Follow-up,2026-03-12 17:23:07
+SHERPA00770,Sherpa AI,Rep 36,Mumbai,SMB,Product Discovery,14.3,12,6,2,2,86.9,Negative,Follow-up,2026-05-07 12:52:34
+SHERPA00771,Sherpa AI,Rep 38,Pune,Enterprise,Sales Consultation,18.5,7,4,3,2,92.4,Positive,Converted,2026-05-02 10:29:19
+SHERPA00772,Sherpa AI,Rep 48,Delhi,Mid-Market,Guided Demo,9.6,8,6,5,3,82.2,Negative,Not Converted,2026-05-05 10:39:47
+SHERPA00773,Sherpa AI,Rep 28,Delhi,Enterprise,Service Support,15.7,9,5,4,3,83.0,Negative,Follow-up,2025-11-24 10:43:47
+SHERPA00774,Sherpa AI,Rep 13,Delhi,SMB,Service Support,10.4,6,5,2,2,94.6,Neutral,Converted,2026-04-03 17:34:32
+SHERPA00775,Sherpa AI,Rep 12,Delhi,SMB,Sales Consultation,9.1,4,2,2,1,87.9,Positive,Converted,2026-02-05 15:12:58
+SHERPA00776,Sherpa AI,Rep 22,Bangalore,SMB,Service Support,8.5,11,7,2,1,85.3,Positive,Not Converted,2026-03-28 09:27:01
+SHERPA00777,Sherpa AI,Rep 44,Bangalore,SMB,Sales Consultation,17.0,10,5,5,4,94.2,Negative,Converted,2026-03-24 09:18:38
+SHERPA00778,Sherpa AI,Rep 2,Mumbai,SMB,Sales Consultation,8.1,8,6,3,2,82.8,Negative,Follow-up,2026-02-19 13:40:27
+SHERPA00779,Sherpa AI,Rep 29,Bangalore,Enterprise,Objection Handling,9.3,10,7,6,4,85.6,Positive,Converted,2026-05-13 17:02:02
+SHERPA00780,Sherpa AI,Rep 13,Mumbai,Mid-Market,Product Discovery,11.1,7,5,3,2,92.0,Positive,Converted,2026-01-10 18:27:19
+SHERPA00781,Sherpa AI,Rep 35,Bangalore,SMB,Guided Demo,13.8,11,8,5,3,84.5,Neutral,Follow-up,2026-05-04 14:18:29
+SHERPA00782,Sherpa AI,Rep 13,Bangalore,Mid-Market,Guided Demo,15.6,6,3,4,2,85.1,Neutral,Converted,2026-03-28 10:39:38
+SHERPA00783,Sherpa AI,Rep 34,Bangalore,Enterprise,Product Discovery,13.6,12,6,2,1,84.6,Neutral,Not Converted,2026-03-02 09:19:31
+SHERPA00784,Sherpa AI,Rep 19,Hyderabad,Mid-Market,Guided Demo,17.1,6,3,3,2,94.2,Neutral,Follow-up,2025-12-17 17:10:03
+SHERPA00785,Sherpa AI,Rep 9,Delhi,Mid-Market,Service Support,21.8,7,3,2,1,91.0,Negative,Follow-up,2026-04-23 11:50:23
+SHERPA00786,Sherpa AI,Rep 31,Hyderabad,Mid-Market,Service Support,21.4,4,3,4,3,84.6,Positive,Follow-up,2025-11-21 10:03:25
+SHERPA00787,Sherpa AI,Rep 33,Bangalore,Mid-Market,Guided Demo,17.7,9,7,5,4,96.6,Positive,Converted,2026-03-18 14:42:07
+SHERPA00788,Sherpa AI,Rep 27,Bangalore,SMB,Objection Handling,14.7,6,4,5,3,94.8,Positive,Converted,2026-02-19 09:58:38
+SHERPA00789,Sherpa AI,Rep 45,Hyderabad,SMB,Guided Demo,11.3,8,5,4,3,91.6,Negative,Converted,2026-03-27 16:05:42
+SHERPA00790,Sherpa AI,Rep 2,Pune,Enterprise,Sales Consultation,12.3,9,7,2,1,95.5,Positive,Converted,2026-04-30 16:12:07
+SHERPA00791,Sherpa AI,Rep 15,Mumbai,SMB,Sales Consultation,12.2,9,6,4,2,87.6,Positive,Not Converted,2026-01-31 09:16:55
+SHERPA00792,Sherpa AI,Rep 19,Delhi,SMB,Product Discovery,21.2,5,3,1,1,91.0,Positive,Not Converted,2026-06-24 11:40:43
+SHERPA00793,Sherpa AI,Rep 31,Mumbai,SMB,Service Support,15.3,10,6,2,2,93.4,Positive,Not Converted,2026-04-23 11:18:27
+SHERPA00794,Sherpa AI,Rep 16,Pune,Mid-Market,Objection Handling,12.6,10,7,2,1,94.7,Neutral,Converted,2025-12-12 17:25:43
+SHERPA00795,Sherpa AI,Rep 43,Delhi,Mid-Market,Guided Demo,17.6,5,3,4,3,85.7,Neutral,Not Converted,2026-07-18 10:38:38
+SHERPA00796,Sherpa AI,Rep 15,Chennai,SMB,Sales Consultation,8.1,10,7,3,2,88.6,Neutral,Converted,2026-03-18 14:05:50
+SHERPA00797,Sherpa AI,Rep 6,Delhi,SMB,Service Support,10.9,11,5,2,2,84.1,Positive,Converted,2026-05-30 18:46:20
+SHERPA00798,Sherpa AI,Rep 14,Mumbai,Mid-Market,Service Support,9.1,5,3,5,4,85.5,Negative,Not Converted,2026-06-13 15:35:30
+SHERPA00799,Sherpa AI,Rep 27,Delhi,Enterprise,Objection Handling,11.5,9,5,4,2,84.6,Positive,Not Converted,2026-06-16 12:44:38
+SHERPA00800,Sherpa AI,Rep 38,Chennai,SMB,Objection Handling,9.1,6,4,4,2,93.7,Neutral,Follow-up,2026-02-01 17:26:05
+SHERPA00801,Sherpa AI,Rep 19,Chennai,Enterprise,Objection Handling,18.3,12,7,2,1,89.6,Positive,Follow-up,2026-05-31 10:12:01
+SHERPA00802,Sherpa AI,Rep 37,Bangalore,Enterprise,Objection Handling,20.0,9,6,4,2,87.7,Positive,Follow-up,2025-12-20 15:22:46
+SHERPA00803,Sherpa AI,Rep 43,Chennai,Mid-Market,Sales Consultation,11.6,9,7,4,2,92.9,Positive,Not Converted,2026-01-21 16:28:50
+SHERPA00804,Sherpa AI,Rep 4,Hyderabad,Mid-Market,Objection Handling,9.9,7,4,3,2,83.1,Neutral,Converted,2025-12-26 11:56:26
+SHERPA00805,Sherpa AI,Rep 26,Mumbai,Mid-Market,Service Support,18.2,8,4,2,1,89.5,Neutral,Converted,2026-05-17 17:34:31
+SHERPA00806,Sherpa AI,Rep 9,Hyderabad,Mid-Market,Service Support,14.9,7,5,5,4,87.6,Positive,Follow-up,2025-12-10 14:57:59
+SHERPA00807,Sherpa AI,Rep 41,Pune,Enterprise,Guided Demo,13.4,9,6,3,2,95.8,Positive,Converted,2026-04-22 18:46:57
+SHERPA00808,Sherpa AI,Rep 49,Hyderabad,Enterprise,Service Support,18.1,8,4,3,2,95.7,Neutral,Converted,2026-01-13 16:58:28
+SHERPA00809,Sherpa AI,Rep 40,Mumbai,Enterprise,Service Support,21.0,8,5,5,4,91.8,Positive,Converted,2026-05-02 15:28:14
+SHERPA00810,Sherpa AI,Rep 15,Pune,Mid-Market,Sales Consultation,17.5,11,6,1,1,91.5,Positive,Converted,2026-03-04 14:34:57
+SHERPA00811,Sherpa AI,Rep 41,Hyderabad,Enterprise,Service Support,11.6,10,7,2,1,92.2,Positive,Follow-up,2026-05-26 13:46:01
+SHERPA00812,Sherpa AI,Rep 37,Hyderabad,Mid-Market,Product Discovery,17.0,9,7,5,3,93.6,Neutral,Converted,2026-05-21 17:33:31
+SHERPA00813,Sherpa AI,Rep 4,Pune,Mid-Market,Service Support,10.6,10,6,3,3,89.8,Positive,Not Converted,2025-12-28 12:17:10
+SHERPA00814,Sherpa AI,Rep 26,Hyderabad,Enterprise,Guided Demo,17.2,7,5,2,1,96.5,Negative,Converted,2025-12-06 10:38:04
+SHERPA00815,Sherpa AI,Rep 18,Chennai,Enterprise,Guided Demo,9.2,8,4,3,3,92.9,Positive,Not Converted,2026-05-16 09:05:25
+SHERPA00816,Sherpa AI,Rep 41,Mumbai,SMB,Objection Handling,21.0,10,7,3,2,93.2,Positive,Follow-up,2026-03-12 13:04:41
+SHERPA00817,Sherpa AI,Rep 35,Mumbai,Mid-Market,Sales Consultation,9.0,7,4,5,4,82.0,Positive,Converted,2026-01-01 18:18:30
+SHERPA00818,Sherpa AI,Rep 41,Mumbai,SMB,Guided Demo,13.2,9,6,4,3,84.6,Neutral,Follow-up,2026-06-03 09:48:00
+SHERPA00819,Sherpa AI,Rep 41,Hyderabad,Mid-Market,Product Discovery,19.4,8,4,2,2,88.8,Positive,Converted,2026-02-07 15:07:34
+SHERPA00820,Sherpa AI,Rep 29,Chennai,SMB,Product Discovery,20.6,5,2,2,2,85.9,Neutral,Not Converted,2026-06-10 10:41:54
+SHERPA00821,Sherpa AI,Rep 24,Mumbai,Mid-Market,Objection Handling,12.1,8,5,4,3,84.5,Positive,Follow-up,2026-05-27 09:23:21
+SHERPA00822,Sherpa AI,Rep 4,Delhi,SMB,Sales Consultation,17.4,6,3,2,1,89.2,Positive,Follow-up,2026-02-21 11:31:59
+SHERPA00823,Sherpa AI,Rep 21,Mumbai,Mid-Market,Sales Consultation,21.8,4,2,4,2,90.7,Neutral,Converted,2026-07-01 12:13:17
+SHERPA00824,Sherpa AI,Rep 39,Bangalore,SMB,Service Support,18.7,5,3,1,1,96.8,Neutral,Converted,2026-04-07 14:49:31
+SHERPA00825,Sherpa AI,Rep 7,Delhi,Mid-Market,Product Discovery,20.5,9,5,2,1,87.6,Positive,Converted,2026-07-31 10:07:53
+SHERPA00826,Sherpa AI,Rep 23,Mumbai,SMB,Product Discovery,8.8,11,8,5,4,87.7,Neutral,Converted,2026-01-21 12:16:42
+SHERPA00827,Sherpa AI,Rep 40,Hyderabad,Mid-Market,Product Discovery,18.2,8,4,2,1,92.5,Neutral,Converted,2026-03-23 15:08:38
+SHERPA00828,Sherpa AI,Rep 21,Mumbai,SMB,Product Discovery,17.8,10,5,4,3,86.2,Positive,Converted,2026-06-11 15:26:09
+SHERPA00829,Sherpa AI,Rep 1,Chennai,SMB,Guided Demo,13.8,10,6,4,3,89.1,Positive,Not Converted,2026-04-01 10:01:16
+SHERPA00830,Sherpa AI,Rep 41,Chennai,SMB,Sales Consultation,13.0,5,4,4,3,82.2,Positive,Follow-up,2025-11-09 17:55:38
+SHERPA00831,Sherpa AI,Rep 25,Mumbai,SMB,Service Support,13.6,5,4,3,2,91.1,Positive,Converted,2026-05-22 15:39:49
+SHERPA00832,Sherpa AI,Rep 31,Hyderabad,Mid-Market,Guided Demo,21.8,8,4,3,3,96.0,Neutral,Follow-up,2026-06-10 12:52:58
+SHERPA00833,Sherpa AI,Rep 44,Hyderabad,Mid-Market,Sales Consultation,10.0,10,7,4,2,84.9,Positive,Follow-up,2026-01-05 16:11:03
+SHERPA00834,Sherpa AI,Rep 38,Hyderabad,Mid-Market,Objection Handling,19.2,9,6,5,4,83.9,Positive,Follow-up,2026-05-02 17:29:43
+SHERPA00835,Sherpa AI,Rep 45,Mumbai,Enterprise,Product Discovery,14.2,6,4,3,3,84.5,Positive,Follow-up,2025-12-27 12:14:01
+SHERPA00836,Sherpa AI,Rep 5,Mumbai,Enterprise,Service Support,17.2,5,3,2,1,93.3,Negative,Follow-up,2026-04-28 18:43:50
+SHERPA00837,Sherpa AI,Rep 31,Bangalore,Mid-Market,Sales Consultation,20.6,5,3,4,2,95.9,Neutral,Follow-up,2025-12-10 17:42:40
+SHERPA00838,Sherpa AI,Rep 1,Chennai,SMB,Objection Handling,9.7,11,6,3,2,95.5,Positive,Not Converted,2026-03-25 14:32:37
+SHERPA00839,Sherpa AI,Rep 30,Delhi,Enterprise,Product Discovery,20.2,6,4,4,2,92.4,Positive,Not Converted,2026-04-10 13:54:10
+SHERPA00840,Sherpa AI,Rep 18,Delhi,Mid-Market,Objection Handling,18.0,11,8,4,3,87.7,Positive,Follow-up,2026-04-20 15:10:44
+SHERPA00841,Sherpa AI,Rep 8,Chennai,Mid-Market,Objection Handling,19.3,9,5,4,3,94.8,Neutral,Converted,2026-06-02 11:59:54
+SHERPA00842,Sherpa AI,Rep 26,Pune,SMB,Guided Demo,21.1,5,2,1,1,93.1,Positive,Converted,2026-02-28 17:24:20
+SHERPA00843,Sherpa AI,Rep 40,Bangalore,Enterprise,Objection Handling,16.1,10,5,3,3,96.3,Negative,Follow-up,2026-05-03 15:32:28
+SHERPA00844,Sherpa AI,Rep 15,Chennai,Mid-Market,Guided Demo,12.5,5,2,4,3,96.7,Positive,Not Converted,2026-04-24 14:08:02
+SHERPA00845,Sherpa AI,Rep 19,Bangalore,SMB,Guided Demo,11.1,7,5,5,4,91.0,Neutral,Follow-up,2026-05-25 11:00:35
+SHERPA00846,Sherpa AI,Rep 10,Pune,Mid-Market,Objection Handling,19.7,7,4,3,2,96.1,Neutral,Converted,2026-06-18 12:48:55
+SHERPA00847,Sherpa AI,Rep 24,Bangalore,SMB,Sales Consultation,19.2,8,5,4,2,92.0,Neutral,Not Converted,2026-01-29 15:17:48
+SHERPA00848,Sherpa AI,Rep 16,Hyderabad,SMB,Objection Handling,22.0,9,6,2,2,83.9,Positive,Converted,2026-01-15 15:52:46
+SHERPA00849,Sherpa AI,Rep 43,Chennai,Enterprise,Objection Handling,13.3,9,5,5,3,92.6,Neutral,Follow-up,2026-06-25 09:08:32
+SHERPA00850,Sherpa AI,Rep 31,Delhi,SMB,Sales Consultation,19.3,12,7,5,3,93.0,Positive,Converted,2026-05-23 14:04:58
+SHERPA00851,Sherpa AI,Rep 44,Mumbai,SMB,Product Discovery,13.5,8,4,4,2,89.3,Positive,Follow-up,2026-07-18 09:46:29
+SHERPA00852,Sherpa AI,Rep 16,Pune,Enterprise,Service Support,12.7,12,8,5,4,90.2,Negative,Converted,2026-03-13 18:33:18
+SHERPA00853,Sherpa AI,Rep 16,Pune,Mid-Market,Product Discovery,12.0,8,6,4,3,89.9,Negative,Converted,2025-12-26 16:18:27
+SHERPA00854,Sherpa AI,Rep 28,Mumbai,SMB,Objection Handling,18.5,9,5,5,3,84.0,Neutral,Converted,2026-06-08 15:19:17
+SHERPA00855,Sherpa AI,Rep 20,Chennai,SMB,Product Discovery,10.3,7,5,4,3,88.9,Positive,Converted,2026-07-24 17:35:37
+SHERPA00856,Sherpa AI,Rep 35,Mumbai,Enterprise,Service Support,18.5,5,3,2,1,85.3,Neutral,Not Converted,2026-01-23 17:08:17
+SHERPA00857,Sherpa AI,Rep 9,Bangalore,SMB,Product Discovery,21.8,11,5,5,4,92.2,Positive,Converted,2026-03-04 14:51:08
+SHERPA00858,Sherpa AI,Rep 40,Mumbai,Mid-Market,Service Support,9.3,5,4,3,3,95.9,Positive,Not Converted,2026-06-19 12:44:14
+SHERPA00859,Sherpa AI,Rep 10,Bangalore,SMB,Product Discovery,16.3,9,5,1,1,91.8,Neutral,Converted,2026-07-18 17:59:58
+SHERPA00860,Sherpa AI,Rep 45,Bangalore,SMB,Guided Demo,14.8,11,7,3,2,85.6,Positive,Follow-up,2026-01-24 15:31:35
+SHERPA00861,Sherpa AI,Rep 18,Delhi,Mid-Market,Objection Handling,19.1,10,8,4,3,92.4,Negative,Converted,2026-05-29 11:54:32
+SHERPA00862,Sherpa AI,Rep 45,Mumbai,SMB,Service Support,17.1,9,6,5,4,86.1,Positive,Converted,2026-04-03 17:41:10
+SHERPA00863,Sherpa AI,Rep 45,Delhi,SMB,Objection Handling,15.1,7,3,1,1,92.0,Positive,Not Converted,2026-06-03 16:54:23
+SHERPA00864,Sherpa AI,Rep 15,Mumbai,Mid-Market,Guided Demo,19.1,5,3,4,2,93.2,Neutral,Follow-up,2026-05-08 09:06:26
+SHERPA00865,Sherpa AI,Rep 45,Bangalore,SMB,Product Discovery,9.4,5,3,4,3,90.6,Neutral,Follow-up,2025-12-13 11:42:41
+SHERPA00866,Sherpa AI,Rep 30,Mumbai,Enterprise,Objection Handling,8.3,5,4,5,3,94.2,Positive,Follow-up,2026-03-01 11:16:03
+SHERPA00867,Sherpa AI,Rep 48,Pune,SMB,Product Discovery,16.2,8,5,5,3,89.8,Positive,Converted,2026-01-23 13:49:23
+SHERPA00868,Sherpa AI,Rep 32,Pune,SMB,Product Discovery,20.6,10,7,2,2,96.5,Neutral,Follow-up,2026-04-06 16:02:26
+SHERPA00869,Sherpa AI,Rep 40,Delhi,Mid-Market,Objection Handling,9.7,6,4,2,1,94.0,Positive,Follow-up,2026-03-04 10:54:41
+SHERPA00870,Sherpa AI,Rep 27,Hyderabad,SMB,Service Support,8.5,6,3,2,1,94.8,Positive,Follow-up,2026-05-18 14:34:22
+SHERPA00871,Sherpa AI,Rep 27,Pune,Mid-Market,Service Support,21.2,12,7,3,2,88.3,Neutral,Converted,2026-05-16 14:59:15
+SHERPA00872,Sherpa AI,Rep 19,Delhi,SMB,Objection Handling,17.2,4,2,4,3,93.7,Positive,Follow-up,2025-11-09 17:55:00
+SHERPA00873,Sherpa AI,Rep 10,Hyderabad,Enterprise,Service Support,12.9,8,5,5,4,96.8,Negative,Not Converted,2026-05-19 12:11:39
+SHERPA00874,Sherpa AI,Rep 44,Chennai,Enterprise,Sales Consultation,10.6,8,4,1,1,85.6,Neutral,Not Converted,2026-06-10 15:11:48
+SHERPA00875,Sherpa AI,Rep 46,Delhi,SMB,Product Discovery,13.0,7,5,6,4,85.2,Negative,Not Converted,2026-04-27 17:02:42
+SHERPA00876,Sherpa AI,Rep 6,Pune,SMB,Objection Handling,20.7,5,3,1,1,87.7,Positive,Not Converted,2026-02-15 13:43:34
+SHERPA00877,Sherpa AI,Rep 24,Pune,Mid-Market,Guided Demo,15.5,7,3,2,1,92.4,Negative,Not Converted,2026-06-18 16:15:54
+SHERPA00878,Sherpa AI,Rep 9,Mumbai,SMB,Objection Handling,13.2,5,3,6,5,84.9,Positive,Converted,2026-04-11 18:08:38
+SHERPA00879,Sherpa AI,Rep 27,Hyderabad,SMB,Objection Handling,21.9,10,7,4,3,84.3,Positive,Follow-up,2026-05-03 17:28:33
+SHERPA00880,Sherpa AI,Rep 7,Pune,SMB,Product Discovery,9.5,7,3,4,2,83.9,Positive,Not Converted,2026-01-16 16:21:11
+SHERPA00881,Sherpa AI,Rep 6,Mumbai,Mid-Market,Guided Demo,11.8,7,3,3,2,87.0,Positive,Not Converted,2026-07-23 18:14:28
+SHERPA00882,Sherpa AI,Rep 33,Hyderabad,Enterprise,Product Discovery,13.3,11,6,1,1,96.5,Positive,Converted,2026-04-25 13:15:19
+SHERPA00883,Sherpa AI,Rep 21,Delhi,Mid-Market,Service Support,19.5,5,4,2,2,86.6,Neutral,Follow-up,2025-12-22 10:56:08
+SHERPA00884,Sherpa AI,Rep 46,Delhi,SMB,Objection Handling,16.5,7,4,4,3,90.3,Positive,Not Converted,2026-07-11 18:44:12
+SHERPA00885,Sherpa AI,Rep 38,Mumbai,Mid-Market,Product Discovery,18.4,11,6,6,4,87.2,Positive,Converted,2026-04-08 13:51:50
+SHERPA00886,Sherpa AI,Rep 44,Delhi,SMB,Sales Consultation,9.8,12,8,4,3,89.2,Neutral,Follow-up,2026-03-19 15:33:05
+SHERPA00887,Sherpa AI,Rep 17,Mumbai,SMB,Objection Handling,18.3,5,3,2,1,87.7,Positive,Converted,2026-05-06 15:43:32
+SHERPA00888,Sherpa AI,Rep 31,Bangalore,Mid-Market,Service Support,16.5,5,3,6,5,85.7,Neutral,Converted,2026-05-26 12:48:15
+SHERPA00889,Sherpa AI,Rep 37,Hyderabad,Mid-Market,Product Discovery,11.9,10,5,6,5,89.5,Neutral,Not Converted,2026-05-03 18:14:34
+SHERPA00890,Sherpa AI,Rep 11,Mumbai,SMB,Product Discovery,20.0,8,6,5,4,86.6,Negative,Not Converted,2026-04-27 14:50:09
+SHERPA00891,Sherpa AI,Rep 28,Hyderabad,SMB,Sales Consultation,18.2,9,5,2,1,83.2,Positive,Converted,2026-07-22 15:48:21
+SHERPA00892,Sherpa AI,Rep 5,Bangalore,Enterprise,Service Support,14.9,12,6,1,1,90.3,Negative,Converted,2026-05-22 12:45:37
+SHERPA00893,Sherpa AI,Rep 12,Hyderabad,SMB,Sales Consultation,14.7,9,7,3,2,93.0,Neutral,Follow-up,2025-12-08 12:09:01
+SHERPA00894,Sherpa AI,Rep 3,Mumbai,Mid-Market,Objection Handling,16.6,7,5,4,3,88.1,Negative,Converted,2026-07-04 09:05:22
+SHERPA00895,Sherpa AI,Rep 41,Delhi,SMB,Guided Demo,11.4,9,6,4,3,93.2,Positive,Converted,2026-07-20 16:37:25
+SHERPA00896,Sherpa AI,Rep 38,Hyderabad,SMB,Product Discovery,16.5,9,7,5,4,89.9,Neutral,Follow-up,2026-01-27 12:06:44
+SHERPA00897,Sherpa AI,Rep 2,Hyderabad,Mid-Market,Sales Consultation,11.2,8,6,4,3,89.9,Neutral,Converted,2026-01-14 18:38:50
+SHERPA00898,Sherpa AI,Rep 26,Pune,Mid-Market,Product Discovery,13.3,4,3,3,3,88.3,Positive,Not Converted,2025-11-21 16:09:16
+SHERPA00899,Sherpa AI,Rep 2,Pune,SMB,Product Discovery,18.7,6,3,5,3,90.1,Neutral,Converted,2026-02-06 13:38:47
+SHERPA00900,Sherpa AI,Rep 12,Bangalore,Mid-Market,Sales Consultation,16.0,5,3,2,1,93.1,Neutral,Not Converted,2026-01-23 10:49:52
+SHERPA00901,Sherpa AI,Rep 40,Chennai,SMB,Product Discovery,8.5,6,3,6,5,94.4,Neutral,Not Converted,2026-05-01 13:24:15
+SHERPA00902,Sherpa AI,Rep 2,Delhi,Mid-Market,Service Support,12.6,8,5,4,3,91.2,Positive,Follow-up,2026-05-30 15:24:05
+SHERPA00903,Sherpa AI,Rep 41,Mumbai,SMB,Service Support,9.4,6,3,4,2,87.3,Neutral,Not Converted,2025-11-29 14:13:41
+SHERPA00904,Sherpa AI,Rep 16,Bangalore,SMB,Guided Demo,14.8,8,4,4,2,83.9,Positive,Not Converted,2026-04-01 14:59:06
+SHERPA00905,Sherpa AI,Rep 30,Mumbai,SMB,Service Support,14.0,5,3,2,1,86.5,Neutral,Follow-up,2025-12-21 17:53:00
+SHERPA00906,Sherpa AI,Rep 47,Mumbai,Mid-Market,Sales Consultation,10.3,5,4,1,1,94.6,Positive,Follow-up,2025-12-31 12:43:19
+SHERPA00907,Sherpa AI,Rep 46,Hyderabad,Mid-Market,Service Support,10.7,8,5,3,3,85.0,Positive,Converted,2026-03-15 10:55:20
+SHERPA00908,Sherpa AI,Rep 36,Bangalore,SMB,Guided Demo,10.8,5,3,5,4,84.4,Positive,Follow-up,2026-03-08 15:21:52
+SHERPA00909,Sherpa AI,Rep 4,Bangalore,Mid-Market,Objection Handling,19.2,7,5,2,1,90.3,Neutral,Not Converted,2026-06-23 12:25:58
+SHERPA00910,Sherpa AI,Rep 11,Pune,SMB,Objection Handling,20.9,10,6,5,4,89.5,Negative,Not Converted,2026-05-22 12:02:36
+SHERPA00911,Sherpa AI,Rep 24,Delhi,SMB,Sales Consultation,10.2,11,6,2,1,82.3,Positive,Converted,2026-03-07 18:01:03
+SHERPA00912,Sherpa AI,Rep 18,Chennai,Mid-Market,Guided Demo,21.7,9,6,2,2,87.1,Positive,Not Converted,2026-03-13 09:20:10
+SHERPA00913,Sherpa AI,Rep 27,Mumbai,Mid-Market,Service Support,11.5,10,6,3,2,93.4,Positive,Converted,2026-05-29 13:46:23
+SHERPA00914,Sherpa AI,Rep 37,Delhi,Enterprise,Guided Demo,21.9,6,4,2,2,95.0,Neutral,Not Converted,2026-03-20 15:17:02
+SHERPA00915,Sherpa AI,Rep 2,Pune,Enterprise,Product Discovery,17.8,7,5,2,2,94.1,Positive,Not Converted,2026-03-28 10:15:27
+SHERPA00916,Sherpa AI,Rep 15,Delhi,SMB,Guided Demo,11.2,8,4,6,4,91.5,Positive,Converted,2026-04-21 13:39:34
+SHERPA00917,Sherpa AI,Rep 11,Mumbai,SMB,Service Support,16.6,6,3,6,5,88.4,Neutral,Not Converted,2026-03-21 16:29:48
+SHERPA00918,Sherpa AI,Rep 27,Hyderabad,Enterprise,Sales Consultation,11.2,5,2,3,2,91.5,Positive,Follow-up,2026-04-30 09:26:03
+SHERPA00919,Sherpa AI,Rep 49,Hyderabad,SMB,Product Discovery,11.8,6,4,3,2,86.6,Positive,Follow-up,2026-02-10 14:47:26
+SHERPA00920,Sherpa AI,Rep 48,Mumbai,Enterprise,Guided Demo,8.6,6,3,3,2,82.7,Positive,Not Converted,2026-06-20 14:15:19
+SHERPA00921,Sherpa AI,Rep 47,Pune,Mid-Market,Objection Handling,9.4,5,3,2,1,95.6,Neutral,Follow-up,2026-01-28 18:24:30
+SHERPA00922,Sherpa AI,Rep 23,Pune,Enterprise,Service Support,8.2,5,4,2,1,83.5,Negative,Not Converted,2025-12-26 10:24:55
+SHERPA00923,Sherpa AI,Rep 35,Bangalore,SMB,Sales Consultation,18.9,9,7,3,2,87.4,Neutral,Converted,2026-03-14 11:08:24
+SHERPA00924,Sherpa AI,Rep 30,Chennai,SMB,Service Support,20.4,6,3,3,2,87.8,Positive,Not Converted,2025-11-28 09:48:51
+SHERPA00925,Sherpa AI,Rep 47,Hyderabad,SMB,Guided Demo,17.2,5,3,1,1,95.7,Neutral,Converted,2026-02-10 14:23:27
+SHERPA00926,Sherpa AI,Rep 24,Chennai,Mid-Market,Sales Consultation,12.8,5,3,5,3,90.2,Positive,Follow-up,2026-06-22 18:58:30
+SHERPA00927,Sherpa AI,Rep 19,Delhi,Mid-Market,Objection Handling,10.7,8,6,2,2,82.7,Neutral,Follow-up,2025-11-04 14:56:53
+SHERPA00928,Sherpa AI,Rep 29,Delhi,SMB,Product Discovery,21.7,8,4,5,4,95.6,Neutral,Converted,2026-04-22 16:23:23
+SHERPA00929,Sherpa AI,Rep 13,Mumbai,Enterprise,Guided Demo,13.9,12,7,5,4,83.0,Negative,Not Converted,2026-03-18 09:37:35
+SHERPA00930,Sherpa AI,Rep 48,Mumbai,Mid-Market,Sales Consultation,9.8,10,6,1,1,92.5,Positive,Not Converted,2026-06-10 15:29:34
+SHERPA00931,Sherpa AI,Rep 23,Mumbai,SMB,Product Discovery,13.6,4,3,4,3,93.1,Neutral,Converted,2026-02-07 17:23:39
+SHERPA00932,Sherpa AI,Rep 12,Pune,Mid-Market,Sales Consultation,13.4,8,6,5,3,93.3,Neutral,Follow-up,2026-07-24 18:56:12
+SHERPA00933,Sherpa AI,Rep 49,Hyderabad,Enterprise,Guided Demo,11.0,9,5,2,1,84.4,Positive,Not Converted,2025-12-22 12:25:21
+SHERPA00934,Sherpa AI,Rep 48,Chennai,Mid-Market,Sales Consultation,15.4,8,6,4,3,92.6,Neutral,Converted,2026-02-21 18:42:51
+SHERPA00935,Sherpa AI,Rep 41,Delhi,SMB,Objection Handling,8.6,6,3,4,3,84.6,Negative,Follow-up,2026-07-04 16:46:44
+SHERPA00936,Sherpa AI,Rep 29,Chennai,SMB,Sales Consultation,11.8,5,2,2,2,95.9,Negative,Converted,2025-12-20 14:05:52
+SHERPA00937,Sherpa AI,Rep 6,Hyderabad,Enterprise,Guided Demo,8.0,10,7,2,2,90.0,Neutral,Follow-up,2026-04-09 09:41:30
+SHERPA00938,Sherpa AI,Rep 23,Chennai,Mid-Market,Sales Consultation,15.7,7,5,3,2,92.6,Positive,Converted,2026-01-08 11:41:44
+SHERPA00939,Sherpa AI,Rep 31,Chennai,Mid-Market,Product Discovery,19.4,10,6,4,3,82.9,Neutral,Not Converted,2026-04-27 17:40:37
+SHERPA00940,Sherpa AI,Rep 45,Pune,Enterprise,Product Discovery,15.5,8,4,5,3,96.6,Neutral,Converted,2026-07-31 14:18:47
+SHERPA00941,Sherpa AI,Rep 21,Mumbai,SMB,Service Support,13.3,11,8,5,3,93.2,Positive,Converted,2026-04-01 14:19:11
+SHERPA00942,Sherpa AI,Rep 24,Pune,Enterprise,Service Support,11.1,9,7,4,3,94.3,Positive,Follow-up,2026-04-26 11:15:50
+SHERPA00943,Sherpa AI,Rep 8,Pune,Mid-Market,Objection Handling,11.2,7,4,5,4,84.3,Positive,Not Converted,2026-03-27 14:04:25
+SHERPA00944,Sherpa AI,Rep 44,Chennai,SMB,Product Discovery,10.6,9,5,5,3,84.7,Positive,Follow-up,2026-01-08 13:28:04
+SHERPA00945,Sherpa AI,Rep 9,Chennai,Mid-Market,Service Support,8.3,11,6,4,3,91.7,Neutral,Not Converted,2026-03-28 09:08:00
+SHERPA00946,Sherpa AI,Rep 22,Pune,SMB,Sales Consultation,9.0,5,3,3,2,83.0,Positive,Follow-up,2026-02-24 11:05:58
+SHERPA00947,Sherpa AI,Rep 4,Chennai,Mid-Market,Objection Handling,18.2,6,5,6,3,89.9,Positive,Follow-up,2026-04-21 18:29:04
+SHERPA00948,Sherpa AI,Rep 13,Pune,Mid-Market,Guided Demo,18.7,9,6,3,2,94.4,Positive,Not Converted,2025-12-27 16:22:19
+SHERPA00949,Sherpa AI,Rep 34,Bangalore,Mid-Market,Service Support,16.8,9,4,2,1,84.1,Positive,Not Converted,2026-04-10 17:25:52
+SHERPA00950,Sherpa AI,Rep 3,Pune,Enterprise,Service Support,12.7,5,4,6,3,93.0,Positive,Follow-up,2026-03-27 17:13:37
+SHERPA00951,Sherpa AI,Rep 37,Delhi,SMB,Product Discovery,10.3,8,4,3,2,88.7,Positive,Converted,2026-07-04 13:26:58
+SHERPA00952,Sherpa AI,Rep 28,Delhi,SMB,Objection Handling,9.7,7,4,2,2,91.4,Positive,Follow-up,2026-03-26 13:37:03
+SHERPA00953,Sherpa AI,Rep 26,Chennai,Mid-Market,Product Discovery,10.0,9,4,2,1,94.5,Neutral,Not Converted,2025-12-09 10:49:17
+SHERPA00954,Sherpa AI,Rep 50,Pune,SMB,Product Discovery,11.2,11,5,3,2,91.8,Positive,Follow-up,2026-05-05 12:38:32
+SHERPA00955,Sherpa AI,Rep 46,Pune,SMB,Objection Handling,10.4,9,5,5,4,83.7,Neutral,Converted,2026-02-23 13:01:53
+SHERPA00956,Sherpa AI,Rep 34,Mumbai,Enterprise,Sales Consultation,9.7,5,2,5,3,91.2,Positive,Follow-up,2026-01-06 16:28:16
+SHERPA00957,Sherpa AI,Rep 15,Mumbai,Mid-Market,Service Support,15.4,10,8,5,4,84.7,Positive,Converted,2025-12-11 12:43:40
+SHERPA00958,Sherpa AI,Rep 8,Mumbai,Enterprise,Product Discovery,19.4,8,5,2,2,86.5,Positive,Follow-up,2026-02-27 16:05:30
+SHERPA00959,Sherpa AI,Rep 48,Pune,SMB,Service Support,19.4,7,3,5,4,96.0,Positive,Not Converted,2026-01-08 10:17:56
+SHERPA00960,Sherpa AI,Rep 35,Pune,Enterprise,Objection Handling,17.2,8,4,1,1,84.2,Positive,Converted,2025-12-28 13:32:31
+SHERPA00961,Sherpa AI,Rep 24,Delhi,Mid-Market,Sales Consultation,8.9,6,3,4,3,89.2,Positive,Follow-up,2026-07-31 11:22:19
+SHERPA00962,Sherpa AI,Rep 37,Hyderabad,Mid-Market,Guided Demo,10.5,7,5,2,1,96.9,Positive,Follow-up,2025-12-11 15:51:42
+SHERPA00963,Sherpa AI,Rep 4,Chennai,SMB,Sales Consultation,19.1,8,4,3,2,88.2,Neutral,Follow-up,2026-05-09 16:15:09
+SHERPA00964,Sherpa AI,Rep 12,Delhi,SMB,Objection Handling,15.0,6,4,4,2,88.3,Positive,Converted,2025-12-16 16:13:55
+SHERPA00965,Sherpa AI,Rep 19,Mumbai,Mid-Market,Sales Consultation,13.9,8,5,5,3,90.7,Neutral,Not Converted,2026-04-21 11:53:49
+SHERPA00966,Sherpa AI,Rep 15,Delhi,Mid-Market,Guided Demo,8.0,9,6,5,4,85.5,Neutral,Not Converted,2026-04-26 11:01:09
+SHERPA00967,Sherpa AI,Rep 30,Delhi,SMB,Product Discovery,8.8,9,4,3,3,95.8,Neutral,Not Converted,2026-07-09 13:17:31
+SHERPA00968,Sherpa AI,Rep 45,Delhi,Mid-Market,Sales Consultation,10.0,6,4,4,3,86.4,Positive,Converted,2026-02-20 09:56:27
+SHERPA00969,Sherpa AI,Rep 37,Mumbai,Enterprise,Objection Handling,8.8,11,8,6,4,94.4,Neutral,Converted,2026-05-25 09:19:29
+SHERPA00970,Sherpa AI,Rep 12,Hyderabad,SMB,Sales Consultation,21.5,6,5,5,3,82.4,Positive,Follow-up,2026-05-10 09:38:30
+SHERPA00971,Sherpa AI,Rep 19,Bangalore,SMB,Guided Demo,20.2,7,5,4,2,94.6,Positive,Not Converted,2026-05-04 09:18:24
+SHERPA00972,Sherpa AI,Rep 34,Chennai,Mid-Market,Objection Handling,19.4,4,2,1,1,90.5,Positive,Follow-up,2026-06-24 18:20:36
+SHERPA00973,Sherpa AI,Rep 7,Chennai,Enterprise,Sales Consultation,12.2,5,3,4,3,92.5,Negative,Converted,2026-01-23 15:31:25
+SHERPA00974,Sherpa AI,Rep 28,Delhi,SMB,Objection Handling,10.2,7,4,5,4,86.3,Positive,Follow-up,2026-04-08 14:23:24
+SHERPA00975,Sherpa AI,Rep 28,Hyderabad,SMB,Guided Demo,19.7,9,4,4,3,82.2,Negative,Not Converted,2026-07-18 11:21:35
+SHERPA00976,Sherpa AI,Rep 29,Mumbai,SMB,Product Discovery,15.0,8,6,3,2,95.8,Positive,Follow-up,2026-06-15 10:51:46
+SHERPA00977,Sherpa AI,Rep 37,Bangalore,SMB,Guided Demo,21.7,8,5,2,2,89.8,Negative,Not Converted,2026-02-21 16:55:34
+SHERPA00978,Sherpa AI,Rep 20,Bangalore,Enterprise,Product Discovery,18.4,5,3,3,2,84.8,Negative,Follow-up,2026-02-26 13:21:39
+SHERPA00979,Sherpa AI,Rep 11,Delhi,SMB,Service Support,17.0,7,5,4,3,86.7,Negative,Not Converted,2026-07-06 12:33:11
+SHERPA00980,Sherpa AI,Rep 50,Delhi,Enterprise,Guided Demo,9.5,10,5,5,4,84.9,Positive,Not Converted,2026-04-21 10:49:37
+SHERPA00981,Sherpa AI,Rep 50,Mumbai,SMB,Product Discovery,15.6,6,4,5,3,86.2,Neutral,Converted,2026-03-24 15:54:51
+SHERPA00982,Sherpa AI,Rep 39,Mumbai,SMB,Service Support,16.9,5,3,5,3,90.3,Negative,Not Converted,2026-04-15 14:28:02
+SHERPA00983,Sherpa AI,Rep 42,Pune,Mid-Market,Service Support,19.1,4,2,5,4,90.5,Positive,Follow-up,2026-02-27 16:51:18
+SHERPA00984,Sherpa AI,Rep 23,Mumbai,SMB,Service Support,12.0,5,3,5,3,87.3,Positive,Converted,2026-04-18 16:16:02
+SHERPA00985,Sherpa AI,Rep 46,Delhi,Enterprise,Objection Handling,17.8,6,3,4,3,96.6,Neutral,Follow-up,2026-02-27 09:42:55
+SHERPA00986,Sherpa AI,Rep 20,Hyderabad,Enterprise,Guided Demo,10.1,5,3,5,3,94.1,Positive,Converted,2026-04-03 10:19:25
+SHERPA00987,Sherpa AI,Rep 20,Delhi,Mid-Market,Guided Demo,10.1,9,5,4,3,86.4,Neutral,Follow-up,2026-03-04 17:43:24
+SHERPA00988,Sherpa AI,Rep 11,Delhi,SMB,Guided Demo,19.3,8,6,2,2,95.3,Positive,Follow-up,2026-03-19 15:36:25
+SHERPA00989,Sherpa AI,Rep 2,Bangalore,Mid-Market,Guided Demo,18.2,8,6,2,2,89.7,Neutral,Converted,2026-06-08 10:45:09
+SHERPA00990,Sherpa AI,Rep 13,Mumbai,Enterprise,Objection Handling,13.0,9,7,3,2,87.1,Positive,Converted,2026-05-12 17:35:06
+SHERPA00991,Sherpa AI,Rep 13,Chennai,SMB,Guided Demo,10.9,10,6,5,4,87.8,Positive,Not Converted,2026-01-12 11:19:00
+SHERPA00992,Sherpa AI,Rep 41,Mumbai,Enterprise,Product Discovery,19.3,8,4,2,2,89.5,Positive,Converted,2025-12-09 10:56:06
+SHERPA00993,Sherpa AI,Rep 49,Pune,SMB,Service Support,9.2,6,4,4,4,93.7,Neutral,Not Converted,2026-03-16 12:54:06
+SHERPA00994,Sherpa AI,Rep 15,Hyderabad,Mid-Market,Objection Handling,13.1,5,3,5,3,86.2,Positive,Converted,2026-01-13 15:34:47
+SHERPA00995,Sherpa AI,Rep 31,Hyderabad,Mid-Market,Objection Handling,11.6,5,3,4,2,89.1,Neutral,Not Converted,2026-02-09 15:53:30
+SHERPA00996,Sherpa AI,Rep 23,Mumbai,Mid-Market,Guided Demo,8.6,9,6,2,1,90.5,Neutral,Converted,2026-02-22 09:57:51
+SHERPA00997,Sherpa AI,Rep 22,Mumbai,SMB,Service Support,13.1,10,6,5,4,83.9,Positive,Converted,2026-01-23 13:15:17
+SHERPA00998,Sherpa AI,Rep 16,Delhi,Enterprise,Product Discovery,11.7,11,8,3,2,89.6,Positive,Converted,2026-03-22 15:32:23
+SHERPA00999,Sherpa AI,Rep 42,Chennai,Enterprise,Service Support,11.4,10,7,4,3,93.1,Positive,Not Converted,2026-06-06 10:58:06
+SHERPA01000,Sherpa AI,Rep 29,Delhi,SMB,Sales Consultation,13.6,11,5,5,3,84.4,Positive,Not Converted,2026-05-24 12:53:00

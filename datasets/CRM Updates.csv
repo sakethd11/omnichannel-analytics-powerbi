@@ -1,0 +1,501 @@
+account id,lead source,product interested,sales stage,followup required,deal value inr,account manager,region,last updated
+ACC0001,Event,Voice Solution,Closed Won,Yes,431627,Manager D,Mumbai,03-03-2026
+ACC0002,Inbound,Voice Solution,Demo,Yes,244444,Manager C,Chennai,02-07-2026
+ACC0003,LinkedIn,Voice Solution,Closed Won,Yes,530898,Manager A,Mumbai,14-01-2026
+ACC0004,LinkedIn,Sherpa AI,Discovery,No,2030917,Manager C,Pune,06-11-2025
+ACC0005,Outbound,Sherpa AI,Demo,Yes,1764588,Manager E,Chennai,21-11-2025
+ACC0006,Event,Voice Solution,Qualified,Yes,149574,Manager D,Hyderabad,09-05-2026
+ACC0007,Event,Sherpa AI,Closed Lost,No,1178642,Manager D,Chennai,13-06-2026
+ACC0008,Event,Voice Solution,Discovery,Yes,2411373,Manager B,Chennai,11-02-2026
+ACC0009,Referral,Voice Solution,Proposal,No,2180029,Manager F,Hyderabad,07-02-2026
+ACC0010,Inbound,Sherpa AI,Demo,Yes,240017,Manager D,Mumbai,22-01-2026
+ACC0011,LinkedIn,Sherpa AI,Closed Lost,Yes,129418,Manager A,Hyderabad,30-04-2026
+ACC0012,Inbound,Voice Solution,Demo,No,674162,Manager A,Pune,01-04-2026
+ACC0013,Inbound,Voice Solution,Closed Won,No,230538,Manager A,Bangalore,26-12-2025
+ACC0014,Inbound,Voice Solution,Closed Won,Yes,2134328,Manager E,Bangalore,09-05-2026
+ACC0015,Event,Voice Solution,Demo,No,313699,Manager D,Chennai,22-11-2025
+ACC0016,Outbound,Voice Solution,Demo,Yes,1361041,Manager D,Hyderabad,07-01-2026
+ACC0017,Outbound,Sherpa AI,Negotiation,Yes,357470,Manager A,Hyderabad,04-05-2026
+ACC0018,Event,Voice Solution,Closed Lost,Yes,2048031,Manager B,Hyderabad,10-11-2025
+ACC0019,LinkedIn,Sherpa AI,Closed Won,Yes,461981,Manager B,Pune,05-01-2026
+ACC0020,LinkedIn,Voice Solution,Discovery,Yes,379548,Manager D,Pune,13-06-2026
+ACC0021,LinkedIn,Voice Solution,Closed Won,No,1745493,Manager D,Mumbai,03-03-2026
+ACC0022,Outbound,Voice Solution,Demo,Yes,548834,Manager C,Delhi,08-12-2025
+ACC0023,Outbound,Voice Solution,Proposal,Yes,2247151,Manager D,Delhi,03-03-2026
+ACC0024,Inbound,Sherpa AI,Closed Won,Yes,2376583,Manager A,Delhi,05-04-2026
+ACC0025,Event,Voice Solution,Discovery,No,584023,Manager F,Mumbai,06-01-2026
+ACC0026,Referral,Voice Solution,Closed Won,No,1425414,Manager E,Hyderabad,13-03-2026
+ACC0027,Inbound,Sherpa AI,Proposal,No,1053618,Manager D,Delhi,20-03-2026
+ACC0028,Partner,Sherpa AI,Closed Won,No,2004557,Manager D,Hyderabad,21-01-2026
+ACC0029,Outbound,Voice Solution,Discovery,No,1336878,Manager A,Chennai,28-12-2025
+ACC0030,Inbound,Voice Solution,Demo,No,132799,Manager C,Delhi,29-03-2026
+ACC0031,Event,Sherpa AI,Closed Won,No,2025296,Manager F,Chennai,11-03-2026
+ACC0032,Partner,Sherpa AI,Qualified,Yes,2339380,Manager D,Mumbai,08-01-2026
+ACC0033,Inbound,Sherpa AI,Qualified,Yes,2499941,Manager B,Bangalore,08-07-2026
+ACC0034,Event,Voice Solution,Closed Lost,No,794298,Manager B,Pune,26-04-2026
+ACC0035,Event,Sherpa AI,Discovery,Yes,439758,Manager B,Mumbai,11-01-2026
+ACC0036,Outbound,Voice Solution,Closed Lost,Yes,1371262,Manager E,Mumbai,17-11-2025
+ACC0037,Referral,Voice Solution,Discovery,Yes,2158836,Manager E,Mumbai,09-04-2026
+ACC0038,Inbound,Sherpa AI,Demo,No,2209572,Manager F,Delhi,09-01-2026
+ACC0039,Event,Voice Solution,Closed Won,Yes,380456,Manager D,Chennai,21-02-2026
+ACC0040,LinkedIn,Voice Solution,Negotiation,No,907827,Manager D,Pune,20-06-2026
+ACC0041,Event,Voice Solution,Proposal,No,402445,Manager D,Delhi,21-11-2025
+ACC0042,Referral,Voice Solution,Proposal,No,2244124,Manager E,Bangalore,15-03-2026
+ACC0043,Event,Sherpa AI,Closed Won,No,1229429,Manager F,Pune,19-02-2026
+ACC0044,Outbound,Sherpa AI,Discovery,No,182504,Manager D,Mumbai,04-07-2026
+ACC0045,Inbound,Voice Solution,Demo,Yes,909286,Manager A,Hyderabad,08-11-2025
+ACC0046,Outbound,Voice Solution,Qualified,Yes,432924,Manager C,Bangalore,26-05-2026
+ACC0047,Inbound,Sherpa AI,Proposal,Yes,468602,Manager B,Chennai,13-05-2026
+ACC0048,Partner,Sherpa AI,Discovery,No,1474340,Manager B,Bangalore,17-12-2025
+ACC0049,Inbound,Voice Solution,Demo,No,2024598,Manager A,Delhi,30-06-2026
+ACC0050,Partner,Sherpa AI,Proposal,No,2035204,Manager D,Hyderabad,10-11-2025
+ACC0051,Outbound,Sherpa AI,Qualified,Yes,696842,Manager F,Delhi,11-03-2026
+ACC0052,LinkedIn,Voice Solution,Qualified,Yes,217781,Manager F,Pune,31-12-2025
+ACC0053,Referral,Voice Solution,Negotiation,Yes,625261,Manager E,Mumbai,13-04-2026
+ACC0054,LinkedIn,Voice Solution,Demo,Yes,1922648,Manager D,Mumbai,13-11-2025
+ACC0055,Partner,Sherpa AI,Closed Won,Yes,945218,Manager F,Bangalore,27-05-2026
+ACC0056,Event,Voice Solution,Negotiation,Yes,221403,Manager D,Mumbai,04-07-2026
+ACC0057,Event,Voice Solution,Qualified,No,1869147,Manager B,Mumbai,13-03-2026
+ACC0058,LinkedIn,Voice Solution,Negotiation,Yes,649634,Manager B,Pune,02-07-2026
+ACC0059,Event,Sherpa AI,Qualified,Yes,1744844,Manager E,Chennai,08-12-2025
+ACC0060,Partner,Voice Solution,Closed Won,No,2011950,Manager B,Chennai,26-12-2025
+ACC0061,Outbound,Sherpa AI,Closed Lost,Yes,1940980,Manager D,Delhi,18-12-2025
+ACC0062,Referral,Sherpa AI,Proposal,Yes,1983071,Manager A,Delhi,13-02-2026
+ACC0063,Inbound,Voice Solution,Negotiation,Yes,1278593,Manager E,Chennai,29-12-2025
+ACC0064,Partner,Voice Solution,Discovery,Yes,1606158,Manager A,Bangalore,16-01-2026
+ACC0065,Partner,Voice Solution,Demo,Yes,1811638,Manager D,Chennai,06-06-2026
+ACC0066,Inbound,Sherpa AI,Closed Won,Yes,709122,Manager E,Delhi,25-12-2025
+ACC0067,Inbound,Voice Solution,Discovery,Yes,1039044,Manager A,Hyderabad,25-12-2025
+ACC0068,Referral,Voice Solution,Discovery,Yes,2244056,Manager E,Mumbai,09-03-2026
+ACC0069,Referral,Voice Solution,Demo,Yes,1200896,Manager D,Pune,24-01-2026
+ACC0070,Referral,Voice Solution,Negotiation,No,882884,Manager F,Hyderabad,02-06-2026
+ACC0071,Event,Sherpa AI,Demo,Yes,889031,Manager E,Hyderabad,23-02-2026
+ACC0072,Partner,Sherpa AI,Closed Lost,No,1498356,Manager F,Mumbai,19-12-2025
+ACC0073,Outbound,Sherpa AI,Qualified,Yes,840079,Manager D,Chennai,06-01-2026
+ACC0074,Inbound,Voice Solution,Demo,Yes,811525,Manager E,Bangalore,09-03-2026
+ACC0075,Partner,Voice Solution,Negotiation,No,1338503,Manager E,Hyderabad,29-11-2025
+ACC0076,Partner,Sherpa AI,Discovery,Yes,1383425,Manager F,Bangalore,03-12-2025
+ACC0077,Referral,Voice Solution,Negotiation,Yes,2329082,Manager B,Pune,27-02-2026
+ACC0078,Referral,Sherpa AI,Discovery,No,1574372,Manager F,Pune,29-04-2026
+ACC0079,Partner,Voice Solution,Qualified,Yes,433060,Manager F,Pune,31-03-2026
+ACC0080,Referral,Voice Solution,Qualified,No,1839736,Manager F,Delhi,13-03-2026
+ACC0081,Event,Sherpa AI,Closed Lost,No,2054201,Manager D,Hyderabad,04-05-2026
+ACC0082,Inbound,Sherpa AI,Proposal,Yes,1385423,Manager C,Pune,14-03-2026
+ACC0083,Partner,Sherpa AI,Closed Won,Yes,244015,Manager F,Delhi,26-04-2026
+ACC0084,Inbound,Voice Solution,Demo,Yes,2299494,Manager E,Pune,22-11-2025
+ACC0085,Event,Voice Solution,Proposal,No,1429556,Manager A,Chennai,29-06-2026
+ACC0086,Referral,Voice Solution,Proposal,No,1648160,Manager B,Hyderabad,16-01-2026
+ACC0087,LinkedIn,Sherpa AI,Closed Lost,No,486804,Manager F,Delhi,23-05-2026
+ACC0088,Event,Sherpa AI,Negotiation,Yes,1960288,Manager F,Pune,04-11-2025
+ACC0089,LinkedIn,Voice Solution,Negotiation,No,2321373,Manager B,Delhi,14-04-2026
+ACC0090,Inbound,Sherpa AI,Qualified,Yes,1225894,Manager F,Pune,08-03-2026
+ACC0091,Partner,Sherpa AI,Proposal,Yes,2067239,Manager E,Chennai,15-12-2025
+ACC0092,Referral,Sherpa AI,Proposal,No,1094670,Manager C,Bangalore,06-06-2026
+ACC0093,Event,Voice Solution,Closed Lost,Yes,885072,Manager F,Pune,23-06-2026
+ACC0094,Referral,Voice Solution,Discovery,No,1520298,Manager B,Bangalore,16-03-2026
+ACC0095,LinkedIn,Sherpa AI,Discovery,Yes,1810525,Manager F,Hyderabad,17-04-2026
+ACC0096,LinkedIn,Voice Solution,Demo,No,1928531,Manager D,Chennai,25-06-2026
+ACC0097,Outbound,Sherpa AI,Discovery,Yes,2363235,Manager E,Hyderabad,01-02-2026
+ACC0098,Partner,Sherpa AI,Qualified,Yes,894609,Manager E,Bangalore,05-11-2025
+ACC0099,LinkedIn,Sherpa AI,Closed Won,Yes,623099,Manager C,Chennai,05-04-2026
+ACC0100,Partner,Voice Solution,Proposal,Yes,978340,Manager D,Mumbai,03-07-2026
+ACC0101,Outbound,Voice Solution,Closed Won,Yes,676115,Manager D,Chennai,20-01-2026
+ACC0102,Event,Voice Solution,Closed Won,No,2121013,Manager C,Chennai,05-07-2026
+ACC0103,Outbound,Voice Solution,Discovery,Yes,2265924,Manager A,Mumbai,17-03-2026
+ACC0104,Partner,Voice Solution,Proposal,Yes,253354,Manager F,Delhi,02-01-2026
+ACC0105,LinkedIn,Voice Solution,Qualified,Yes,1616008,Manager D,Delhi,24-02-2026
+ACC0106,Inbound,Voice Solution,Closed Lost,Yes,242412,Manager A,Delhi,21-02-2026
+ACC0107,Partner,Voice Solution,Demo,No,458773,Manager A,Bangalore,01-12-2025
+ACC0108,Referral,Voice Solution,Demo,No,1497363,Manager E,Chennai,07-11-2025
+ACC0109,Inbound,Voice Solution,Discovery,Yes,2009692,Manager F,Pune,03-11-2025
+ACC0110,Partner,Voice Solution,Proposal,Yes,1519330,Manager E,Mumbai,01-07-2026
+ACC0111,Referral,Sherpa AI,Discovery,No,2055340,Manager B,Pune,26-12-2025
+ACC0112,Outbound,Voice Solution,Demo,Yes,904597,Manager E,Bangalore,12-01-2026
+ACC0113,Inbound,Voice Solution,Closed Won,Yes,1782186,Manager D,Mumbai,10-11-2025
+ACC0114,Partner,Sherpa AI,Closed Won,Yes,1203091,Manager D,Pune,31-12-2025
+ACC0115,Event,Sherpa AI,Discovery,Yes,209446,Manager F,Bangalore,20-12-2025
+ACC0116,Outbound,Voice Solution,Proposal,Yes,1856463,Manager A,Bangalore,02-03-2026
+ACC0117,Referral,Sherpa AI,Closed Won,Yes,159789,Manager D,Bangalore,24-04-2026
+ACC0118,Event,Sherpa AI,Qualified,No,2229343,Manager E,Mumbai,01-11-2025
+ACC0119,LinkedIn,Sherpa AI,Closed Won,Yes,1879018,Manager E,Pune,08-12-2025
+ACC0120,Outbound,Voice Solution,Discovery,Yes,804960,Manager F,Pune,09-05-2026
+ACC0121,Outbound,Sherpa AI,Negotiation,Yes,973889,Manager E,Hyderabad,18-01-2026
+ACC0122,Partner,Voice Solution,Proposal,Yes,988908,Manager C,Bangalore,09-05-2026
+ACC0123,Partner,Voice Solution,Proposal,Yes,1030340,Manager F,Delhi,03-05-2026
+ACC0124,Referral,Sherpa AI,Closed Won,No,1817038,Manager F,Chennai,06-01-2026
+ACC0125,Outbound,Voice Solution,Qualified,Yes,2409117,Manager D,Hyderabad,17-11-2025
+ACC0126,Partner,Sherpa AI,Demo,No,1262493,Manager F,Hyderabad,28-05-2026
+ACC0127,LinkedIn,Voice Solution,Proposal,Yes,2260417,Manager B,Mumbai,11-12-2025
+ACC0128,Partner,Sherpa AI,Closed Won,No,625007,Manager D,Hyderabad,23-02-2026
+ACC0129,Outbound,Voice Solution,Discovery,Yes,314514,Manager D,Pune,08-02-2026
+ACC0130,Inbound,Voice Solution,Closed Won,Yes,2089220,Manager C,Mumbai,19-03-2026
+ACC0131,Event,Voice Solution,Demo,No,232141,Manager D,Mumbai,17-11-2025
+ACC0132,Outbound,Voice Solution,Discovery,Yes,1221861,Manager A,Delhi,13-01-2026
+ACC0133,LinkedIn,Voice Solution,Closed Won,No,375079,Manager E,Bangalore,16-11-2025
+ACC0134,Outbound,Sherpa AI,Qualified,Yes,668323,Manager E,Hyderabad,14-11-2025
+ACC0135,LinkedIn,Voice Solution,Proposal,No,488831,Manager F,Bangalore,04-11-2025
+ACC0136,Outbound,Sherpa AI,Qualified,No,2031264,Manager C,Bangalore,07-03-2026
+ACC0137,Event,Voice Solution,Demo,No,380684,Manager E,Bangalore,06-11-2025
+ACC0138,Event,Voice Solution,Proposal,Yes,935134,Manager A,Mumbai,09-03-2026
+ACC0139,LinkedIn,Sherpa AI,Proposal,Yes,1226859,Manager C,Bangalore,20-06-2026
+ACC0140,Outbound,Voice Solution,Demo,No,831401,Manager B,Hyderabad,14-05-2026
+ACC0141,Event,Sherpa AI,Demo,No,1915689,Manager E,Mumbai,04-01-2026
+ACC0142,Referral,Sherpa AI,Discovery,No,1054411,Manager D,Hyderabad,11-02-2026
+ACC0143,Outbound,Voice Solution,Demo,Yes,2343445,Manager A,Mumbai,07-04-2026
+ACC0144,Event,Sherpa AI,Closed Lost,No,631375,Manager A,Chennai,12-06-2026
+ACC0145,Inbound,Sherpa AI,Closed Won,Yes,2153078,Manager E,Chennai,01-05-2026
+ACC0146,Inbound,Voice Solution,Qualified,Yes,1433509,Manager F,Chennai,04-11-2025
+ACC0147,Referral,Sherpa AI,Qualified,Yes,1597815,Manager B,Chennai,03-06-2026
+ACC0148,Event,Voice Solution,Closed Lost,Yes,1806135,Manager D,Mumbai,05-06-2026
+ACC0149,Inbound,Voice Solution,Proposal,No,2022281,Manager B,Bangalore,28-05-2026
+ACC0150,Outbound,Sherpa AI,Proposal,Yes,2312462,Manager B,Delhi,13-01-2026
+ACC0151,Partner,Sherpa AI,Closed Won,No,2344968,Manager E,Pune,15-06-2026
+ACC0152,Event,Sherpa AI,Demo,Yes,286589,Manager D,Delhi,01-02-2026
+ACC0153,Referral,Sherpa AI,Proposal,Yes,2295383,Manager E,Chennai,04-01-2026
+ACC0154,Event,Sherpa AI,Closed Lost,Yes,567153,Manager E,Bangalore,10-11-2025
+ACC0155,LinkedIn,Sherpa AI,Negotiation,Yes,600642,Manager F,Hyderabad,25-01-2026
+ACC0156,LinkedIn,Voice Solution,Qualified,Yes,1570952,Manager A,Bangalore,26-11-2025
+ACC0157,Inbound,Voice Solution,Qualified,No,653560,Manager F,Hyderabad,06-06-2026
+ACC0158,LinkedIn,Voice Solution,Discovery,No,1726885,Manager F,Delhi,03-02-2026
+ACC0159,Referral,Sherpa AI,Closed Won,Yes,321120,Manager E,Bangalore,02-07-2026
+ACC0160,Inbound,Voice Solution,Discovery,Yes,1182221,Manager F,Bangalore,15-02-2026
+ACC0161,Referral,Voice Solution,Qualified,Yes,121179,Manager F,Pune,06-07-2026
+ACC0162,Outbound,Voice Solution,Closed Lost,No,634979,Manager C,Delhi,14-11-2025
+ACC0163,Referral,Sherpa AI,Discovery,Yes,753724,Manager D,Bangalore,10-04-2026
+ACC0164,LinkedIn,Sherpa AI,Qualified,Yes,1380475,Manager A,Hyderabad,10-01-2026
+ACC0165,Outbound,Voice Solution,Discovery,Yes,1506101,Manager D,Bangalore,01-04-2026
+ACC0166,LinkedIn,Voice Solution,Discovery,No,911399,Manager A,Hyderabad,14-01-2026
+ACC0167,Referral,Voice Solution,Demo,Yes,652766,Manager C,Chennai,03-06-2026
+ACC0168,LinkedIn,Voice Solution,Closed Lost,Yes,1597567,Manager E,Bangalore,21-12-2025
+ACC0169,LinkedIn,Voice Solution,Closed Won,No,1088128,Manager A,Hyderabad,23-03-2026
+ACC0170,LinkedIn,Sherpa AI,Demo,No,402476,Manager A,Delhi,06-12-2025
+ACC0171,Event,Sherpa AI,Demo,No,2243052,Manager A,Chennai,16-04-2026
+ACC0172,Outbound,Voice Solution,Proposal,Yes,2418293,Manager C,Bangalore,24-06-2026
+ACC0173,Outbound,Voice Solution,Discovery,No,2156125,Manager D,Pune,18-07-2026
+ACC0174,Outbound,Voice Solution,Qualified,No,2324013,Manager C,Hyderabad,11-05-2026
+ACC0175,Referral,Voice Solution,Closed Lost,No,817940,Manager A,Pune,21-05-2026
+ACC0176,Partner,Voice Solution,Discovery,No,269173,Manager F,Bangalore,04-05-2026
+ACC0177,Referral,Voice Solution,Discovery,No,1304707,Manager A,Hyderabad,07-04-2026
+ACC0178,Outbound,Voice Solution,Proposal,Yes,2031792,Manager F,Bangalore,04-07-2026
+ACC0179,Inbound,Sherpa AI,Proposal,Yes,644991,Manager E,Chennai,18-02-2026
+ACC0180,LinkedIn,Sherpa AI,Qualified,No,990125,Manager C,Chennai,07-02-2026
+ACC0181,LinkedIn,Sherpa AI,Qualified,Yes,554633,Manager F,Bangalore,29-06-2026
+ACC0182,Partner,Voice Solution,Demo,Yes,814588,Manager C,Bangalore,21-05-2026
+ACC0183,Inbound,Sherpa AI,Negotiation,Yes,2099491,Manager B,Mumbai,02-03-2026
+ACC0184,Event,Sherpa AI,Discovery,No,368662,Manager D,Bangalore,25-02-2026
+ACC0185,Referral,Voice Solution,Demo,Yes,269563,Manager B,Bangalore,04-02-2026
+ACC0186,Event,Voice Solution,Proposal,No,1287594,Manager F,Pune,22-06-2026
+ACC0187,Inbound,Voice Solution,Closed Won,Yes,1673474,Manager B,Pune,06-01-2026
+ACC0188,Partner,Voice Solution,Demo,Yes,396455,Manager D,Chennai,06-06-2026
+ACC0189,Inbound,Voice Solution,Qualified,Yes,1274995,Manager F,Pune,15-11-2025
+ACC0190,Partner,Voice Solution,Proposal,Yes,1934865,Manager E,Bangalore,07-06-2026
+ACC0191,Event,Voice Solution,Negotiation,Yes,2427994,Manager E,Delhi,27-03-2026
+ACC0192,Event,Voice Solution,Qualified,Yes,1621984,Manager D,Bangalore,01-04-2026
+ACC0193,Inbound,Voice Solution,Demo,Yes,335612,Manager D,Mumbai,15-11-2025
+ACC0194,Inbound,Sherpa AI,Qualified,No,343095,Manager F,Hyderabad,23-01-2026
+ACC0195,LinkedIn,Voice Solution,Qualified,Yes,694360,Manager C,Chennai,11-05-2026
+ACC0196,Partner,Sherpa AI,Proposal,No,739695,Manager F,Pune,11-12-2025
+ACC0197,LinkedIn,Voice Solution,Discovery,Yes,2447592,Manager C,Delhi,16-03-2026
+ACC0198,Referral,Voice Solution,Closed Won,No,1191550,Manager C,Hyderabad,14-02-2026
+ACC0199,Referral,Voice Solution,Proposal,Yes,1643738,Manager C,Delhi,07-11-2025
+ACC0200,Inbound,Voice Solution,Demo,No,1062334,Manager F,Chennai,30-11-2025
+ACC0201,Event,Voice Solution,Demo,No,1754847,Manager A,Pune,06-03-2026
+ACC0202,Referral,Voice Solution,Proposal,No,986469,Manager A,Mumbai,18-01-2026
+ACC0203,Referral,Voice Solution,Qualified,Yes,1616189,Manager E,Chennai,06-01-2026
+ACC0204,LinkedIn,Sherpa AI,Closed Won,No,1365462,Manager A,Delhi,23-11-2025
+ACC0205,LinkedIn,Voice Solution,Closed Lost,Yes,995719,Manager A,Delhi,08-05-2026
+ACC0206,Referral,Sherpa AI,Discovery,Yes,243977,Manager C,Chennai,13-01-2026
+ACC0207,Inbound,Voice Solution,Qualified,Yes,2196109,Manager C,Bangalore,05-11-2025
+ACC0208,LinkedIn,Sherpa AI,Qualified,Yes,1662570,Manager D,Chennai,21-01-2026
+ACC0209,Referral,Voice Solution,Negotiation,Yes,1956609,Manager C,Pune,25-11-2025
+ACC0210,Event,Sherpa AI,Negotiation,No,2415323,Manager F,Pune,02-11-2025
+ACC0211,LinkedIn,Sherpa AI,Closed Won,Yes,2090124,Manager D,Mumbai,12-06-2026
+ACC0212,Referral,Sherpa AI,Closed Won,Yes,373390,Manager D,Chennai,11-01-2026
+ACC0213,Partner,Voice Solution,Demo,Yes,364602,Manager A,Hyderabad,07-01-2026
+ACC0214,LinkedIn,Sherpa AI,Negotiation,No,1667737,Manager C,Pune,02-02-2026
+ACC0215,Partner,Voice Solution,Negotiation,Yes,1338155,Manager A,Pune,19-11-2025
+ACC0216,LinkedIn,Sherpa AI,Proposal,Yes,1154604,Manager C,Pune,08-03-2026
+ACC0217,LinkedIn,Voice Solution,Proposal,No,1383399,Manager A,Bangalore,21-01-2026
+ACC0218,Outbound,Voice Solution,Negotiation,Yes,2194716,Manager A,Hyderabad,12-07-2026
+ACC0219,Outbound,Voice Solution,Proposal,Yes,2428476,Manager A,Chennai,09-06-2026
+ACC0220,Partner,Voice Solution,Negotiation,Yes,914110,Manager F,Bangalore,05-02-2026
+ACC0221,Inbound,Sherpa AI,Negotiation,No,976876,Manager E,Pune,22-12-2025
+ACC0222,Referral,Sherpa AI,Negotiation,No,374507,Manager A,Hyderabad,24-04-2026
+ACC0223,Inbound,Sherpa AI,Negotiation,Yes,1818002,Manager B,Hyderabad,01-05-2026
+ACC0224,Inbound,Sherpa AI,Proposal,Yes,2260956,Manager B,Bangalore,23-02-2026
+ACC0225,Outbound,Sherpa AI,Negotiation,Yes,1263009,Manager B,Pune,01-11-2025
+ACC0226,Referral,Voice Solution,Demo,No,2245696,Manager F,Bangalore,02-01-2026
+ACC0227,Outbound,Voice Solution,Discovery,No,898184,Manager D,Delhi,06-07-2026
+ACC0228,Outbound,Voice Solution,Qualified,Yes,1400344,Manager A,Pune,19-06-2026
+ACC0229,Outbound,Voice Solution,Proposal,Yes,1156058,Manager B,Bangalore,14-06-2026
+ACC0230,Event,Voice Solution,Proposal,No,1673663,Manager F,Chennai,19-11-2025
+ACC0231,Inbound,Voice Solution,Closed Lost,No,503150,Manager D,Pune,01-12-2025
+ACC0232,Inbound,Voice Solution,Demo,No,1468278,Manager B,Mumbai,01-03-2026
+ACC0233,Inbound,Voice Solution,Demo,Yes,1469943,Manager C,Pune,24-11-2025
+ACC0234,Event,Sherpa AI,Discovery,No,503125,Manager E,Delhi,30-05-2026
+ACC0235,LinkedIn,Voice Solution,Qualified,Yes,1240043,Manager A,Bangalore,10-04-2026
+ACC0236,Partner,Voice Solution,Closed Won,Yes,715692,Manager E,Mumbai,13-07-2026
+ACC0237,Partner,Voice Solution,Discovery,Yes,1883318,Manager E,Delhi,29-12-2025
+ACC0238,Event,Voice Solution,Proposal,No,1569805,Manager C,Chennai,22-02-2026
+ACC0239,Inbound,Voice Solution,Negotiation,Yes,203018,Manager C,Pune,09-04-2026
+ACC0240,Partner,Voice Solution,Proposal,Yes,253947,Manager C,Mumbai,08-06-2026
+ACC0241,Event,Voice Solution,Closed Won,Yes,321325,Manager D,Bangalore,18-04-2026
+ACC0242,Outbound,Voice Solution,Demo,Yes,135607,Manager B,Bangalore,12-11-2025
+ACC0243,Referral,Voice Solution,Discovery,No,161684,Manager A,Chennai,30-06-2026
+ACC0244,Partner,Voice Solution,Closed Won,Yes,1962334,Manager C,Delhi,19-03-2026
+ACC0245,Referral,Sherpa AI,Closed Won,Yes,637889,Manager F,Mumbai,05-02-2026
+ACC0246,Inbound,Voice Solution,Discovery,No,1797458,Manager A,Chennai,27-03-2026
+ACC0247,Partner,Voice Solution,Qualified,Yes,1826677,Manager A,Delhi,01-05-2026
+ACC0248,Event,Voice Solution,Qualified,No,1158677,Manager A,Hyderabad,27-12-2025
+ACC0249,LinkedIn,Sherpa AI,Discovery,No,1298279,Manager C,Hyderabad,12-12-2025
+ACC0250,Partner,Voice Solution,Closed Lost,No,1775684,Manager C,Delhi,18-05-2026
+ACC0251,Partner,Sherpa AI,Proposal,No,1578662,Manager B,Bangalore,01-12-2025
+ACC0252,Partner,Sherpa AI,Demo,Yes,520431,Manager C,Bangalore,29-04-2026
+ACC0253,Partner,Voice Solution,Closed Won,Yes,1734974,Manager C,Hyderabad,02-11-2025
+ACC0254,Event,Voice Solution,Demo,Yes,2216367,Manager A,Bangalore,18-03-2026
+ACC0255,Event,Voice Solution,Demo,Yes,1895054,Manager B,Bangalore,13-02-2026
+ACC0256,LinkedIn,Voice Solution,Closed Lost,Yes,769384,Manager E,Delhi,06-06-2026
+ACC0257,Event,Voice Solution,Closed Won,Yes,176949,Manager C,Pune,10-06-2026
+ACC0258,Event,Voice Solution,Closed Won,No,1102486,Manager F,Delhi,13-02-2026
+ACC0259,Inbound,Voice Solution,Proposal,Yes,992711,Manager C,Bangalore,07-03-2026
+ACC0260,Inbound,Voice Solution,Closed Won,Yes,2183820,Manager E,Delhi,19-05-2026
+ACC0261,Referral,Sherpa AI,Discovery,Yes,852932,Manager A,Mumbai,10-07-2026
+ACC0262,LinkedIn,Voice Solution,Proposal,Yes,1552303,Manager B,Hyderabad,15-11-2025
+ACC0263,Inbound,Sherpa AI,Closed Lost,No,1639563,Manager A,Pune,14-06-2026
+ACC0264,LinkedIn,Sherpa AI,Discovery,Yes,1433986,Manager D,Mumbai,13-02-2026
+ACC0265,LinkedIn,Sherpa AI,Closed Won,No,688843,Manager C,Mumbai,21-06-2026
+ACC0266,Partner,Sherpa AI,Proposal,Yes,2260147,Manager F,Bangalore,07-06-2026
+ACC0267,Outbound,Voice Solution,Qualified,Yes,2141836,Manager D,Bangalore,09-05-2026
+ACC0268,Outbound,Voice Solution,Closed Won,Yes,1751141,Manager C,Mumbai,17-05-2026
+ACC0269,Outbound,Voice Solution,Discovery,No,1775209,Manager D,Mumbai,09-12-2025
+ACC0270,LinkedIn,Voice Solution,Negotiation,Yes,1506831,Manager E,Chennai,11-04-2026
+ACC0271,Partner,Sherpa AI,Qualified,Yes,1738266,Manager C,Chennai,01-03-2026
+ACC0272,Referral,Sherpa AI,Closed Lost,Yes,2120256,Manager F,Hyderabad,04-06-2026
+ACC0273,Referral,Voice Solution,Discovery,No,1403375,Manager C,Mumbai,19-12-2025
+ACC0274,Outbound,Voice Solution,Discovery,No,1534467,Manager D,Delhi,31-01-2026
+ACC0275,Referral,Voice Solution,Qualified,Yes,1321381,Manager B,Pune,09-03-2026
+ACC0276,Partner,Voice Solution,Closed Lost,Yes,2451646,Manager D,Chennai,28-11-2025
+ACC0277,Outbound,Voice Solution,Negotiation,No,2238897,Manager C,Bangalore,28-03-2026
+ACC0278,Partner,Voice Solution,Negotiation,No,966555,Manager C,Mumbai,04-01-2026
+ACC0279,Referral,Sherpa AI,Proposal,No,807395,Manager B,Delhi,06-06-2026
+ACC0280,Outbound,Voice Solution,Proposal,No,1069966,Manager A,Pune,21-12-2025
+ACC0281,Partner,Sherpa AI,Qualified,No,2190865,Manager B,Delhi,13-01-2026
+ACC0282,Event,Sherpa AI,Proposal,Yes,219097,Manager A,Delhi,18-05-2026
+ACC0283,Event,Sherpa AI,Discovery,No,1196878,Manager F,Bangalore,11-05-2026
+ACC0284,Partner,Voice Solution,Closed Lost,No,1795425,Manager C,Chennai,08-05-2026
+ACC0285,Partner,Sherpa AI,Closed Won,Yes,1880915,Manager E,Delhi,12-11-2025
+ACC0286,Inbound,Sherpa AI,Demo,Yes,2033606,Manager E,Pune,27-06-2026
+ACC0287,Inbound,Voice Solution,Qualified,No,887670,Manager D,Chennai,20-01-2026
+ACC0288,LinkedIn,Voice Solution,Closed Won,Yes,1360505,Manager B,Hyderabad,18-12-2025
+ACC0289,Outbound,Sherpa AI,Qualified,No,681481,Manager B,Bangalore,28-05-2026
+ACC0290,LinkedIn,Voice Solution,Discovery,Yes,1462061,Manager E,Chennai,05-12-2025
+ACC0291,LinkedIn,Voice Solution,Discovery,Yes,594285,Manager A,Chennai,27-02-2026
+ACC0292,Referral,Voice Solution,Proposal,Yes,674662,Manager B,Delhi,04-01-2026
+ACC0293,Event,Sherpa AI,Closed Won,Yes,933430,Manager A,Pune,30-06-2026
+ACC0294,Referral,Sherpa AI,Demo,Yes,2373083,Manager A,Delhi,06-12-2025
+ACC0295,Outbound,Voice Solution,Qualified,Yes,657466,Manager A,Pune,10-07-2026
+ACC0296,Partner,Voice Solution,Proposal,No,1561121,Manager A,Bangalore,01-07-2026
+ACC0297,Inbound,Sherpa AI,Negotiation,No,1382738,Manager D,Chennai,12-12-2025
+ACC0298,Outbound,Sherpa AI,Discovery,Yes,1657266,Manager D,Mumbai,08-01-2026
+ACC0299,Partner,Sherpa AI,Discovery,Yes,2412253,Manager E,Pune,15-02-2026
+ACC0300,Outbound,Voice Solution,Closed Lost,Yes,2415590,Manager D,Pune,09-12-2025
+ACC0301,Partner,Voice Solution,Closed Lost,Yes,1777003,Manager F,Delhi,08-01-2026
+ACC0302,Inbound,Voice Solution,Closed Lost,Yes,1248866,Manager B,Delhi,29-04-2026
+ACC0303,Partner,Sherpa AI,Closed Won,Yes,1091166,Manager F,Hyderabad,12-11-2025
+ACC0304,LinkedIn,Voice Solution,Discovery,Yes,1649166,Manager D,Pune,23-05-2026
+ACC0305,Outbound,Voice Solution,Discovery,Yes,763622,Manager B,Bangalore,06-12-2025
+ACC0306,Inbound,Voice Solution,Demo,Yes,2349009,Manager B,Chennai,06-03-2026
+ACC0307,Partner,Voice Solution,Demo,No,2003839,Manager A,Chennai,02-01-2026
+ACC0308,LinkedIn,Sherpa AI,Closed Lost,Yes,443367,Manager E,Chennai,21-01-2026
+ACC0309,LinkedIn,Voice Solution,Closed Won,No,1665433,Manager A,Pune,04-12-2025
+ACC0310,Event,Sherpa AI,Negotiation,No,1347305,Manager A,Delhi,28-06-2026
+ACC0311,LinkedIn,Sherpa AI,Discovery,No,1676446,Manager F,Bangalore,05-02-2026
+ACC0312,Referral,Voice Solution,Closed Lost,No,2096360,Manager D,Chennai,19-12-2025
+ACC0313,Inbound,Sherpa AI,Closed Won,Yes,1922821,Manager F,Pune,26-03-2026
+ACC0314,Inbound,Sherpa AI,Discovery,Yes,728292,Manager D,Mumbai,05-03-2026
+ACC0315,Inbound,Sherpa AI,Closed Won,Yes,726880,Manager F,Hyderabad,08-05-2026
+ACC0316,Partner,Voice Solution,Discovery,No,1098931,Manager B,Hyderabad,27-12-2025
+ACC0317,Outbound,Voice Solution,Qualified,No,1601593,Manager D,Chennai,17-02-2026
+ACC0318,Partner,Voice Solution,Negotiation,No,292811,Manager D,Delhi,05-11-2025
+ACC0319,Referral,Sherpa AI,Negotiation,Yes,1667938,Manager F,Hyderabad,24-11-2025
+ACC0320,Outbound,Sherpa AI,Qualified,No,2052317,Manager C,Hyderabad,09-06-2026
+ACC0321,LinkedIn,Sherpa AI,Demo,Yes,993546,Manager B,Hyderabad,10-11-2025
+ACC0322,Partner,Voice Solution,Closed Lost,Yes,1814849,Manager B,Hyderabad,14-04-2026
+ACC0323,Outbound,Voice Solution,Negotiation,No,2281421,Manager C,Chennai,03-06-2026
+ACC0324,LinkedIn,Voice Solution,Negotiation,Yes,154895,Manager F,Pune,06-03-2026
+ACC0325,Outbound,Voice Solution,Discovery,No,2433793,Manager F,Bangalore,27-01-2026
+ACC0326,LinkedIn,Sherpa AI,Qualified,Yes,499319,Manager B,Bangalore,22-02-2026
+ACC0327,Outbound,Voice Solution,Discovery,No,1008478,Manager F,Delhi,21-11-2025
+ACC0328,Partner,Voice Solution,Discovery,Yes,424857,Manager E,Pune,28-03-2026
+ACC0329,Partner,Voice Solution,Discovery,No,314241,Manager E,Mumbai,03-07-2026
+ACC0330,Referral,Voice Solution,Discovery,No,682927,Manager C,Bangalore,05-06-2026
+ACC0331,Event,Voice Solution,Proposal,No,1630520,Manager D,Mumbai,28-06-2026
+ACC0332,Inbound,Voice Solution,Demo,Yes,2151556,Manager E,Bangalore,20-06-2026
+ACC0333,Partner,Voice Solution,Closed Won,No,1514323,Manager F,Bangalore,20-06-2026
+ACC0334,Partner,Voice Solution,Discovery,Yes,2275640,Manager C,Delhi,30-06-2026
+ACC0335,LinkedIn,Voice Solution,Proposal,Yes,365121,Manager E,Hyderabad,09-05-2026
+ACC0336,Event,Sherpa AI,Qualified,Yes,1000897,Manager A,Delhi,17-06-2026
+ACC0337,Partner,Voice Solution,Proposal,No,1727295,Manager C,Bangalore,05-01-2026
+ACC0338,Outbound,Sherpa AI,Qualified,Yes,1427476,Manager B,Pune,28-05-2026
+ACC0339,Event,Sherpa AI,Closed Lost,No,1824700,Manager E,Hyderabad,16-11-2025
+ACC0340,Inbound,Voice Solution,Closed Won,No,290984,Manager B,Pune,08-06-2026
+ACC0341,Outbound,Sherpa AI,Proposal,Yes,1898950,Manager C,Pune,15-07-2026
+ACC0342,LinkedIn,Voice Solution,Qualified,No,1944804,Manager E,Pune,17-06-2026
+ACC0343,Referral,Sherpa AI,Proposal,Yes,2039591,Manager B,Hyderabad,27-02-2026
+ACC0344,Outbound,Sherpa AI,Closed Won,No,1753878,Manager D,Pune,27-04-2026
+ACC0345,Inbound,Sherpa AI,Discovery,Yes,1431045,Manager D,Hyderabad,20-11-2025
+ACC0346,Outbound,Voice Solution,Proposal,Yes,573937,Manager A,Mumbai,06-12-2025
+ACC0347,Event,Voice Solution,Closed Won,Yes,1928016,Manager F,Bangalore,16-02-2026
+ACC0348,Event,Voice Solution,Closed Won,Yes,2250248,Manager C,Chennai,08-05-2026
+ACC0349,Inbound,Sherpa AI,Closed Won,Yes,1137588,Manager F,Pune,27-04-2026
+ACC0350,Event,Sherpa AI,Closed Won,Yes,1999657,Manager F,Delhi,04-02-2026
+ACC0351,Outbound,Voice Solution,Closed Lost,Yes,602827,Manager B,Mumbai,20-11-2025
+ACC0352,Referral,Voice Solution,Demo,Yes,672551,Manager A,Delhi,13-04-2026
+ACC0353,Outbound,Sherpa AI,Proposal,Yes,2419726,Manager C,Chennai,05-02-2026
+ACC0354,Referral,Voice Solution,Closed Won,No,1253396,Manager D,Hyderabad,23-03-2026
+ACC0355,Event,Sherpa AI,Negotiation,Yes,799830,Manager F,Chennai,01-01-2026
+ACC0356,Outbound,Sherpa AI,Closed Lost,No,589454,Manager B,Delhi,30-06-2026
+ACC0357,Event,Voice Solution,Qualified,No,1438943,Manager F,Chennai,26-06-2026
+ACC0358,Referral,Sherpa AI,Demo,No,920007,Manager E,Bangalore,11-03-2026
+ACC0359,Event,Voice Solution,Discovery,No,1432381,Manager D,Chennai,01-02-2026
+ACC0360,Partner,Voice Solution,Discovery,Yes,2148055,Manager F,Pune,30-01-2026
+ACC0361,LinkedIn,Sherpa AI,Discovery,No,1971440,Manager E,Bangalore,13-03-2026
+ACC0362,Outbound,Sherpa AI,Negotiation,Yes,2427271,Manager E,Pune,03-03-2026
+ACC0363,Partner,Voice Solution,Qualified,No,524363,Manager B,Chennai,26-02-2026
+ACC0364,Event,Voice Solution,Negotiation,No,1678894,Manager B,Bangalore,17-05-2026
+ACC0365,Event,Voice Solution,Negotiation,Yes,452195,Manager E,Bangalore,01-11-2025
+ACC0366,LinkedIn,Voice Solution,Discovery,No,1851365,Manager A,Chennai,30-05-2026
+ACC0367,Event,Voice Solution,Discovery,Yes,934175,Manager F,Mumbai,31-05-2026
+ACC0368,LinkedIn,Voice Solution,Negotiation,Yes,326941,Manager E,Hyderabad,26-01-2026
+ACC0369,Outbound,Voice Solution,Closed Won,Yes,1476335,Manager E,Hyderabad,02-04-2026
+ACC0370,Referral,Voice Solution,Closed Won,No,587800,Manager B,Hyderabad,06-05-2026
+ACC0371,LinkedIn,Voice Solution,Closed Won,No,2064364,Manager F,Bangalore,31-12-2025
+ACC0372,LinkedIn,Sherpa AI,Closed Lost,No,1524558,Manager C,Hyderabad,03-02-2026
+ACC0373,Partner,Sherpa AI,Proposal,Yes,1841240,Manager D,Bangalore,11-12-2025
+ACC0374,Event,Voice Solution,Closed Lost,Yes,1591069,Manager B,Mumbai,27-03-2026
+ACC0375,Outbound,Voice Solution,Closed Won,No,2016388,Manager F,Chennai,04-07-2026
+ACC0376,Referral,Voice Solution,Closed Won,Yes,1476850,Manager F,Chennai,12-03-2026
+ACC0377,Inbound,Voice Solution,Qualified,No,2290157,Manager A,Bangalore,03-03-2026
+ACC0378,LinkedIn,Voice Solution,Closed Lost,Yes,512655,Manager D,Bangalore,23-03-2026
+ACC0379,Inbound,Sherpa AI,Proposal,Yes,2026750,Manager B,Mumbai,01-05-2026
+ACC0380,Event,Sherpa AI,Closed Won,Yes,551436,Manager B,Hyderabad,11-05-2026
+ACC0381,LinkedIn,Sherpa AI,Qualified,No,802145,Manager C,Mumbai,26-05-2026
+ACC0382,Inbound,Voice Solution,Demo,Yes,304390,Manager A,Chennai,19-06-2026
+ACC0383,Partner,Sherpa AI,Discovery,Yes,823556,Manager A,Chennai,22-11-2025
+ACC0384,Inbound,Sherpa AI,Discovery,Yes,1393965,Manager F,Pune,19-01-2026
+ACC0385,Partner,Voice Solution,Qualified,Yes,1810025,Manager F,Hyderabad,10-03-2026
+ACC0386,Referral,Voice Solution,Closed Won,Yes,2399078,Manager B,Chennai,25-12-2025
+ACC0387,Event,Voice Solution,Qualified,Yes,2226552,Manager C,Pune,05-01-2026
+ACC0388,Outbound,Voice Solution,Demo,No,1295053,Manager B,Bangalore,15-06-2026
+ACC0389,Inbound,Sherpa AI,Discovery,Yes,2249915,Manager E,Chennai,26-11-2025
+ACC0390,LinkedIn,Voice Solution,Proposal,No,1353246,Manager F,Delhi,11-07-2026
+ACC0391,Event,Voice Solution,Discovery,No,993242,Manager E,Hyderabad,16-05-2026
+ACC0392,Inbound,Voice Solution,Discovery,Yes,2307107,Manager C,Pune,10-03-2026
+ACC0393,LinkedIn,Voice Solution,Proposal,Yes,1503857,Manager B,Hyderabad,01-07-2026
+ACC0394,LinkedIn,Sherpa AI,Negotiation,No,1036834,Manager F,Hyderabad,31-05-2026
+ACC0395,Outbound,Voice Solution,Qualified,Yes,836626,Manager C,Delhi,09-05-2026
+ACC0396,Outbound,Sherpa AI,Discovery,Yes,1562983,Manager B,Mumbai,14-06-2026
+ACC0397,LinkedIn,Voice Solution,Discovery,Yes,1258178,Manager B,Bangalore,04-07-2026
+ACC0398,Outbound,Voice Solution,Closed Lost,No,1971648,Manager E,Hyderabad,26-12-2025
+ACC0399,LinkedIn,Voice Solution,Demo,Yes,738412,Manager D,Chennai,25-12-2025
+ACC0400,Inbound,Sherpa AI,Proposal,No,346921,Manager A,Bangalore,02-04-2026
+ACC0401,Referral,Voice Solution,Discovery,No,1054192,Manager F,Chennai,23-12-2025
+ACC0402,Outbound,Voice Solution,Proposal,Yes,1875165,Manager A,Bangalore,19-02-2026
+ACC0403,Partner,Voice Solution,Qualified,Yes,1388900,Manager C,Bangalore,23-05-2026
+ACC0404,Partner,Voice Solution,Qualified,Yes,1502744,Manager A,Pune,20-02-2026
+ACC0405,Partner,Sherpa AI,Proposal,Yes,2352346,Manager E,Chennai,16-07-2026
+ACC0406,Referral,Voice Solution,Demo,Yes,1845160,Manager D,Chennai,16-11-2025
+ACC0407,LinkedIn,Voice Solution,Qualified,Yes,325612,Manager F,Bangalore,15-04-2026
+ACC0408,LinkedIn,Voice Solution,Negotiation,Yes,473555,Manager B,Hyderabad,07-04-2026
+ACC0409,Event,Sherpa AI,Closed Lost,Yes,142262,Manager B,Chennai,07-07-2026
+ACC0410,Partner,Voice Solution,Demo,Yes,2178237,Manager E,Delhi,30-04-2026
+ACC0411,Partner,Sherpa AI,Negotiation,No,206435,Manager F,Delhi,10-05-2026
+ACC0412,LinkedIn,Sherpa AI,Closed Lost,Yes,789286,Manager A,Bangalore,19-03-2026
+ACC0413,Partner,Voice Solution,Closed Won,No,743606,Manager B,Mumbai,17-01-2026
+ACC0414,LinkedIn,Voice Solution,Proposal,Yes,2184281,Manager A,Bangalore,20-12-2025
+ACC0415,LinkedIn,Voice Solution,Negotiation,Yes,492278,Manager E,Bangalore,24-01-2026
+ACC0416,Outbound,Sherpa AI,Qualified,Yes,453082,Manager B,Hyderabad,02-05-2026
+ACC0417,LinkedIn,Voice Solution,Proposal,Yes,1638971,Manager C,Hyderabad,02-05-2026
+ACC0418,Inbound,Voice Solution,Discovery,Yes,1403511,Manager D,Pune,04-11-2025
+ACC0419,Inbound,Sherpa AI,Discovery,No,476140,Manager A,Mumbai,19-02-2026
+ACC0420,Inbound,Voice Solution,Demo,No,1209897,Manager F,Mumbai,09-07-2026
+ACC0421,Inbound,Voice Solution,Qualified,Yes,635814,Manager A,Mumbai,13-03-2026
+ACC0422,Referral,Voice Solution,Negotiation,Yes,863871,Manager A,Mumbai,08-02-2026
+ACC0423,Event,Voice Solution,Demo,Yes,584780,Manager A,Mumbai,21-04-2026
+ACC0424,Event,Voice Solution,Proposal,Yes,1830645,Manager E,Bangalore,27-02-2026
+ACC0425,LinkedIn,Voice Solution,Qualified,Yes,207535,Manager E,Bangalore,24-04-2026
+ACC0426,Partner,Sherpa AI,Qualified,Yes,115063,Manager F,Pune,30-11-2025
+ACC0427,Inbound,Voice Solution,Proposal,Yes,1677077,Manager E,Delhi,25-12-2025
+ACC0428,Event,Sherpa AI,Closed Lost,Yes,1957805,Manager F,Delhi,15-05-2026
+ACC0429,Event,Sherpa AI,Qualified,Yes,1381418,Manager F,Pune,11-12-2025
+ACC0430,Inbound,Voice Solution,Discovery,Yes,1233522,Manager E,Pune,22-04-2026
+ACC0431,Referral,Sherpa AI,Closed Won,Yes,713206,Manager B,Chennai,07-06-2026
+ACC0432,Referral,Voice Solution,Qualified,No,1172231,Manager E,Bangalore,27-05-2026
+ACC0433,Event,Sherpa AI,Closed Won,Yes,1637676,Manager B,Mumbai,07-04-2026
+ACC0434,Referral,Sherpa AI,Proposal,No,2340811,Manager C,Chennai,16-06-2026
+ACC0435,Outbound,Voice Solution,Demo,No,1957563,Manager E,Hyderabad,24-01-2026
+ACC0436,Inbound,Voice Solution,Discovery,No,1955247,Manager C,Bangalore,22-04-2026
+ACC0437,Event,Voice Solution,Discovery,No,1272017,Manager E,Pune,03-07-2026
+ACC0438,Inbound,Voice Solution,Discovery,No,1507858,Manager C,Delhi,22-04-2026
+ACC0439,Referral,Voice Solution,Closed Won,No,1459871,Manager D,Bangalore,31-05-2026
+ACC0440,Inbound,Voice Solution,Negotiation,Yes,1293283,Manager C,Pune,23-01-2026
+ACC0441,Referral,Sherpa AI,Negotiation,Yes,1332219,Manager B,Bangalore,22-04-2026
+ACC0442,Referral,Voice Solution,Closed Won,No,1805080,Manager A,Bangalore,02-05-2026
+ACC0443,Inbound,Sherpa AI,Discovery,No,1574491,Manager F,Bangalore,13-03-2026
+ACC0444,Referral,Sherpa AI,Negotiation,No,1502383,Manager C,Hyderabad,16-05-2026
+ACC0445,Outbound,Voice Solution,Proposal,No,1540564,Manager A,Delhi,25-11-2025
+ACC0446,LinkedIn,Sherpa AI,Closed Won,No,1422933,Manager D,Bangalore,21-03-2026
+ACC0447,Inbound,Voice Solution,Discovery,No,2214096,Manager D,Pune,11-06-2026
+ACC0448,LinkedIn,Voice Solution,Negotiation,No,2396893,Manager B,Hyderabad,20-11-2025
+ACC0449,Inbound,Sherpa AI,Closed Won,Yes,168947,Manager B,Chennai,05-07-2026
+ACC0450,Referral,Voice Solution,Demo,No,2232343,Manager C,Bangalore,20-05-2026
+ACC0451,Referral,Voice Solution,Qualified,No,347129,Manager E,Hyderabad,23-02-2026
+ACC0452,Event,Sherpa AI,Proposal,No,1400343,Manager D,Mumbai,08-05-2026
+ACC0453,Outbound,Sherpa AI,Demo,No,172264,Manager A,Chennai,26-11-2025
+ACC0454,Event,Sherpa AI,Negotiation,Yes,288996,Manager E,Delhi,24-12-2025
+ACC0455,LinkedIn,Sherpa AI,Closed Lost,Yes,2406561,Manager D,Bangalore,19-04-2026
+ACC0456,Referral,Voice Solution,Proposal,No,1510566,Manager C,Bangalore,11-11-2025
+ACC0457,Event,Voice Solution,Proposal,Yes,709251,Manager D,Hyderabad,27-11-2025
+ACC0458,Referral,Sherpa AI,Negotiation,Yes,1935980,Manager B,Delhi,22-01-2026
+ACC0459,Inbound,Voice Solution,Qualified,Yes,237693,Manager A,Mumbai,08-12-2025
+ACC0460,Event,Voice Solution,Discovery,No,322621,Manager A,Chennai,26-01-2026
+ACC0461,LinkedIn,Voice Solution,Closed Lost,No,288766,Manager B,Pune,05-04-2026
+ACC0462,Event,Sherpa AI,Negotiation,No,1989785,Manager E,Delhi,05-05-2026
+ACC0463,Referral,Voice Solution,Qualified,No,238426,Manager B,Bangalore,01-05-2026
+ACC0464,Partner,Sherpa AI,Discovery,Yes,2416983,Manager A,Hyderabad,23-03-2026
+ACC0465,Partner,Voice Solution,Negotiation,Yes,2321902,Manager C,Mumbai,25-05-2026
+ACC0466,Outbound,Voice Solution,Closed Won,Yes,1292198,Manager E,Hyderabad,22-03-2026
+ACC0467,Referral,Voice Solution,Closed Won,No,1405967,Manager F,Chennai,04-05-2026
+ACC0468,Inbound,Voice Solution,Discovery,Yes,1498916,Manager D,Delhi,29-06-2026
+ACC0469,Event,Sherpa AI,Closed Lost,No,1471105,Manager F,Hyderabad,08-11-2025
+ACC0470,Partner,Voice Solution,Proposal,Yes,2162645,Manager C,Pune,11-01-2026
+ACC0471,Inbound,Voice Solution,Negotiation,Yes,916700,Manager F,Pune,03-02-2026
+ACC0472,Referral,Voice Solution,Proposal,No,1144332,Manager E,Hyderabad,06-04-2026
+ACC0473,Inbound,Voice Solution,Qualified,Yes,605871,Manager A,Bangalore,11-12-2025
+ACC0474,Referral,Voice Solution,Closed Lost,No,2157956,Manager A,Hyderabad,04-04-2026
+ACC0475,Outbound,Voice Solution,Qualified,Yes,548250,Manager C,Mumbai,03-04-2026
+ACC0476,Event,Sherpa AI,Discovery,Yes,1739922,Manager F,Delhi,23-12-2025
+ACC0477,Inbound,Sherpa AI,Closed Won,Yes,158175,Manager E,Chennai,28-04-2026
+ACC0478,Event,Voice Solution,Negotiation,Yes,1181905,Manager D,Pune,28-06-2026
+ACC0479,Inbound,Voice Solution,Closed Won,No,2135156,Manager F,Hyderabad,17-03-2026
+ACC0480,Referral,Voice Solution,Proposal,Yes,527463,Manager F,Mumbai,13-07-2026
+ACC0481,Referral,Voice Solution,Demo,Yes,2465973,Manager D,Pune,12-06-2026
+ACC0482,Inbound,Sherpa AI,Closed Lost,Yes,1079314,Manager B,Pune,29-04-2026
+ACC0483,Outbound,Sherpa AI,Qualified,Yes,2247509,Manager C,Chennai,01-05-2026
+ACC0484,Referral,Voice Solution,Closed Won,No,1204388,Manager E,Pune,17-07-2026
+ACC0485,LinkedIn,Sherpa AI,Discovery,Yes,665904,Manager C,Mumbai,01-07-2026
+ACC0486,LinkedIn,Voice Solution,Closed Won,Yes,1595270,Manager D,Pune,04-02-2026
+ACC0487,Event,Voice Solution,Qualified,No,285128,Manager E,Pune,16-05-2026
+ACC0488,LinkedIn,Voice Solution,Proposal,Yes,584699,Manager A,Hyderabad,14-11-2025
+ACC0489,LinkedIn,Voice Solution,Closed Won,Yes,310128,Manager A,Hyderabad,28-02-2026
+ACC0490,Outbound,Sherpa AI,Proposal,Yes,1737026,Manager E,Delhi,20-04-2026
+ACC0491,Outbound,Voice Solution,Negotiation,No,1302453,Manager C,Bangalore,11-01-2026
+ACC0492,Partner,Voice Solution,Closed Won,No,906575,Manager C,Mumbai,28-04-2026
+ACC0493,Partner,Sherpa AI,Negotiation,No,2344241,Manager A,Bangalore,19-04-2026
+ACC0494,Outbound,Sherpa AI,Closed Lost,No,1604994,Manager A,Bangalore,08-04-2026
+ACC0495,Partner,Sherpa AI,Demo,Yes,141713,Manager D,Pune,03-04-2026
+ACC0496,Outbound,Sherpa AI,Discovery,No,415410,Manager E,Chennai,21-01-2026
+ACC0497,Partner,Voice Solution,Qualified,Yes,776560,Manager C,Chennai,27-12-2025
+ACC0498,Referral,Sherpa AI,Discovery,No,2335412,Manager D,Pune,07-11-2025
+ACC0499,Outbound,Sherpa AI,Qualified,Yes,1536953,Manager C,Mumbai,20-02-2026
+ACC0500,Event,Sherpa AI,Proposal,Yes,2462104,Manager A,Bangalore,18-12-2025
